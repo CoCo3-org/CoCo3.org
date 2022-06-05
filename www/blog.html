@@ -33,19 +33,37 @@
 				</ul>
 			</div>
 
+			<p>6/4/2022 – <strong>Is FPGA Emulation?</strong></p>
+
+			<p>Before we get into FPGA -vs- Software Emulation we need to talk about whether or not FPGA is emulation when re-creating a system.  If the device is truly a “clone” of another device it's re-creating and 100% compatible with it, then I am going to say NO, it's not emulation.  Back in the day (and still today for that matter) we had PC clones – not PC Emulators.</p>
+
+			<p>Here is the way I see it, take a CoCo3 motherboard, now re-create that motherboard using FPGA technology and recreate the analogue circuits with compatible parts such as D/A (sound) or op-amps (I think there are some on the CoCo3? For argument sake pretend it does if it doesn't), etc... and place the same I/O connections such as the cartridge port, joysticks port, cassette port, serial port, composite and RGB video output etc.  Now you can take all your old cartridges the MPI, disk-drive controllers, printers, joysticks CM8 monitor, and boot DECB and it runs identical to a CoCo3.  What you have is a CoCo3 “clone” not an emulation.  EVEN if you have added improvements, faster CPU, more graphic modes, etc… as long as it remains backward 100% hardware and software compatible it is for all practical purposes a modern day CoCo3.</p>
+
+			<p>Same thing goes for a PC motherboard. Recreate a PC motherboard using one of the standard sizes w/ standard power connectors with all the standard connections to the outside world, PCI slots, SATA, USB, etc... re-create everything else in an FPGA, including the CPU, chipset etc … if it is backwards compatible w/ say a 386 or 486, you have a PC clone, not an emulator.</p>
+
+			<p>Now take the DE10-Nano w/ the current MiSTer I/O boards, or take the CoCo3FPGA that runs on a Terasic DE1 (I would say even w/ the Analogue Board) these are Hardware Emulators. They are not cloning the entire system. I can't plug an MPI into the CoCo3FPGA or MiSTer running a CoCo3 core. Granted, some of these are a close call. Some of the arcades and others on the MiSTer are virtually indistinguishable with the real thing, nonetheless – I still say they are emulating, and not a an actual clone.</p>
+
+			<p>There is a gray area where some things could be referred to as either.  There is a fine-line where something is an emulation versus being a clone (or a re-creation).</p>
+
+			<p>I am going to say though that most of the time when we are talking about FPGA recreations of retro systems we are in fact talking about hardware emulation and not clones. Because they generally "emulate" the I/O devices of the original system. The MIST, the MiSTer, the CoCo3FPGA, Roger's Matchbox CoCo and others are indeed hardware emulators.</p> 
+			
+			<p>Some commercial offerings might actually be closer to being clones, however since I have not researched them or owned one, I am not going to opine on them.</p>
+
+			<hr id="B2" />
+
 			<p>6/1/2022 – <strong>FPGA's: what are they?</strong> (Hint: they are NOT software)</p>
 
-			<p>FPGA’s stands for Field Programmable Gate Array.  They are in essence (re-)configurable digital logic chips.  To use an FPGA you design a “digital logic circuit” and then you upload that circuit to the FPGA chip.  Therefore to fully understand what they are you must first understand what a digital circuit is.</p>
+			<p>FPGA's stands for Field Programmable Gate Array.  They are in essence (re-)configurable digital logic chips.  To use an FPGA you design a “digital logic circuit” and then you upload that circuit to the FPGA chip.  Therefore to fully understand what they are you must first understand what a digital circuit is.</p>
 
 			<p>Configuring an FPGA device is sometimes referred to as “FPGA programming”.  You see that term used everywhere; in articles, on book covers, etc.  That is somewhat of a misnomer since the term programming has long been established to refer to programming a computer CPU w/ software. It is NOT the same thing as programming a CPU or a microcontroller.  However since configuring a FPGA with a digital circuit using source code looks a lot like software programming and the process of uploading a circuit closely resembles compiling and running a software program, then the term has stuck. I even use the term myself. But for end users of the technology it can be confusing.</p>
 
 			<p>What can you do with a FPGA? You can do anything that can be done w/ a digital circuit.  You can create dedicated circuit like a signal or digital image processor that performs many computations in parallel, or you can create a custom CPU or re-create the functionality of outdated and difficult to find hardware, such as retro computers, consoles or arcade games -- hence the primary use for us hobbyists.</p>
 
-			<p>FPGA’s are a blank slate, they are like Legos for digital electronics.  They are indeed programmable hardware in the sense that you can program any digital circuit into them and they become that circuit.</p>
+			<p>FPGA's are a blank slate, they are like Legos for digital electronics.  They are indeed programmable hardware in the sense that you can program any digital circuit into them and they become that circuit.</p>
 
-			<p>FPGA’s are configured using one of the HDL languages.  The two industry standard ones are Verilog and VHDL.  These are the languages that the tools for configuring an FPGA use.  And the two most popular FPGA vendors are Intel (used to be Altera) and Xilinx.  There are some higher abstraction HDL languages that then get converted to Verilog or VHDL.  The two I am familiar with are MyHDL and Chisel.</p>
+			<p>FPGA's are configured using one of the HDL languages.  The two industry standard ones are Verilog and VHDL.  These are the languages that the tools for configuring an FPGA use.  And the two most popular FPGA vendors are Intel (used to be Altera) and Xilinx.  There are some higher abstraction HDL languages that then get converted to Verilog or VHDL.  The two I am familiar with are MyHDL and Chisel.</p>
 
-			<hr />
+			<hr id="B1" />
 
 			<p>5/30/2022 – <strong>Ideas!</strong></p>
 
