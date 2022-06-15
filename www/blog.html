@@ -33,6 +33,28 @@
 				</ul>
 			</div>
 
+			<p>6/14/2022 – <strong>FPGA -vs- Software Emulation</strong></p>
+
+			<p>This question comes up quite often, especially in the <a href="https://www.facebook.com/groups/1870135613286506/">MiSTer Facebook</a> group.</p>
+
+			<p>The biggest difference between the two really boils down to emulation <strong>fidelity</strong>.  Typically a software emulator attempts to approximate a system as close as possible whereas an FPGA emulation attempts to create a precise reproduction of a system.</p> 
+
+			<p>The difference between the two can become blurry in some circumstances, and there can be a fine-line between them under certain conditions.</p>
+
+			<p>When we use the term emulator (and we really mean software emulator) we are usually talking about the plethora of emulators out there that run on one of the 3 main operating systems; Windows, Linux, or MacOS.  And this is the software emulation this article is referring to.</p> 
+
+			<p>There are some software emulations that are designed to be as precise as an FPGA emulation.  These are not run under any operating system at all but instead are written to run on bare metal. For example <a href="https://github.com/michalsc/Emu68">Emu68</a> on the <a href="https://pistorm.neocities.org/">PiStorm</a>.  In essence FPGA does not have a performance advantage over these and instead is possibly at a disadvantage due to raw clock speed.  These are not the software emulators we are talking about.</p> 
+
+			<p>So what creates a high-fidelity emulation?  Emulating at the hardware clock level.  It’s all about how precise the timing is.  A software emulator running under any of the main OS’s is at the mercy of the OS for its timing.  These main OS’s are not real-time so therefore you are never guaranteed that something will happen at precisely an exact interval.  Even at 60 times a second (which is a common video refresh rate), or every 0.016667 of a second (16.6666667 milliseconds) your going to have some slop. Where as an FPGA is working at a hardware digital level where you use clocks for exact timing w/ no slop whatsoever.  60Hz is just one example. There are other timings like the CPU clock and sound chip clocks, etc...</p>
+
+			<p>So timing is really the #1 difference between software and FPGA emulation.   And reading the controllers / joysticks and updating the video screen are the two most noticeable areas for lag when it comes to software emulators.</p>
+
+			<p>We can generalize too by saying that typically a software emulator is cutting corners and presenting an output to the user that attempts to match that of the system. Usually it’s not emulating internal processes that would go unnoticed in the output.  Whereas an FPGA re-creation attempts to reproduce the actual circuits that make a system, usually from a schematic of the system or from reverse engineering the system. I would go as far to say that software emulators are actually “simulators”. But that is the topic for another blog.</p>
+
+			<p>In summary, software emulation can be good enough or even very good but hardly perfect.  Some of MAME’s emulations are very, very good rivaling that of the MiSTer. But FPGA if done right, can be the closest thing you can get a clone/replica of a system, with the behavior matching cycle by cycle, pixel by pixel exactly as the system would.</p>      
+
+			<hr id="B3" />
+
 			<p>6/4/2022 – <strong>Is FPGA Emulation?</strong></p>
 
 			<p>Before we get into FPGA -vs- Software Emulation we need to talk about whether or not FPGA is emulation when re-creating a system.  If the device is truly a “clone” of another device it's re-creating and 100% compatible with it, then I am going to say NO, it's not emulation.  Back in the day (and still today for that matter) we had PC clones – not PC Emulators.</p>
