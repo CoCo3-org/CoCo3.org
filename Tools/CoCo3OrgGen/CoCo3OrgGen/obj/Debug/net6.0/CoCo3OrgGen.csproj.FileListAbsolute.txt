@@ -1,0 +1,15 @@
+C:\Temp\CoCo3OrgGen\CoCo3OrgGen\bin\Debug\net6.0\CoCo3OrgGen.exe
+C:\Temp\CoCo3OrgGen\CoCo3OrgGen\bin\Debug\net6.0\CoCo3OrgGen.deps.json
+C:\Temp\CoCo3OrgGen\CoCo3OrgGen\bin\Debug\net6.0\CoCo3OrgGen.runtimeconfig.json
+C:\Temp\CoCo3OrgGen\CoCo3OrgGen\bin\Debug\net6.0\CoCo3OrgGen.dll
+C:\Temp\CoCo3OrgGen\CoCo3OrgGen\bin\Debug\net6.0\CoCo3OrgGen.pdb
+C:\Temp\CoCo3OrgGen\CoCo3OrgGen\obj\Debug\net6.0\CoCo3OrgGen.csproj.AssemblyReference.cache
+C:\Temp\CoCo3OrgGen\CoCo3OrgGen\obj\Debug\net6.0\CoCo3OrgGen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\CoCo3OrgGen\CoCo3OrgGen\obj\Debug\net6.0\CoCo3OrgGen.AssemblyInfoInputs.cache
+C:\Temp\CoCo3OrgGen\CoCo3OrgGen\obj\Debug\net6.0\CoCo3OrgGen.AssemblyInfo.cs
+C:\Temp\CoCo3OrgGen\CoCo3OrgGen\obj\Debug\net6.0\CoCo3OrgGen.csproj.CoreCompileInputs.cache
+C:\Temp\CoCo3OrgGen\CoCo3OrgGen\obj\Debug\net6.0\CoCo3OrgGen.dll
+C:\Temp\CoCo3OrgGen\CoCo3OrgGen\obj\Debug\net6.0\refint\CoCo3OrgGen.dll
+C:\Temp\CoCo3OrgGen\CoCo3OrgGen\obj\Debug\net6.0\CoCo3OrgGen.pdb
+C:\Temp\CoCo3OrgGen\CoCo3OrgGen\obj\Debug\net6.0\CoCo3OrgGen.genruntimeconfig.cache
+C:\Temp\CoCo3OrgGen\CoCo3OrgGen\obj\Debug\net6.0\ref\CoCo3OrgGen.dll

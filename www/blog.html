@@ -45,9 +45,9 @@
 
 			<p>There are some software emulations that are designed to be as precise as an FPGA emulation.  These are not run under any operating system at all but instead are written to run on bare metal. For example <a href="https://github.com/michalsc/Emu68">Emu68</a> on the <a href="https://pistorm.neocities.org/">PiStorm</a>.  In essence FPGA does not have a performance advantage over these and instead is possibly at a disadvantage due to raw clock speed.  These are not the software emulators we are talking about.</p> 
 
-			<p>So what creates a high-fidelity emulation?  Emulating at the hardware clock level.  It’s all about how precise the timing is.  A software emulator running under any of the main OS’s is at the mercy of the OS for its timing.  These main OS’s are not real-time so therefore you are never guaranteed that something will happen at precisely an exact interval.  Even at 60 times a second (which is a common video refresh rate), or every 0.016667 of a second (16.6666667 milliseconds) your going to have some slop. Where as an FPGA is working at a hardware digital level where you use clocks for exact timing w/ no slop whatsoever.  60Hz is just one example. There are other timings like the CPU clock and sound chip clocks, etc...</p>
+			<p>So what creates a high-fidelity emulation?  Emulating at the hardware clock level.  It’s all about how precise the timing is.  A software emulator running under any of the main OS’s is at the mercy of the OS for its timing.  These main OS’s are not real-time so therefore you are never guaranteed that something will happen at precisely an exact interval.  Even at 60 times a second (which is a common video refresh rate), or every 0.016667 of a second (16.6666667 milliseconds) your going to have some slop. Whereas an FPGA is working at a hardware digital level where you use clocks for exact timing w/ no slop whatsoever.  60Hz is just one example. There are other timings like the CPU clock and sound chip clocks, etc...</p>
 
-			<p>So timing is really the #1 difference between software and FPGA emulation.   And reading the controllers / joysticks and updating the video screen are the two most noticeable areas for lag when it comes to software emulators.</p>
+			<p>So timing is really the #1 difference between software and FPGA emulation.   And reading the controllers / joysticks and updating the video screen are the two most noticeable areas for <strong>lag</strong> (or other imprecise timming) when it comes to software emulators.</p>
 
 			<p>We can generalize too by saying that typically a software emulator is cutting corners and presenting an output to the user that attempts to match that of the system. Usually it’s not emulating internal processes that would go unnoticed in the output.  Whereas an FPGA re-creation attempts to reproduce the actual circuits that make a system, usually from a schematic of the system or from reverse engineering the system. I would go as far to say that software emulators are actually “simulators”. But that is the topic for another blog.</p>
 
@@ -87,22 +87,33 @@
 
 			<hr id="B1" />
 
-			<p>5/30/2022 – <strong>Ideas!</strong></p>
+			<p>5/30/2022 – <strong>Ideas!</strong> (updated: 7/2/2022)</p>
 
 			<p>These are some ideas and plans for future blog entries.</p>
 			<ul>
-				<li>My First CoCo</li>
+				<li>My First CoCo (About Me! in English and Portuguese)</li>
 				<li>CMOC Programming on the CoCo</li>
 				<li>MC6809 / HD6309 Assembly Language Programming</li>
-				<li>Enjoying the hobby w/ Real Hardware and/or Emulation or primarily Collecting.</li>
-				<li><strike>FPGA's: what are they?</strike> FPGA -vs- Software Emulation</li>
+				<li>I once owned an Apple IIe (clone)</li>
+				<li>My nostalgia for the NES</li>
+				<li>I once owned a GameBoy</li>
+				<li>My (perceived) connection to the MSX computers</li>
+				<li>Enjoying the hobby w/ Real Hardware and/or FPGA/Software Emulation or primarily Collecting.</li>
+				<li><strike>FPGA's: what are they?</strike></li>
+				<li><strike>Is FPGA Emulation?</strike></li>
+				<li><strike>FPGA -vs- Software Emulation</strike></li>
+				<li>Simulation -vs- Emulation</li>
 				<li>Learning FPGA/HDL Series</li>
 				<li>Learning Electronics Series</li>
 				<li>The CoCo Extension BUS</li>
 				<li>Using KiCAD</li>
 				<li>Using FreeCAD</li>
 				<li>The Case for Open-Source</li>
+				<li>When is a CoCo not a CoCo?</li>
 				<li>The CoCo IV (or V)</li>
+				<li>6809 SBC's</li>
+				<li>Z80 SBC's</li>
+				<li>6502 SBC's</li>
 			</ul>
 
 		</div>
