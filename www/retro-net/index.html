@@ -33,6 +33,60 @@
 				</ul>
 			</div>
 
+			<p>7/3/2022 2:20 AM: – We need to <strong>locate our tools</strong>: I am going w/ the latest and greatest Visual Studio 2022 Community Edition.</p>
+			
+			<p>On my computer:</p> 
+			
+			<p>The C# command line compiler is at<br/> 
+			<code>"C:\Program Files\Microsoft Visual Studio\2022\Community\Msbuild\Current\Bin\Roslyn\csc.exe"</code>
+			<br/><br/>
+			The ILDASM is at<br/> 
+			<code>"C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\ildasm.exe"</code> 
+			<br/><br/>
+			The ILASM was found at<br/> 
+			<code>"C:\Windows\Microsoft.NET\Framework\v4.0.30319\ilasm.exe"</code></p>
+
+			<p>Now we make environment variables out of them: note the quotes around the two paths that have spaces in them!</p>
+
+			<img src="Images/environment.png" width="737" height="210" border="0" alt="">
+
+			<p>Now when we want to run these from the command line or in a script we can just use the environment variable name.</p>
+
+			<code>
+			C:\Jar>%VS_CSC% /?<br/>
+			Microsoft (R) Visual C# Compiler version 4.2.0-4.22252.24 (47cdc16a)<br/>
+			Copyright (C) Microsoft Corporation. All rights reserved.<br/>
+			<br/>
+			C:\Jar>%VS_ILDASM% /?<br/>
+			Microsoft (R) .NET Framework IL Disassembler.  Version 4.8.3928.0<br/>
+			Copyright (c) Microsoft Corporation.  All rights reserved.<br/>
+			<br/>
+			C:\Jar>%VS_ILASM% /?<br/>
+			Microsoft (R) .NET Framework IL Assembler version 4.8.4161.0<br/>
+			Copyright (c) Microsoft Corporation.  All rights reserved.<br/>
+			</code>
+
+			<p>Alternately, we could put those paths in our system PATH environment variable.</p>
+
+			<hr id="B2" />
+
+			<p>7/2/2022 8:30 PM: – <strong>The Plan</strong></p>
+
+			<p>Starting w/ “Hello World” systematically make all parts work for each target.</p>
+
+			<p>At first concentrate on 4 target systems…  later we will add more.</p>
+
+			<ul>
+				<li><strong>Interpreter Target</strong>.  This is our own .NET Engine written in C#.  It is for our own understanding of how the IL byte codes work. If we are able to interpret them then we should be able to write assembly code that does the same thing in the target CPU’s.  In the end the interpreter could also possibly be used as an interactive development tool if we implement the retro libraries and emulate those systems. The interpreter will not be written for efficiency, but for documenting how the byte codes are supposed to work.</li>
+				<li><strong>The 6x09 Target</strong> (CoCo1&2,3)</li>
+				<li><strong>The 6803 Target</strong> (MC-10)</li>
+				<li><strong>The Z80 Target</strong> (MSX)</li>
+			</ul>
+
+			<p>Then we build on Hello World code and keep adding more and more functionality which will add more IL byte codes that we need to implement in all four targets above.
+
+			<hr id="B1" />
+
 			<p>6/15/2022 – <strong>Retro.NET</strong></p>
 
 			<p>The goal is to create an Ahead-of-Time (AoT) compiler for the .NET byte code <strong><a href="https://en.wikipedia.org/wiki/Common_Intermediate_Language">Common Intermediate Language</a></strong> (CIL) (formerly called MSIL) for retro 8 and 16 bit CPU’s.  It’s a lofty goal, but to keep it simple we are not going to be using ANY of the .NET libraries other than a subset of the Console library.  Therefore a person will not be able to just grab any source code or .NET executable and compile it for a retro computer.  Instead I plan on having separate libraries that are optimized for the old 8 & 16 bit computers.</p>
