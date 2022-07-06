@@ -33,6 +33,14 @@
 				</ul>
 			</div>
 
+			<p>7/4/2022 6:35 PM: – I can’t help but add an <strong>emulation layer</strong> for each of the <strong>CPU</strong>’s that Retro.NET will target. That is a lot of work, but I believe that in the long run it will save me time.</p>  
+			
+			<p>Here’s why; it’s not easy testing the code that is generated.  It’s not easy to do it manually, let alone in automated tests. You have to load an emulator, then you have to load the program you have generated, then you have to run the program and finally you have to compare the results with what you were expecting. That is a drawn out process to do it manually, you will spend a lot of time doing just that. To do that using automated integration testing on multiple emulators is virtually impossible. I’d rather create an emulation layer that is integrated and then all the testing can be automated. Then we can add whatever custom tools we need in the emulation like cycle counting and profiling, etc…</p>
+
+			<p>So decision made, I will be adding an emulator to each of the CPU targets.</p>
+
+			<hr id="B3" />
+
 			<p>7/3/2022 2:20 AM: – We need to <strong>locate our tools</strong>: I am going w/ the latest and greatest Visual Studio 2022 Community Edition.</p>
 			
 			<p>On my computer:</p> 
