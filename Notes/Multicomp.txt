@@ -1,0 +1,16 @@
+
+Spins of Grant Searle's MultiComp project on various hardware
+https://github.com/douggilliland/MultiComp
+https://github.com/douggilliland/MultiComp
+
+Port of Grant Searle's MultiComp to the MiSTer
+https://github.com/MiSTer-devel/MultiComp_MiSTer
+
+Software and modifications for Grant Searle's multicomp FPGA design, 
+mostly focussed towards the 6809 variant: 
+Forth (CamelForth), FLEX, CUBIX, NITROS9, FUZIX and the exec09 emulator.
+https://github.com/nealcrook/multicomp6809
+
+Building a MultiComp-based Z80
+https://jeelabs.org/book/1550b/index.html
+
