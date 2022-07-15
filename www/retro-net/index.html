@@ -34,8 +34,16 @@
 			</div>
 
 			<div style="width:220px;margin:5px;padding:0px 10px 0px 10px;float:right;border-style:dotted;border-color:blue;">
+				<p><strong><a href="https://github.com/CoCo3-org/Retro.NET">GitHub</a></strong> / <strong><a href="https://github.com/CoCo3-org/Retro.NET/commits/master">commits</a></strong></p>
+
 				<p>My plan (and hope) is to have a <strong>Version 1.0</strong> release ready for the next <strong>CoCo Fest 2023</strong>.  It would be cool if I could make it, but this far out not sure I will be able to.  Perhaps by January 2023 I will know if I can make it or not and make plans accordingly.</p>
 			</div>
+
+			<p>7/14/2022 10:00 PM: – I am still looking over some open source CPU emulators.  There are a many!  I’ll get there.</p>  
+			
+			<p>In the mean time I am going to take the approach that for each target CPU code generation I need <strong>a class for each and every opcode / instruction</strong>.  Instead of creating a plain text file w/ the assembly language in it.  In essence each line will be an instruction class instance of that very opcode.  I feel like with that extra layer of structure I will be able to do things and keep track of stuff more efficiently.  I mean where do you put the code for tracking each register being used, etc … also, it might be possible to create a second or more passes just at the assembly opcode/instruction level to optimize the generated code.  We will see if that works out.  I am generating all the instruction / opcode classes instead of creating them manually.</p>
+
+			<hr id="B4" />
 
 			<p>7/4/2022 6:35 PM: – I can’t help but add an <strong>emulation layer</strong> for each of the <strong>CPU</strong>’s that Retro.NET will target. That is a lot of work, but I believe that in the long run it will save me time.</p>  
 			
