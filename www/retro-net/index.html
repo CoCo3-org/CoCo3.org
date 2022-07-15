@@ -43,6 +43,10 @@
 			
 			<p>In the mean time I am going to take the approach that for each target CPU code generation I need <strong>a class for each and every opcode / instruction</strong>.  Instead of creating a plain text file w/ the assembly language in it.  In essence each line will be an instruction class instance of that very opcode.  I feel like with that extra layer of structure I will be able to do things and keep track of stuff more efficiently.  I mean where do you put the code for tracking each register being used, etc … also, it might be possible to create a second or more passes just at the assembly opcode/instruction level to optimize the generated code.  We will see if that works out.  I am generating all the instruction / opcode classes instead of creating them manually.</p>
 
+			<hr id="B5" />
+
+			<p>7/7/2022 6:50 AM: – There has been an absolute explosion of CPU emulators written in the last few years. I am searching through <strong>open source CPU emulators</strong> to see what is available that might be a good fit for what I need, which primarily means written in C#. Secondarily it needs to be straight-forward and easy to re-use / integrate. I’ve already located 10 possibilities just for the Z80. One that stands out is: <strong><a href="https://github.com/MoleskiCoder/EightBitNet">Collection of eight-bit processor emulators</a></strong> (for various projects). Not only is the 6809 one of the CPU’s there's also the Z80, M6502 & i8080. Looks promising. I will research the others I came across as well for more insight, and possibly better fit.</p>
+
 			<hr id="B4" />
 
 			<p>7/4/2022 6:35 PM: – I can’t help but add an <strong>emulation layer</strong> for each of the <strong>CPU</strong>’s that Retro.NET will target. That is a lot of work, but I believe that in the long run it will save me time.</p>  
