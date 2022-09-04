@@ -1,14 +1,18 @@
 <!doctype html>
-<html>
+<html lang="en">
 <head>
+	<meta charset="UTF-8">
 	<title>CoCo3.org -- Projects</title>
-	<style type="text/css"> 
+	<meta name="Author" content="James Ross" />
+	<meta name="Description" content="Tandy / TRS-80 Color Computer (CoCo, CoCo2, CoCo3) and other Retro Computers (MSX, NES, SWTPC). Retro Projects, Retro Programming, Retro and modern Electronics and FGPA programming" />
+
+	<style type="text/css">
 		body { font-family:tahoma,arial,helvetica; font-size:14px; }
 		h1 { font-weight:bold; font-size:16px; }
 		h2 { font-weight:bold; font-size:14px; }
 		div#navbar { height:26px; border-top:solid #000 1px; border-bottom:solid #000 1px; }
-		div#navbar ul {	margin:0px; padding:0px; font-weight:bold; line-height:26px; white-space:nowrap; text-align:center; }
-		div#navbar li {	list-style-type:none; display:inline; color:#B8B8B8; }
+		div#navbar ul { margin:0px; padding:0px; font-weight:bold; line-height:26px; white-space:nowrap; text-align:center; }
+		div#navbar li { list-style-type:none; display:inline; color:#B8B8B8; }
 		div#navbar li a { text-decoration:none; padding:8px; }
 		div#navbar li a:link { color:#808080; }
 		div#navbar li a:visited { color:#808080; }
@@ -19,11 +23,11 @@
 <body>
 	<form id="form1">
 		<div style="padding:20px; width:800px;">
-			
+
 			<a href="http://www.6809.org.uk/twilight/sock/">
-				<img style="margin:10px; float:left;" src="images/coco6.gif" width="179" height="96" alt="" />
+				<img style="margin:10px; float:left;" src="images/coco6.gif" width="179" height="96" />
 			</a>
-			
+
 			<div id="navbar">
 				<ul>
 					<li><a href="index.html">Home</a></li>
@@ -36,7 +40,21 @@
 
 			<div style="border-style:dotted; border-color:green; margin:10px 0px 10px 0px; padding:5px"><span style="color:green">projects</span>: <strong><a href="electronics/index.html">Electronics</a></strong> | <strong><a href="fpga/index.html">FPGA</a></strong> | eStudio | <strong><a href="retro-net/index.html">Retro.NET</a></strong></div>
 
-			<p>8/13/2022 – <strong>New project Ideas</strong> – I still haven’t finished one of my short term projects yet but I am already thinking of new future projects.</p>
+			<p>9/3/2022 – <strong>More project Ideas</strong></p>
+
+			<ul>
+				<li class="marg8px">Re-engineer the CoCoSDC. I.e. make a clone at the API level w/o using inside information of the current CoCoSDC (since it’s not open-source and copyrighted). Make a though-the-hole version and an SMD version. Open Source it, allow any one to make it for themselves and/or sell it.</li>
+				<li class="marg8px">Make a mini-SWTPC clone using the MC6802 for the processor board.</li>
+				<li class="marg8px">Make a SWTPC emulated clone using either the ESP32 like the IMSAI 8080 replica or use the Raspberri Pi Pico (you could then switch between a 6800 SWTPC or a 6809 SWTPC)</li>
+				<li class="marg8px">Make a Cassette Tape Player emulator w/ a Raspberry Pi Pico to hook up to a MC-10 or CoCo.</li>
+				<li class="marg8px">Port Castlevania to the CoCo3</li>
+				<li class="marg8px">Port The Last Ninja to the CoCo3 at last once-for-all!</li>
+				<li class="marg8px">Create a SimCity clone for the CoCo3</li>
+			</ul>
+
+			<hr id="P3" />
+
+			<p>8/13/2022 – <strong>New Project Ideas</strong> – I still haven’t finished one of my short term projects yet but I am already thinking of new future projects.</p>
 
 			<ul>
 				<li class="marg8px">A CoCo cart w/ a Raspberry Pi Pico.  Use the Pico as a Co-processor for math or sound or anything else.</li>
