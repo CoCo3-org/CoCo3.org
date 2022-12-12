@@ -1,0 +1,65 @@
+<!doctype html>
+<html>
+<head>
+	<title>CoCo3.org -- Basic Logic Gates</title>
+	<style type="text/css"> 
+		body { font-family:tahoma,arial,helvetica; font-size:14px; }
+		h1 { font-weight:bold; font-size:16px; }
+		h2 { font-weight:bold; font-size:14px; }
+		div#navbar { height:26px; border-top:solid #000 1px; border-bottom:solid #000 1px; }
+		div#navbar ul {	margin:0px; padding:0px; font-weight:bold; line-height:26px; white-space:nowrap; text-align:center; }
+		div#navbar li {	list-style-type:none; display:inline; color:#B8B8B8; }
+		div#navbar li a { text-decoration:none; padding:8px; }
+		div#navbar li a:link { color:#808080; }
+		div#navbar li a:visited { color:#808080; }
+		div#navbar li a:hover { color:#FFFFFF; background-color:#C0C0C0; }
+	</style>
+</head>
+<body>
+	<form id="form1">
+		<div style="padding:20px; width:800px;">
+			
+			<a href="https://falstad.com/circuit/">
+				<img style="margin:10px; float:right;" src="images/falstad-not-gate.png" width="280" height="228" alt="" />
+			</a>
+			
+			<div id="navbar">
+				<ul>
+					<li><a href="../../index.html">Home</a></li>
+					<li><a href="../../blog.html">Blog</a></li>
+					<li><a href="../../projects.html">Projects</a></li>
+					<li><a href="../../links.html">Links</a></li>
+					<li><a href="../../about.html">About</a></li>
+				</ul>
+			</div>
+
+			<table style="width:62%; border-style:dotted; border-color:lightgray; margin:5px 0px 0px 0px;">
+			<tr>
+				<td align="left"><strong><a href="fundamental-gates.html">&lt;---</a></strong></td>
+				<td align="center"> [ <strong><a href="index.html">Contents</a></strong> ] </td>
+				<td align="right"><strong><a href="and-gate.html">---&gt;</a></strong></td>
+			</tr>
+			</table>
+
+			<p><strong>NOT Gate</strong></p>
+
+			<p>The NOT gate output <strong>inverts</strong> the level of the input. So if given a LOW (0) it will output a HIGH (1) and if given a HIGH (1) it will output a LOW (1). It's very simple to understand. We get the opposite level of the input in the output.</p> 
+
+			<a href="images/NOT_GATE.jpg">
+				<img style="margin:10px; float:left; width:40%" src="images/NOT_GATE.jpg" alt="" />
+			</a>
+
+			<p>By convention if a signal is inverted, then the name of the signal will have a bar over it. Which you can see in the handwritten logic equation at the bottom of the figure.</q> 
+
+			<p>It's used extensively to reverse an <strong>active</strong> logic level. For example many chips will have <strong>active low</strong> signals.  Which means to make the purpose of the signal active (turn ON) you must set the input to low. And to inactivate (turn OFF) the purpose of the signal you set the input to high.</p> 
+
+			<p>Also we commonly think of the LOW (0) level being equals to a <strong>FALSE</strong> condition and the HIGH (1) level being equal to a <strong>TRUE</strong> condition.</p>
+			<p>So that in the case of an inverter (or NOT gate) we are saying make the FALSE condition now be TRUE.  Or make the TRUE condition now be FALSE.</p>
+
+			<p>In Verilog and C like languages the bitwise NOT operator is the tilde:<br /> 
+			<big><code>&nbsp;&nbsp;<strong>Q = ~A</strong></code></big></p>
+		
+		</div>
+	</form>
+</body>
+</html>

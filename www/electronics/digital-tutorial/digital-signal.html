@@ -1,0 +1,80 @@
+<!doctype html>
+<html>
+<head>
+	<title>CoCo3.org -- Digital Signal</title>
+	<style type="text/css"> 
+		body { font-family:tahoma,arial,helvetica; font-size:14px; }
+		h1 { font-weight:bold; font-size:16px; }
+		h2 { font-weight:bold; font-size:14px; }
+		div#navbar { height:26px; border-top:solid #000 1px; border-bottom:solid #000 1px; }
+		div#navbar ul {	margin:0px; padding:0px; font-weight:bold; line-height:26px; white-space:nowrap; text-align:center; }
+		div#navbar li {	list-style-type:none; display:inline; color:#B8B8B8; }
+		div#navbar li a { text-decoration:none; padding:8px; }
+		div#navbar li a:link { color:#808080; }
+		div#navbar li a:visited { color:#808080; }
+		div#navbar li a:hover { color:#FFFFFF; background-color:#C0C0C0; }
+	</style>
+</head>
+<body>
+	<form id="form1">
+		<div style="padding:20px; width:800px;">
+			
+			<a href="https://falstad.com/circuit/">
+				<img style="margin:10px; float:right;" src="images/falstad-switch.png" width="280" height="230" alt="" />
+			</a>
+
+
+			<div id="navbar">
+				<ul>
+					<li><a href="../../index.html">Home</a></li>
+					<li><a href="../../blog.html">Blog</a></li>
+					<li><a href="../../projects.html">Projects</a></li>
+					<li><a href="../../links.html">Links</a></li>
+					<li><a href="../../about.html">About</a></li>
+				</ul>
+			</div>
+
+			<table style="width:62%; border-style:dotted; border-color:lightgray; margin:5px 0px 0px 0px;">
+			<tr>
+				<td align="left"><strong><a href="index.html">&lt;---</a></strong></td>
+				<td align="center"> [ <strong><a href="index.html">Contents</a></strong> ] </td>
+				<td align="right"><strong><a href="fundamental-gates.html">---&gt;</a></strong></td>
+			</tr>
+			</table>
+
+			<p><strong>Digital Signal</strong></p>
+
+			<p><a href="https://en.wikipedia.org/wiki/Electricity" target="_blank">Electricity</a> is the flow of electrons. At some point you will want to learn how electricity works and the properties of it. We will get into how electricity works in depth when we cover <a href="https://en.wikipedia.org/wiki/Analogue_electronics" target="_blank">analog electronics</a>, but for the sake of this digital electronics tutorial all we need to know is that it works.</p>
+
+			<a href="images/DIGITAL-SIGNAL.jpg">
+				<img style="margin:10px; float:left; width:35%" src="images/DIGITAL-SIGNAL.jpg" alt="" />
+			</a>
+
+			<p><a href="https://en.wikipedia.org/wiki/Digital_electronics" target="_blank">Digital electronics</a> is made up of digital signals.  A digital signal is electricity that runs through a wire connected to other components and a power source.  That signal can only have one of two levels. In our example below the voltage level is either 0 volts (the LOW voltage) or 1.5 volts (the HIGH voltage), which is the voltage from our power source, a common AA or AAA battery. In our example the voltage is at 0 volts when the switch is open and 1.5 volts when the switch is closed. </p>
+
+			<p>The light bulb demonstrates the two states a digital signal can be at; either OFF or ON (or HIGH/LOW). Another way we look at this, is as a binary value.  A binary value can be 0 or 1 and nothing else.  In our example when the light is OFF it equals a 0 and when the light is ON it equals a 1. This is called the binary numbering system.  It is what allows digital electronics to perform mathematical operations such as addition, subtraction, etc�  we will cover the binary numbering system in depth later in this tutorial.</p>
+
+			<a href="images/TRANSISTORS.jpg">
+				<img style="margin:10px; float:right; width:35%" src="images/TRANSISTORS.jpg" alt="" />
+			</a>
+
+			<p><a href="https://en.wikipedia.org/wiki/Transistor" target="_blank">Transistors</a> are electronic components that can control the flow of electricity. Among their many analog uses they can switch the voltage from the HIGH voltage level in a digital circuit to the LOW voltage level and back and forth.</p>
+
+			<p>We just briefly mention transistors since it�s important to understand that logic gates are made up of transistors that do the actual switching.</p>
+
+			<a href="images/DIGITAL-TIMING-CHART.jpg">
+				<img style="margin:10px; float:left; width:35%" src="images/DIGITAL-TIMING-CHART.jpg" alt="" />
+			</a>
+
+			<p><a href="https://en.wikipedia.org/wiki/Digital_timing_diagram" target="_blank">Timing diagrams</a> are used to show transitions between high and low and back again of a signal marked by time.  In the chart time flows from left to right.</p>
+
+			<p>Timing diagrams are devided by columns which represent a time unit. These can be expressed in any time unit.</p>
+
+			<p>Typically a timing diagram will display several digital signals one after another (or rows) lined up by the time columns.  Therefore it is possible to show the relationships between signals.  For example when one signal transitions from low to high, it might trigger another circuit to transition from high to low.</p>
+
+			<p>Most digital circuits are driven by a clock signal.  A clock is a signal that transitions from low to high and back again which is called a clock cycle. Usually it's on a constant time period and is measured in hertz, which is clock cycles per second.  More on this later in this tutorial.</p>
+
+		</div>
+	</form>
+</body>
+</html>
