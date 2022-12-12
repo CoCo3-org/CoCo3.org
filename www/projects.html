@@ -1,10 +1,11 @@
 <!doctype html>
 <html lang="en">
 <head>
-	<meta charset="UTF-8">
-	<title>CoCo3.org -- Projects</title>
+	<meta charset="UTF-8" />
+	<meta name="Generator" content="Wizard" />
 	<meta name="Author" content="James Ross" />
 	<meta name="Description" content="Tandy / TRS-80 Color Computer (CoCo, CoCo2, CoCo3) and other Retro Computers (MSX, NES, SWTPC). Retro Projects, Retro Programming, Retro and modern Electronics and FGPA programming" />
+	<title>CoCo3.org -- Projects</title>
 
 	<style type="text/css">
 		body { font-family:tahoma,arial,helvetica; font-size:14px; }
@@ -21,118 +22,123 @@
 	</style>
 </head>
 <body>
-	<form id="form1">
-		<div style="padding:20px; width:800px;">
+	<div style="padding:20px; width:800px;">
 
-			<a href="http://www.6809.org.uk/twilight/sock/">
-				<img style="margin:10px; float:left;" src="images/coco6.gif" width="179" height="96" />
-			</a>
+		<a href="http://www.6809.org.uk/twilight/sock/">
+			<img style="margin:10px; float:left;" src="images/coco6.gif" width="179" height="96" />
+		</a>
 
-			<div id="navbar">
-				<ul>
-					<li><a href="index.html">Home</a></li>
-					<li><a href="blog.html">Blog</a></li>
-					<li>Projects</li>
-					<li><a href="links.html">Links</a></li>
-					<li><a href="about.html">About</a></li>
-				</ul>
-			</div>
-
-			<div style="border-style:dotted; border-color:green; margin:10px 0px 10px 0px; padding:5px"><span style="color:green">projects</span>: <strong><a href="electronics/index.html">Electronics</a></strong> | <strong><a href="fpga/index.html">FPGA</a></strong> | eStudio | <strong><a href="retro-net/index.html">Retro.NET</a></strong></div>
-
-			<p>9/3/2022 – <strong>More project Ideas</strong></p>
-
+		<div id="navbar">
 			<ul>
-				<li class="marg8px">Re-engineer the CoCoSDC. I.e. make a clone at the API level w/o using inside information of the current CoCoSDC (since it’s not open-source and copyrighted). Make a though-the-hole version and an SMD version. Open Source it, allow any one to make it for themselves and/or sell it.</li>
-				<li class="marg8px">Make a mini-SWTPC clone using the MC6802 for the processor board.</li>
-				<li class="marg8px">Make a SWTPC emulated clone using either the ESP32 like the IMSAI 8080 replica or use the Raspberri Pi Pico (you could then switch between a 6800 SWTPC or a 6809 SWTPC)</li>
-				<li class="marg8px">Make a Cassette Tape Player emulator w/ a Raspberry Pi Pico to hook up to a MC-10 or CoCo.</li>
-				<li class="marg8px">Port Castlevania to the CoCo3</li>
-				<li class="marg8px">Port The Last Ninja to the CoCo3 at last once-for-all!</li>
-				<li class="marg8px">Create a SimCity clone for the CoCo3</li>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="blog.html">Blog</a></li>
+				<li>Projects</li>
+				<li><a href="links.html">Links</a></li>
+				<li><a href="about.html">About</a></li>
 			</ul>
-
-			<hr id="P3" />
-
-			<p>8/13/2022 – <strong>New Project Ideas</strong> – I still haven’t finished one of my short term projects yet but I am already thinking of new future projects.</p>
-
-			<ul>
-				<li class="marg8px">A CoCo cart w/ a Raspberry Pi Pico.  Use the Pico as a Co-processor for math or sound or anything else.</li>
-				<li class="marg8px">HD6309 pin compatible replacement using the Raspberry Pi Pico and a bare metal software emulator written in C to prove that software can be just as good as FPGA at emulating hardware. As far as I know the PiStorm is doing this with a Raspberry Pi 3A+ along w/ a CPLD it can replace a 68000 in a real Amiga. I need to research that project before I say much about it.</li>
-				<li class="marg8px">An FM receiver w/ an FPGA (for sound processing and compression) and a Raspberry Pi Zero W combo making radio pause-able / rewindable / fast fast-forwardable and recordable.</li>
-				<li class="marg8px">A dis-assembler w/ an old-school flowchart mode. (might get included in the Retro.NET project, we’ll see)</li>
-				<li class="marg8px">Assembly-to-assembly transpiler to convert one CPU’s code to another CPU’s code.  Have automatic and assistant modes. (might get included in the Retro.NET project, we’ll see)</li>
-				<li class="marg8px">Use the 6x09 emulator I’m creating for the Retro.NET to create a stand-alone command line driven emulator of the DEFT Pascal compiler for the CoCo’s. Running at full unthrottled emulated speed (i.e. quite fast!)</li>
-				<li class="marg8px">Create a Chess program for the CoCo1/2 & 3 (and possibly for other retro platforms).</li>
-				<li class="marg8px">Port NitrOS9 to run on a Raspberry Pi native.</li>
-			</ul>
-
-			<hr id="P2" />
-
-			<p>6/5/2022 – <strong>What Projects to work on?</strong></p>
-
-			<p>This is where the rubber meets the road.  I really want to finish my projects and not go from idea to idea starting new projects.  In addition to the projects I’ve listed in <a href="#P1">New Start</a> below I have started many others and worked on many things.</p>
-
-			<p>And now I’ve started working on this website and I’ve also been actively learning FPGA programming and electronics off and on for about the past 3½ years.  I’ll go for a few weeks and then I’ll put it aside for months.  Then life happens.  Then I’ll pick it up again and I have to re-learn what I already learned.  In the process I have learned quite a bit of stuff, but have much to learn yet.  I want to keep learning and experimenting and writing about it.</p>
-
-			<p>There are two main categories of projects:</p>
-
-			<ul>
-				<li>Long term projects that don’t necessarily have an end that are rather large, with no timescale for completion and not well defined where the goal is open-ended.</li>
-				<li>Short term projects with a definite goal and an end in site where one can say it’s complete.  At least a given version or release of it.</li>
-			</ul>
-
-			<p>My long term projects are currently these:</p>
-
-			<ul>
-				<li>The CoCo3.org website</li>
-				<li>Learning FPGA programming</li>
-				<li>Learning electronics</li>
-			</ul>
-
-			<p>Others that are fair game are learning math and chess!! :)</p>
-
-			<p>I already know how to program software and even though it too is a continuous learning process I will not be blogging about it or doing tutorials such as C# or Python programming.  There are already many sites that do that.</p>
-
-			<p>I will attempt to constrain myself to work on 3 short term projects at a time – to start:</p>
-
-			<ul>
-				<li>Retro.NET (includes CPU emulations)</li>
-				<li>eStudio</li>
-				<li>EmuDisk</li>
-			</ul>
-
-			<hr id="P1" />
-
-			<p>5/30/2022 – <strong>New Start</strong></p>
-
-			<p>I have a bad habit of starting hobby projects and then not finishing them.  Starting a new project and playing w/ the new ideas is fun.  But it does not take long for it to start feeling like real work.  And that is the problem.  That is when I get bored w/ it and move on to something else. </p>
-
-			<p>Hopefully this is a new start w/ a new determination that I do not move on to other projects until I have at least a usable version of the project I am working on.  With the caveat that I will allow myself to work on 2 or 3 projects at the same time. But NO more!</p>
-
-			<p>Back in 2020 I collected all my hobby projects and placed them on GitHub.  All of them were unfinished and not usable.  I since decided to make them all private until I can get to each one and finish them at least to a point where they are usable / useful.</p>
-
-			<p>Here is that list of unfinished projects, in no particular order:</p>
-
-			<ul>
-				<li><strong>RetroDb</strong> – A Database of all things related to Retro Computing.</li>
-				<li><strong>Retro.NET</strong> – A Common Intermediate Language (CIL) Ahead of Time (AoT) compiler for 8bit and 16bit retro systems.</li>
-				<li><strong>CoCo#</strong> – A C# compiler at the Abstract Syntax Tree (AST) level for the Color Computer (and possibly others)</li>
-				<li><strong>Retro.BASIC</strong> – A BASIC compiler for various flavors of old-school BASIC primarily Disk Extended Color BASIC (DECB).</li>
-				<li><strong>Retro.Pascal</strong> – A Pascal compiler for retro systems.</li>
-				<li><strong>Retro.IDE</strong> – a Retro system IDE</li>
-				<li><strong>EmuDisk</strong> – Modification and improvements to <strong><a href="https://sourceforge.net/projects/emudisk/">EmuDisk</a></strong></li>
-				<li><strong>CoCoSamples</strong> – Source Code Samples for the Tandy / TRS-80 Color Computer (CoCo 1/2, 3)!</li>
-				<li><strong>eStudio</strong> – An Electronics Schematic / PCB / Simulator program.</li>
-				<li><strong>GitTool</strong> – A custom tool for updating GitHub projects.</li>
-				<li><strong>CCE</strong> – A C# CoCo3 emulator.</li>
-				<li><strong>VCC</strong> – help improve <strong><a href="https://github.com/VCCE/VCC">VCC</a></strong> (I did one thing that got rolled in, implemented keep Aspect Ratio)</li>
-				<li><strong>EMC-10</strong> – A C# MC-10 emulator.</li>
-				<li><strong>SWTPC FPGA</strong> – an FPGA Emulator of the SWTPC system</li>
-			</ul>
-
-
 		</div>
-	</form>
+
+		<div style="border-style:dotted; border-color:green; margin:10px 0px 10px 0px; padding:5px"><span style="color:green">projects</span>: <strong><a href="electronics/index.html">Electronics</a></strong> | <strong><a href="fpga/index.html">FPGA</a></strong> | eStudio | <strong><a href="retro-net/index.html">Retro.NET</a></strong></div>
+
+		<p>10/25/2022 -- <strong>More Project Ideas, again!</strong></p>
+
+		<ul>
+			<li class="marg8px">Create an email client that is specific to mail lists. Add the capability to add photos, reference videos, and other content (such as files). Make it easy to follow threads, write messages, comment on content, etc. Intelligently strip quoted text.  Have it work in conjunction with another server that keeps track of added content on top of the emails from the list. Do likes like FB, etc.</li>
+			<li class="marg8px">Create an 8-bit byte code that resembles the 6809 with many registers. 256 registers of each 6809 register. Create an Ahead-Of-Time (AOT) compiler that compiles it to 6x09 / 6502 / Z80 CPU's ...  </li>
+		</ul>
+
+		<hr id="P4" />
+
+		<p>9/3/2022 -- <strong>More Project Ideas</strong></p>
+
+		<ul>
+			<li class="marg8px">Re-engineer the CoCoSDC. I.e. make a clone at the API level w/o using inside information of the current CoCoSDC (since it's not open-source and copyrighted). Make a though-the-hole version and an SMD version. Open Source it, allow any one to make it for themselves and/or sell it.</li>
+			<li class="marg8px">Make a mini-SWTPC clone using the MC6802 for the processor board.</li>
+			<li class="marg8px">Make a SWTPC emulated clone using either the ESP32 like the IMSAI 8080 replica or use the Raspberri Pi Pico (you could then switch between a 6800 SWTPC or a 6809 SWTPC)</li>
+			<li class="marg8px">Make a Cassette Tape Player emulator w/ a Raspberry Pi Pico to hook up to a MC-10 or CoCo.</li>
+			<li class="marg8px">Port Castlevania to the CoCo3</li>
+			<li class="marg8px">Port The Last Ninja to the CoCo3 at last once-for-all!</li>
+			<li class="marg8px">Create a SimCity clone for the CoCo3</li>
+		</ul>
+
+		<hr id="P3" />
+
+		<p>8/13/2022 -- <strong>New Project Ideas</strong> -- I still haven't finished one of my short term projects yet but I am already thinking of new future projects.</p>
+
+		<ul>
+			<li class="marg8px">A CoCo cart w/ a Raspberry Pi Pico.  Use the Pico as a Co-processor for math or sound or anything else.</li>
+			<li class="marg8px">HD6309 pin compatible replacement using the Raspberry Pi Pico and a bare metal software emulator written in C to prove that software can be just as good as FPGA at emulating hardware. As far as I know the PiStorm is doing this with a Raspberry Pi 3A+ along w/ a CPLD it can replace a 68000 in a real Amiga. I need to research that project before I say much about it.</li>
+			<li class="marg8px">An FM receiver w/ an FPGA (for sound processing and compression) and a Raspberry Pi Zero W combo making radio pause-able / rewindable / fast fast-forwardable and recordable.</li>
+			<li class="marg8px">A dis-assembler w/ an old-school flowchart mode. (might get included in the Retro.NET project, we'll see)</li>
+			<li class="marg8px">Assembly-to-assembly transpiler to convert one CPU's code to another CPU's code.  Have automatic and assistant modes. (might get included in the Retro.NET project, we'll see)</li>
+			<li class="marg8px">Use the 6x09 emulator I'm creating for the Retro.NET to create a stand-alone command line driven emulator of the DEFT Pascal compiler for the CoCo's. Running at full unthrottled emulated speed (i.e. quite fast!)</li>
+			<li class="marg8px">Create a Chess program for the CoCo1/2 & 3 (and possibly for other retro platforms).</li>
+			<li class="marg8px">Port NitrOS9 to run on a Raspberry Pi native.</li>
+		</ul>
+
+		<hr id="P2" />
+
+		<p>6/5/2022 -- <strong>What Projects to work on?</strong></p>
+
+		<p>This is where the rubber meets the road.  I really want to finish my projects and not go from idea to idea starting new projects.  In addition to the projects I've listed in <a href="#P1">New Start</a> below I have started many others and worked on many things.</p>
+
+		<p>And now I've started working on this website and I've also been actively learning FPGA programming and electronics off and on for about the past 3.5 years.  I'll go for a few weeks and then I'll put it aside for months.  Then life happens.  Then I'll pick it up again and I have to re-learn what I already learned.  In the process I have learned quite a bit of stuff, but have much to learn yet.  I want to keep learning and experimenting and writing about it.</p>
+
+		<p>There are two main categories of projects:</p>
+
+		<ul>
+			<li>Long term projects that don't necessarily have an end that are rather large, with no timescale for completion and not well defined where the goal is open-ended.</li>
+			<li>Short term projects with a definite goal and an end in site where one can say it's complete.  At least a given version or release of it.</li>
+		</ul>
+
+		<p>My long term projects are currently these:</p>
+
+		<ul>
+			<li>The CoCo3.org website</li>
+			<li>Learning FPGA programming</li>
+			<li>Learning electronics</li>
+		</ul>
+
+		<p>Others that are fair game are learning math and chess!! :)</p>
+
+		<p>I already know how to program software and even though it too is a continuous learning process I will not be blogging about it or doing tutorials such as C# or Python programming.  There are already many sites that do that.</p>
+
+		<p>I will attempt to constrain myself to work on 3 short term projects at a time -- to start:</p>
+
+		<ul>
+			<li>Retro.NET (includes CPU emulations)</li>
+			<li>eStudio</li>
+			<li>EmuDisk</li>
+		</ul>
+
+		<hr id="P1" />
+
+		<p>5/30/2022 -- <strong>New Start</strong></p>
+
+		<p>I have a bad habit of starting hobby projects and then not finishing them.  Starting a new project and playing w/ the new ideas is fun.  But it does not take long for it to start feeling like real work.  And that is the problem.  That is when I get bored w/ it and move on to something else. </p>
+
+		<p>Hopefully this is a new start w/ a new determination that I do not move on to other projects until I have at least a usable version of the project I am working on.  With the caveat that I will allow myself to work on 2 or 3 projects at the same time. But NO more!</p>
+
+		<p>Back in 2020 I collected all my hobby projects and placed them on GitHub.  All of them were unfinished and not usable.  I since decided to make them all private until I can get to each one and finish them at least to a point where they are usable / useful.</p>
+
+		<p>Here is that list of unfinished projects, in no particular order:</p>
+
+		<ul>
+			<li><strong>RetroDb</strong> -- A Database of all things related to Retro Computing.</li>
+			<li><strong>Retro.NET</strong> -- A Common Intermediate Language (CIL) Ahead of Time (AoT) compiler for 8bit and 16bit retro systems.</li>
+			<li><strong>CoCo#</strong> -- A C# compiler at the Abstract Syntax Tree (AST) level for the Color Computer (and possibly others)</li>
+			<li><strong>Retro.BASIC</strong> -- A BASIC compiler for various flavors of old-school BASIC primarily Disk Extended Color BASIC (DECB).</li>
+			<li><strong>Retro.Pascal</strong> -- A Pascal compiler for retro systems.</li>
+			<li><strong>Retro.IDE</strong> -- a Retro system IDE</li>
+			<li><strong>EmuDisk</strong> -- Modification and improvements to <strong><a href="https://sourceforge.net/projects/emudisk/">EmuDisk</a></strong></li>
+			<li><strong>CoCoSamples</strong> -- Source Code Samples for the Tandy / TRS-80 Color Computer (CoCo 1/2, 3)!</li>
+			<li><strong>eStudio</strong> -- An Electronics Schematic / PCB / Simulator program.</li>
+			<li><strong>GitTool</strong> -- A custom tool for updating GitHub projects.</li>
+			<li><strong>CCE</strong> -- A C# CoCo3 emulator.</li>
+			<li><strong>VCC</strong> -- help improve <strong><a href="https://github.com/VCCE/VCC">VCC</a></strong> (I did one thing that got rolled in, implemented keep Aspect Ratio)</li>
+			<li><strong>EMC-10</strong> -- A C# MC-10 emulator.</li>
+			<li><strong>SWTPC FPGA</strong> -- an FPGA Emulator of the SWTPC system</li>
+		</ul>
+	</div>
 </body>
 </html>

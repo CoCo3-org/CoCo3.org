@@ -1,0 +1,71 @@
+Microsoft Windows [Version 10.0.22000.1098]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Jar\Binary>cd retro
+
+C:\Jar\Binary\Retro>cd mame
+
+C:\Jar\Binary\Retro\MAME>mame -version
+0.243 (mame0243)
+
+C:\Jar\Binary\Retro\MAME>mame coco3 -listslots
+SYSTEM           SLOT NAME        SLOT OPTIONS     SLOT DEVICE NAME
+---------------- ---------------- ---------------- ----------------------------
+coco3            rs232            dec_loopback     RS232 Loopback (DEC 12-15336-00)
+                                  ie15             IE15 Terminal
+                                  keyboard         Serial Keyboard
+                                  loopback         RS232 Loopback
+                                  mockingboard     Sweet Micro Systems Mockingboard D
+                                  null_modem       RS232 Null Modem
+                                  patch            RS-232 Patch Box
+                                  printer          Serial Printer
+                                  pty              Pseudo terminal
+                                  rs232_sync_io    RS232 Synchronous I/O
+                                  rs_printer       Radio Shack Serial Printer
+                                  sunkbd           Sun Keyboard Adaptor
+                                  swtpc8212        SWTPC8212 Terminal
+                                  terminal         Serial Terminal
+
+                 ext              cc2hdb1          CoCo2 HDB-DOS
+                                  cc3hdb1          CoCo3 HDB-DOS
+                                  ccpsg            CoCo PSG
+                                  cd6809_fdc       Codimex CD-6809 Disk BASIC (1986)
+                                  cp450_fdc        ProlA3gica CP-450 BASIC Disco V. 1.0 (1984)
+                                  dcmodem          CoCo Direct Connect Modem PAK
+                                  fdc              CoCo FDC
+                                  fdcv11           CoCo FDC v1.1
+                                  gmc              CoCo Games Master Cartridge
+                                  ide              Glenside IDE Adapter
+                                  max              CoCo Max HI-RES input module
+                                  midi             CoCo MIDI PAK
+                                  multi            CoCo Multi-Pak Interface
+                                  orch90           CoCo Orch-90 PAK
+                                  ram              Disto 1024K RAM Cartridge
+                                  rs232            CoCo Deluxe RS-232 PAK
+                                  ssc              CoCo S/SC PAK
+                                  ssfm             6x09 SuperSprite FM+
+                                  stecomp          Speech Systems Stereo Composer
+                                  sym12            Speech Systems Symphony Twelve
+                                  wpk              CoCo WordPak
+                                  wpk2             CoCo WordPak II
+                                  wpk2p            CoCo WordPak 2+
+                                  wpkrs            CoCo WordPak RS
+
+                 ext:fdcv11:wd17xx:0 35dd             3.5" double density floppy drive
+                                  525dd            5.25" double density floppy drive
+                                  525qd            5.25" quad density floppy drive
+
+                 ext:fdcv11:wd17xx:1 35dd             3.5" double density floppy drive
+                                  525dd            5.25" double density floppy drive
+                                  525qd            5.25" quad density floppy drive
+
+                 ext:fdcv11:wd17xx:2 35dd             3.5" double density floppy drive
+                                  525dd            5.25" double density floppy drive
+                                  525qd            5.25" quad density floppy drive
+
+                 ext:fdcv11:wd17xx:3 35dd             3.5" double density floppy drive
+                                  525dd            5.25" double density floppy drive
+                                  525qd            5.25" quad density floppy drive
+
+
+C:\Jar\Binary\Retro\MAME>
