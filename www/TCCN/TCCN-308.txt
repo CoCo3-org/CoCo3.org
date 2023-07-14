@@ -1,0 +1,128 @@
+The Coco Nation News stories for Episode 308, April 8, 2023
+============================================================
+Collected by L. Curtis Boyle
+
+Coco 1/2/3 (and multi-platform)
+-------------------------------
+1) Bob over at his Youtube channel La Coco Strangiato posted a video
+about using a SCART to HDMI converter, both for composite and RGB making
+his own cables. Spoiler - his sub title (referring to RGB) is "How NOT to
+make a cable"):
+  https://youtu.be/57eSKE4yzmY
+
+2) John Mark Mobley of Glenside posted a new page that he put up on the
+Glenside website - CocoFest! Questions and Answers, which is meant for
+people that are new to CocoFests and are wondering about what to bring,
+general questions about the show, etc:
+  https://www.glensideccc.com/cocofest-questions-and-answers/
+
+3) John Zizolfo has posted an updated text screen (and 64x32 SET/RESET
+graphics) worksheets in Excel form to the Coco group on Facebook. This
+covers Coco 1/2 and 3 text screen resolutions:
+  https://www.facebook.com/groups/2359462640/posts/10160575010707641/
+
+4) Robson Franca did an interesting video showing an oscilloscope rendering
+all 4 voices in one of the Coco versions of the William Tell Overture. I am
+not sure why, but it appears to be playing a bit muddier and lower pitch
+than any of the versions that I have (and some individual voice pitches
+are definitely off). Does anybody else agree?
+  https://youtu.be/rseJvVRYmKc
+His other video that he played through XRoar seems much closer:
+  https://youtu.be/1EGhKH6hIGg
+(I should mention that both of these are based on the 16K version of <5
+minutes. There is 32K version that includes more of the song and clocks
+in around 9 minutes)
+
+
+MC-10
+-----
+1) Robert Sieg posted another test map to see what his 192 tiles look like
+and connect together for his game project "Pandemic". He also uploaded
+a ZIP containing the picture, since Facebook drops the picture quality,
+if you want to get the highest resolution:
+  https://www.facebook.com/groups/731424100317748/posts/5961527247307381/
+
+2) David Mitchell posted a video showing a GFX demo type in that he ported
+to the MC-10 from the Dragon (called Whirpool):
+  https://youtu.be/-b_5XZqXFFk
+
+3) Dillon Teagan posted an MC-10 port of the Columbia Shuttle BASIC program
+(that uses DRAW statements) that uses MCX BASIC, and even supports PMODE 4
+if your MC-10 has been modified to have 8K RAM accessible by the VDG. In
+the comments he shows a picture of it in PMODE 2, which is the highest
+resolution that an MC-10 can get without hardware modifications (128x192x2):
+  https://www.facebook.com/groups/731424100317748/posts/5961150607345045/
+
+
+Dragon 32/64
+------------
+1) Pierre Dandumont on YouTube posted a video called "Data Record: Talk
+to Me (flexidisc)/Mainframe (Dragon 32). It looks to be a kaleidoscope
+type program with audio coming from tape, I think?
+  https://youtu.be/UlKwhbKFkxo
+
+
+Game On news (all Coco related platforms):
+==========================================
+1) Our very own Ken @ Canadian Retro Things put up a video playing the
+current Game on Challenge, Arex by Adventure International, but he goes
+in depth comparing the Coco 1/2 version and the Atari 400/800 version:
+  https://youtu.be/Kwv9-efG8_w
+
+2) By fluke while going through *all* of 5&1/4" disks over the past 2
+months to find programs missing on the archive (and on my site if they
+are games), I chanced upon some of the disks that Harvey Brofman (author
+of Dunkey Munkey and Starfire) had sent me some years ago. I had grabbed
+stuff of his off of them already (including the Dunkey Munkey source code,
+but since I had properly cleaned by real floppy drive this time around,
+I managed to recover some other things too (including source code for
+Starfire, now on my site and the archive) and their Screen-64 utility
+(and source; I have to make a quick notes file on how to use it since I
+don't have the manual). But like many of us, he had some disks with some
+early (1983 or earlier) 3rd party games as well, and to my surprise, this
+included 3 games from 1981 that I never though would be found, including 2
+of very few (<10) machine language games for cassette that would run in a
+4K Coco. This includes Space Intruders by Charles Forsythe from Adventure
+International, and Gauntlet by Britt Monk (later sold by Avalon Hill):
+  http://www.lcurtisboyle.com/nitros9/coco_game_list.html
+
+3) Chronologically Gaming is approaching the end of 1981, just about
+finished the "T" games that had no firm release date. His show yesterday
+include Trek Adventure for the Coco (53:21 into Twitch version):
+  https://youtu.be/olmokc78Vv0?t=2870
+
+4) "The only way is OLED display" channel on YouTube has put up some more
+Dragon gameplay videos, and I think this is the first time that they have
+done long play videos... unfortunately, like the last few, they seem to
+have a TV nearby turned up far higher than the game, so you may want to
+mute it. Longplay videos this week include Rommel-3D, Boris the Bold,
+Time Bandit and Screaming Abdabs:
+  https://www.youtube.com/@MaryWinstead32/videos
+
+5) Longplay Kingdom on YouTube put up a gameplay video of Bricks on
+the MC-10:
+  https://youtu.be/rZu-5GjxpmQ
+
+6) I thought Jim Gerrie wouldn't have anything new to talk about this
+week... and then he cranked out 4 videos this morning of stuff he ported
+to the MC-10.
+Caves1 originally by Dave Kaufman in 1973. It is said that "Hunt the Wumpus"
+may have influencded this game, where you try to escape a tree shaped maze
+vs. trying to kill something:
+  https://youtu.be/99QHjAnPzzU
+"Les Cavernes" was originally by Chalres Feydy in 1982, is a port from
+the TRS-80 Pocket Computer to the MC-10. Jim mentions that is a hard
+adventure game:
+  https://youtu.be/kSwOhbteQtg
+"Dungeons and Dragons" was originally by Peter Trefonas in 1980 and is a
+mix of text adventure and RPG:
+  https://youtu.be/AEJRYUuieqM
+And lastly is "Dragon Dungeon" originally by Peter Goode in 1984, which
+is a simple text based RPG:
+  https://youtu.be/eEi0CW28kz0
+
+7) David Mitchell also posted on his "Davy's Retro Corner" YouTube page a
+quick game play video showing Breakthru, and Brickout type in game ported
+from the Dragon to the MC-10 (Dragon User magazine March 1984 by Garry
+Saunders originally):
+  https://youtu.be/t0S6_UoQeuo

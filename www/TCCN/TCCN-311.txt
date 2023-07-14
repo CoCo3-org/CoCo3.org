@@ -1,0 +1,407 @@
+The Coco Nation News stories for Episode 311, May 6, 2023
+===================================================================
+Collected by L. Curtis Boyle
+
+BONUS links for those reading this from the Coco Discord: Some photos and
+videos from CocoFest:
+
+Antonio Caballero video montage:
+  https://youtu.be/FCBLjhkPoTo
+Antonio Caballero photos on Facebook:
+  https://www.facebook.com/groups/2359462640/posts/10160619782602641/
+Ron Delvaux took quite a few:
+  https://www.facebook.com/groups/487282281640389/posts/1888853381483265/
+David Kroeker:
+  https://www.facebook.com/groups/2359462640/posts/10160614690567641/
+Alex Macomber has a couple:
+  https://www.facebook.com/groups/2359462640/posts/10160612313337641/
+John Laury has one with the Amigos:
+  https://www.facebook.com/groups/2359462640/posts/10160611666802641/
+Glensides Facebook page:
+  https://www.facebook.com/groups/glensideccc/posts/10160799687111163/
+
+
+Coco 1/2/3 (and multi-platform)
+-------------------------------
+1) Color Computer Programing has put up 6 new videos the past few weeks
+showing the progress with the Coco Ultimate game that he is working on
+(a BASIC Ultima style game). I will highlight just a couple here:
+Ultimate Party of 4 vs. 4 snakes:
+  https://youtu.be/_IM7w3_aQ8E
+Ultimate Overworld (with a cool animated beach):
+  https://youtu.be/WkCTCOQZz10
+
+2) Coco Crew episode #95 is out, including a review of CocoFest 2023 &
+Kung-Fu Dude:
+  http://cococrew.org/
+
+3) Henry Reitveld posted a picture of what he calls his "FrankenCoco",
+which includes a Xerox drive system that he got at the CocoFest auction. He
+did some part swapping, and it now has 2 half height 3.5" drives, a half
+height 5.25" drive and a SCSI hard drive all in one enclosure:
+  https://imgur.com/a/uaxWheF
+
+4) Allen Huffman has started blogging a multipart series on the Coco Disk
+BASIC disk structure. In this first entry he both goes through the low
+level sector format (including things like the CRC bytes), and also the
+DECB higher level file and FAT (File Allocation Table) formats.
+  https://subethasoftware.com/2023/04/25/coco-disk-basic-disk-structure-part-1/
+He also earlier did a blog post about writing BASIC easier using Python
+scripts by Alex Evans. He gives some warnings of certain words that you
+can not use in variable names etc. as they won't work in BASIC:
+ 
+https://subethasoftware.com/2023/04/18/write-basic-easier-with-alex-evans-python-scripts/
+
+5) Glenn Hewlett has released the sourcecode to his Robotron:2084
+transcode/emulation for the Coco 3 on his github page. It should be mentioned
+that some of the "bugs" he was trying to track down are actually in the
+original arcade game. Some sound samples are still missing though:
+  https://github.com/nowhereman999/ROBOTRON_CoCo3
+
+6) Hot on the heels of CocoFest 31 two weeks ago, the Clube Color Rio
+in Brazil ran a week after, and Daniel Campos posted pictures from it on
+the Coco Facebook group, including even an early prototype of one of the
+Brazilian Coco clones:
+  https://www.facebook.com/groups/2359462640/posts/10160630490807641/
+There is also an 8 minute video showing a bit about the show (in Portuguese):
+  https://youtu.be/Av1Mg9mwQ7Q
+
+7) Jim Brain attended the Indy Classic retro computer show in Indianapolis
+the week after CocoFest, and posted some pictures on Facebook (including
+his table with some Coco's on display):
+  https://www.facebook.com/groups/2359462640/posts/10160626296247641/
+
+8) James Maxwell has started posting a lot of scans of program listings
+and documentation that his father had for his Coco on Facebook and his
+Google drive:
+  https://www.facebook.com/groups/2359462640/posts/10160619727512641/
+Google Drive:
+ 
+https://photos.google.com/share/AF1QipNfX-TwXP9vAeD1y93smwYHlJuTDp0lQjV4WRobECPXv4IWGgW1uR6cn3AXK3VZgA?key=bmxKclFLblVSRVMyQzVGaXJWRkFyTU5PWVB2YW1R
+
+9) Retro Islander posted a show and tell of his Coco related computers,
+books and magazines on his YouTube channel just before CocoFest:
+  https://youtu.be/1kj-l26O85c
+
+10) Ron Klein posted on the Coco Pi website that MAME 0.254 is now available
+as an update. This contains a fair number of updates to the Coco floppy
+disk drivers & ROM's available:
+  https://coco-pi.com/new-mame-0-254-package-available-for-coco-pi/
+
+11) Gadget Reboot on YouTube put up a video of his making a Coco EPROM
+Cartridge based on publicly available designs:
+  https://youtu.be/7ILHTM3gZes
+
+12) Computer Hobbyists (Dave) on YouTube put up an 8 minute video of
+CocoFest:
+  https://youtu.be/EK27aijipqM
+
+13) Eric Canales announced the first Alpha version of 6dev09, his IDE
+that handles both BASIC and assembly language and automatically makes
+DSK images for emulators like MAME to test your code. It includes themes,
+automated installation of things like MAME and LWTOOLS, etc. I think it
+also supports both 6809 and 6309:
+  https://www.playpi.net/
+
+14) Coco Town on YouTube did an animation of a famous PMODE 4 mathematical
+picture from the Coco, but made an animation of it (using various parameters)
+by capturing frames from XRoar as each drawing was rendered:
+  https://youtu.be/VVebs8UciwQ
+He also did a video showing how he used Drivewire (with a cable he received
+from Cloud9) to backup his old floppies in 2 parts:
+Part 1 (setting up Drivewire and backing up real floppies to drivewire
+drives):
+  https://youtu.be/ap2resm30Fw
+Part 2 (splitting up single files to separate drivewire disks, with delving
+into Drivewire 4, the Becker Port and multiple instances):
+  https://youtu.be/E4g8dRdcUoI
+
+15) The Taylor and Amy Show did their CocoFest wrap video... with a couple
+of lame Canadian guests (ok... one lame guest plus Ken):
+  https://youtu.be/6MJdkthucuQ
+
+16) Justin D. Morgan did an almost 3.5 hour live stream video on his VCF
+East 2023 consignment/free pile & thrifting pickups... which included a
+64K Coco 2 with a Speech/Sound Pak. The Coco works:
+  https://www.youtube.com/live/UErN9GPQuk8?feature=share&t=5043
+
+17) The Vintage Geek Museum in Knoxville, Tennessee is now open to the
+public for tours that you can phone in to schedule (full open to the walk
+in public will be a little later). Ken and I had the opportunity to see it
+before the opening on April 25th, and we interviewed Aaron Ishamel for Ken's
+channel (and Aaron interviewed us as well). It has a cool "Coco classroom"
+set up, although the Network II controller wasn't working properly when
+we were there:
+  https://youtu.be/E_6vJGisfKY
+Aaron also just released a video this morning showing the 3 of us
+experimenting with Tandy's Electronic Book (first time for any of us!):
+  https://youtu.be/w1k4TVsBz5s
+
+18) Bob Emery (La Coco Strangiato on YouTube) showed a YUV to an RGB ->
+HDMI adaptor for a Coco 1/2, including artifact color support:
+  https://youtu.be/_65X4UgN1gQ
+
+19) Verne's Misadventures on YouTube has added a 2 part video about
+upgrading his Coco 2:
+Part 1 - Adding Extended BASIC and upgrading the RAM:
+  https://youtu.be/qN4gz57xUXI
+Part 2 - Setting up and learning to use the CocoSDC (and SDC Explorer):
+  https://youtu.be/B2tRJPBayjM
+
+20) David Mitchell (Davy's Retro Corner) released a video of the GFX Spring
+Demo running in PMODE 4 on a Coco 1/2 (he also did a low res version for
+the MC-10 - we will get to that in a bit). This originally appeared in
+the book Terrific Games for Your Tandy Color by Hal Renko & Sam Edwards,
+although David did some minor updates:
+  https://youtu.be/JXpIfds7NgU
+
+21) Our very own Ken of Canadian Retro Things put up a video of our trip
+to CocoFest 2023 - and beyond!
+  https://youtu.be/gTTMHQJX7kM
+
+22) TJBChris posted a video about the latest CocoSDC firmware and SDC-DOS
+upgrades:
+  https://youtu.be/uhe-1lVpjjk
+
+
+MC-10
+-----
+1) Jim Gerrie is working on a BASIC game for the MC-10 called "Bomb Aimer"
+that he plans on entering in the next BASIC 10 liner contest with (and he
+has the WAV file available in the Coco and MC-10 Facebook groups):
+  https://www.youtube.com/watch?v=1XF1tu8Y6-8&ab_channel=JimGerrie
+He also typed in the MicoWord simple word processor for the MC-10 that
+was originally written for the MC-10 by Tino Delbourgo for the October
+1984 issue of Australian Coco magazine:
+  https://youtu.be/gKPfcwsdEYc
+ Jim also released a program for the MC-10 to make intro screens that
+ originally appeared in Australian Coco magazine from Dec. 1984, called
+ Mico Magic:
+  https://youtu.be/ZmGOeygHWss
+He also ported "Computer Olympics" originally by Stephen Manes & Paul
+Somerson from the 1984 book "Computer Olympics":
+  https://www.youtube.com/watch?v=APRkYbVs0Y8&ab_channel=JimGerrie
+
+2) Giving Jim competition these days is David Mitchell (Davy's Retro Corner
+on YouTube), as he put out several MC-10 videos & downloads himself. This
+is the non-game related one:
+Spring GFX Demo (originally from "Terrific Games For Your Tandy Color"
+by Hal Renko & Sam Edwards (download link in YouTube description), and
+converted to SG4 & the MC-10 by David:
+  https://youtu.be/rVoNzc1AcDc
+
+3) Robert Sieg posted a rather interesting ebay find - a supposed Tandy
+MC-10 Diagnostic cartridge with instructions... with an asking price of
+$1500. Some of the comments suggest it may not be a real thing; does anyone
+know of this item?
+Original Facebook post:
+  https://www.facebook.com/groups/731424100317748/posts/6034598726666899/
+Ebay entry (if it still works by showtime):
+ 
+https://www.ebay.com/itm/234991213220?hash=item36b6915aa4%3Ag%3AUr4AAOSwhhxkSMcA&amdata=enc%3AAQAIAAAAwMKYhQHhXd4E2OSJZMxP2vVkPILtck9ihfUaEBPjsmglcSvc752RYeZNNkQVOhkhhaffeMgS0lyPmrFKX%2FdiPm6zH3WVh9SLRn7idqT2hO%2BY7sOA1sPYF%2Bh7xYI4jkJxOmKIWUq1NQSV3x1YWQpAwgvTmaAMOl%2BAM1cBgPUALN3t8Qwkeno8GqbhIHi5m6bylW2%2Fbv17210RcQfDTWwI6ogr5gVtI1Nws4bwoi8%2BWeHlfGH7lXHiAxDrzMbnnQd09A%3D%3D|tkp%3ABk9SR8qB-O_6YQ&
+If not, load 'mc10diagnostic.png' from my desktop
+
+4) Robert Sieg posted some graphic images using a 24 bit BMP to 2 bits/pixel
+converter he has done (with some inbetween stages) for the MC-10 - the
+last stage actually runs on the MC-10:
+  https://www.facebook.com/groups/731424100317748/posts/6012204218906350/
+And earlier, he showed a 16 color to 4 color MC-10 picture conversion
+as well:
+  https://www.facebook.com/groups/731424100317748/posts/6003540146439424/
+
+
+Dragon 32/64
+------------
+1) Wayland in the World of Dragon forums posted pictures of his adapting
+the original arcade Defender panel (with controls) that he uses with XRoar
+running Glenn Hewlett's Defender emulation/transcode for the Coco 3:
+  https://archive.worldofdragon.org/phpBB3/viewtopic.php?f=9&t=11087
+
+2) Wayland also upgraded one of his Microdeal joysticks to use a larger,
+more arcade style button (the original had a very small button that I can
+see would almost put a permanent dent in one's finger):
+  https://archive.worldofdragon.org/phpBB3/viewtopic.php?f=9&t=11086
+
+3) John Whitworth announced that Supersprite FM+ board kits are now available
+again for the Coco and Dragon from the Dragonplus Electronic online store:
+ 
+https://www.dragonplus-electronics.co.uk/product/supersprite-fm-6x09-for-dragon-and-coco-computers/
+He also posted that he has managed to aquire a batch of the ALPS short stem
+keyswitches that were used in Dragon 64 keyboards (and some Dragon 32's),
+if you need to replace any:
+ 
+https://www.dragonplus-electronics.co.uk/product/dragon-64-alps-keyswitch-skcc0001-short-stem/
+
+4) David Mitchell (Davy's Retro Corner on YouTube) put up a new enhanced
+version of the Whirlpool graphics demo (adding color) that originally was
+by Clive Gifford in the 1983 book "Games for Your Dragon":
+  https://youtu.be/Y9-37ixsXUc
+
+5) Just Jamie on YouTube put up an 8 minute video: "The Easiest Dragon
+Emulator Tutorial 2023", which shows how to get XRoar with Dragon 32
+emulation up and running quickly:
+  https://youtu.be/ZN64ket0_fY
+
+
+Game On news (all Coco related platforms):
+==========================================
+1) Pere Serrat & Kees von Oss have uploaded the next AGD game pack
+(converted from the Spectrum) to the World of Dragon archive, both for
+the Coco and Dragon. Pack #61 has 8 new games:
+Bola Ke Ase
+Chopper Defence
+Cocaine Bear
+Gherbert Groundhog in Save the Date
+Mr. Hair's A Very Hairy Remix
+Mr. Hair and the Kitty Katacombs
+Janky Joe
+Yokai Monk
+  https://archive.worldofdragon.org/phpBB3/viewtopic.php?f=7&t=11082
+(Please note: one of the games needed a bug fix if you already grabbed
+these from their initial release):
+  https://archive.worldofdragon.org/phpBB3/viewtopic.php?f=7&t=11084
+He has also updated the "Big Pack" series to V3.2a. This is a complete
+pack of all the games for those just starting to get into the AGD converted
+games, and includes all 354 games converted to date:
+  https://archive.worldofdragon.org/phpBB3/viewtopic.php?f=7&t=11083
+Pere also released the Supersprite FM+ enhanced AGD games pack #8, which
+adds 8 more AGD converted games that take advantage of extra color, hardware
+sprites and enhanced sound that the Supersprite board provides. One of
+the games is a patch to an earlier one, so there are 7 new games added:
+  https://archive.worldofdragon.org/phpBB3/viewtopic.php?f=7&t=11088face
+
+2) Jim Mullis posted a new video showing his further progress for the Coco
+3 game he is working on that is in BASIC using the GrafXpress subroutine
+package from Sundog Systems (which includes much faster graphics, sprites,
+windowing, multi-voice music, etc.). This includes a new intro screen
+and a few screens of side scrolling city terrain and some "place holder"
+graphics masked onto the background. He posted a more full explanation of
+what he is showing on Facebook:
+Text (read during showing of video if possible):
+  https://www.facebook.com/groups/2359462640/posts/10160627195492641/
+Video:
+  https://cocodevelopment.tinytake.com/msc/ODE3NDQyNl8yMTM3NDM4NA
+
+3) Paul and Tim Thayer (The Coco Bros - we missed you at CocoFest!) have
+released a new game called LIT on Facebook, even featuring an instruction
+page as if it were an article in Rainbow magazine:
+Instruction page:
+  https://www.facebook.com/groups/2359462640/posts/10160626655212641/
+Download:
+  https://www.facebook.com/groups/2359462640/posts/10160641062327641/
+Sample video of game play:
+  https://www.facebook.com/groups/2359462640/posts/10160638639277641/
+
+4) The Coco Show episode 43 from John & Aaron (which was recorded live at
+CocoFest - sorry about the poor audio, but it's better than the original
+stream by far, and hopefully there is an even better audio version being
+worked on) is out, featuring Whirlybird Run:
+  https://youtu.be/zUvNecPli-4
+
+5) David Mitchell (Davey's Retro Corner on YouTube) put up Night Rally
+for the MC-10, originally from "Games for Your Dragon" by Clive Gifford
+in 1983. The game is inspired by the 1970's arcade game Night Driver:
+  https://youtu.be/elc9oq79UsY
+And he also did an updated version of Night Driver for the Dragon 32:
+  https://youtu.be/yiNcpg9vLew
+And Yeti Hunt (which he originally did in 10 lines of BASIC for the Coco /
+Dragon in 2019... but now more than 10 lines).
+  https://youtu.be/kK2A-OstywA
+David also did a blog post update on his MC-10 endeavors as of late:
+  https://davysretrocorner.blogspot.com/2023/04/
+He also updated Polar Attack:
+  https://youtu.be/QMc2r4Chbgo
+And Robot Arm Grab:
+  https://youtu.be/Rwsm77aOEVQ
+Speed Trek:
+  https://youtu.be/zAR4mvS8Bg8
+
+6) Jim Gerrie ported a game with some simple AI techniques for the MC-10
+called "Even Steven", originally by Paul Ruiterman in 1985 for the magazine
+"ZX-Appeal":
+  https://youtu.be/mcIurgBTg30
+He also posted a video for Pharoah's Tomb (inspired by Tutankham in the
+arcade) - It thought that we had seen this before, but maybe it's updated
+or compiled? (Or I am remembering wrong)
+  https://youtu.be/8YWjkDsErXw
+And Dracula's Castle, originally by Felix Software for the Dick Smith
+VZ-200 in 1982:
+  https://youtu.be/-0ZH8cdeT-E
+And an recode/update to his conversion of Space Mouse, originally by
+Takanari Suzuki in 1981. He also did a blog on this particular conversion.
+Game play video:
+  https://youtu.be/1MtSh7XF7Xg
+Blog entry:
+ 
+http://jimgerrie.blogspot.com/2023/05/space-mouse-by-takanari-suzuki-1981.html
+
+7) Allan Turvey (HappyCodingZX on the Amigos Discord) has released, with
+a collaboration with Pere Serrat of AGD game conversion fame, his version
+of Asteroids for the Dragon and Coco, based on his previous version for
+the ZX Spectrum:
+  https://www.facebook.com/groups/dragon32/posts/3443575929235385/
+Video Demo:
+  https://youtu.be/2TA2htFwsD0
+You can purchase both the Dragon/Coco and Spectrum versions for $4.99 USD
+on his itch.io page:
+  https://highriser.itch.io/asteroidsrx
+
+8) Pippos34 Be on YouTube showed a video playing the Coco 3 game Catacomb
+by L. Miller around 1987/1988 (I remember it being a free download on
+Compuserve). Unfortunately it seems to be showing the wrong monitor type,
+but you can still see how the game plays:
+  https://youtu.be/fZmREREg4PM
+
+9) Matt Flin on YouTube did an hour long video covering Coco games from
+A-Z in alphabetical order (after an intro roll), showing each game for
+around 5-10 seconds). It includes 3rd party and Tandy games for the Coco
+1/2, and a large number of them. Might give Ken and Sloopy some ideas for
+upcoming game on challenges:
+  https://youtu.be/s6T3oxg93sU
+
+10) And of course, Chronologically Gaming has been busy the past few
+weeks, now up to the start of March 1982. Some of the Coco games from
+January-February 1982 that he has covered since that last gaming news
+segment are:
+Cave Hunter:
+  https://www.youtube.com/watch?v=DlshNuezcPY&t=1298s
+Block Buster, Blockade:
+  https://www.youtube.com/watch?v=YWDBNbWRDQk&t=804s
+Laser Star/Helo Battle:
+  https://www.youtube.com/watch?v=RQtpn4Vuysc&t=300s
+Voyager I:
+  https://www.youtube.com/watch?v=T5nIoEZVedI&t=1477s
+Bleep:
+  https://www.youtube.com/watch?v=_UnubVO6528&t=999s
+Anti Ballistic Missile Command:
+  https://www.youtube.com/watch?v=eHR52eFB0hs&t=1483s
+Moon Lander 1 and 2, Space Zapper
+  https://www.youtube.com/watch?v=ELEiKKYGQVE&t=38s
+
+11) The Only way is Cuthbert, GA (another rename for this channel) has
+some more longer play videos of various Dragon games, including photos
+of the original artwork and tape labels (mute sound, as usual of late,
+TV is running full volume in the background):
+  https://www.youtube.com/@MaryWinstead32/videos
+
+12) Retr0rewind (not associated with RetroRewind.ca in any way that I
+know of) on YouTube did a Dragon 32 gameplay Livestream special on April
+23. Note that he is not that familiar with the Dragon, and neither is any
+of the people who were in his chat, so some of our UK viewers may want to
+go and leave some comments :) :
+  https://www.youtube.com/live/WeiOR-2khJ8?feature=share
+
+13) agamingchannelbyLR on YouTube also added new Dragon game play videos
+(look for ones released the past few weeks):
+  https://www.youtube.com/@agamingchannelbyLR/search?query=dragon
+
+14) Coco Town on YouTube put up a video on how to use an XBox controller
+with Coco games in the XRoar emulator, and a trick in Buzzard Bait:
+  https://youtu.be/b_Z-VreEx80
+
+15) Tim & AJ's latest Sibling Rivalry episode #81 (great to meet AJ for
+the first time at the Fest!) features Moon Lander on the Coco - One of
+Chris Latham's (of Donkey King and Sailor Man fame) first commercial Coco
+games - Moon Lander from Tom Mix Software. Tim at the beginning even does
+a bit of a dramatic explanation of the game goals at the beginning:
+  https://youtu.be/zde4txsvo2Q

@@ -1,0 +1,141 @@
+The Coco Nation News stories for Episode 297, January 21, 2023
+===============================================================
+Collected by L. Curtis Boyle
+
+Coco 1/2/3 (and multi-platform)
+-------------------------------
+1) TRS-80 Retro Programing put up a video of game he is developing using the
+PCOPY technique he talked about in his previous video, which he is calling
+Ghost Saga. He know has a player character that is animated and can be moved
+around with the joystick:
+  https://youtu.be/RUIBuwAJQ8k
+
+He then expanded on that, switching to a PMODE 1 screen (to get 4 colors), and
+discovers some of quirks of fast GET/PUT:
+  https://youtu.be/Slr-OcrX_8k
+
+2) Todd Wallace put up a video on the Coco group on Facebook showing his start
+to an Apple II+/6502 emulator that runs on a Coco 3 with a 6309 and at least
+512K of RAM. 40 column text mode and few other things are working now. He will
+have a github with source code for it as well (broken at the time of this
+writing):
+  https://www.facebook.com/groups/2359462640/posts/10160421482842641/
+
+3) Allen Huffman did a quick five minute video, that he describes as "Sometimes
+you just want to do some BASIC programming. I tried to remember the "string
+art" program I played with 40 years ago...", where he basically live programs
+some PMODE 4 line art demos:
+  https://youtu.be/l8kgyohGCBQ
+
+4) Michael Furman has been rather busy lately, but he posted an update VLOG on
+pyDrivewire, in particular the fixes needed for the weather app in EOU 1.0.0 to
+work properly. A quick summary is that he is in testing for the new version,
+and hopes to have it out in about a week:
+  https://youtu.be/jWPPXTVgOjQ
+
+5) Share Squid (who is also a member of our Discord) posted his latest Vectrex
+video on his channel on YouTube. As part of the video, he compares how lines
+are drawn between the Vectrex (vector based) vs. the Coco (raster based). Of
+course, the Vectrex and the Coco shared something critical: the 6809 CPU:
+  https://youtu.be/N76Ey9vyDok
+
+6) James Diffendaffer posted a quick port of a GW BASIC running cat animation
+for the Coco 1/2, including the listing:
+  https://jdiffendaffer.blogspot.com/2023/01/blog-post.html
+
+7) "This Got Made" on YouTube covers the DC Comics / Radio Shack crossover
+comic, with the Coco 1, the TRS-80 Whiz kids, Superman and Wonder Woman vs. Lex
+Luthor:
+  https://youtu.be/YirJOj2rPuI
+
+8) La Coco Strangiato on YouTube posted a 10 minute "in depth" look at his
+Color Computer 3P (portable) modifications (I like the fact he chose a MIDI
+version of Canadian band Rush's "La Villa Strangiato" song as the theme, and
+also the basis of the channel name): 
+  https://youtu.be/Zc0JbHvzOGk
+
+9) Matt Perkins posted a screenshot of what his custom settings look like for
+cool-retro-term on his Mac (also works on Linux/BSD). Aside from fitting more
+text on the screen, it should look familiar...:
+  https://www.facebook.com/groups/2359462640/posts/10160426914692641/
+
+10) Brenda Make posted in the NitrOS9 Facebook group some pictures of her
+starting of the Coco X case top (This is "Coco 5" style project):
+  https://www.facebook.com/groups/1929079184021683/posts/3319194838343437/
+
+
+MC-10
+-----
+1) Following the cat animation video from James Diffendaffer we mentioned
+previously, Jim Gerrie made a version for the MC-10 as well, in glorious SG4:
+  https://youtu.be/efQTa0rpWVo
+Jim also released a video showing a simple draw program for the MC-10 (ported
+from the ZX81):
+  https://youtu.be/Aj6hamFaJhk
+
+2) Jamie's Hack Shack on YouTube made a video about using MP3 files through the
+cassette port on the MC-10. He even did JanuTandy / Tanduary hash tags... at
+this rate, I expect that every month of the year will eventually be tied to
+Tandy computers. He also goes through which bit rates work and don't work for
+MP'3 loading files:
+  https://youtu.be/YY_DdjPTcM0
+
+3) Simon Jonassen uploaded a video to the MC-10 Facebook group a 2 voice song
+that only takes 2.7K (if I understand right) and fits even on a 4K RAM MC-10:
+  https://www.facebook.com/groups/731424100317748/posts/5709401479186627/
+
+
+Dragon 32/64
+------------
+1) John Whitworth laments that a bunch of prototype PCB's showed up at his
+house on Thursday (including the new RGB board he is working on)... but he is
+still getting treatment and isn't at home to work on them:
+  https://www.facebook.com/groups/dragon32/posts/3375841969342115/
+
+2) Tony Jewell has committed to making a Dragon related post every day this
+year, and had a really cool one this week, talking about two "future" Dragon
+computers that never saw the light of day, and were not the Dragon Beta or
+Professional. Both were mentioned in 1983 issues of Dragon User magazine. The
+first one is a higher end Dragon (to compete with the BBC Micro). While it
+sports some features known to exist in the Dragon Beta (including dual 6809's)
+it also mentions it only being 400 pounds (way cheaper than the Beta would have
+been), having an improved BASIC, higher quality graphics and look different
+than the Dragon 32. It also mentions a second machine aimed to compete with the
+IBM PC, for around 2000 pounds, which was going to run 68000 AND 8086 software
+individually or both together:
+  https://www.facebook.com/groups/dragon32/posts/3372542429672069/
+
+3) Julian Brown has a further update on his Dragon 32 motherboard duplication
+project - he thinks he has all the bugs worked out, and has ordered 5 boards to
+test with:
+  https://www.facebook.com/groups/dragon32/posts/3371955489730763/
+
+
+Game On news (all Coco related platforms):
+==========================================
+1) Chronologically Gaming has gotten a couple of more Coco games up during his
+5 times a week show, all from early in the Coco's time (1981):
+Pac-Tac (Computerware):
+  https://www.youtube.com/watch?v=Un0sqC8D0f8&t=2554s
+
+Starbase Attack (Illustrated Memory Banks):
+  https://www.youtube.com/watch?v=gmEbwasyZic&t=1999s
+
+Also, just yesterday he covered Polaris:
+  https://www.twitch.tv/videos/1713672223?t=00h05m54s
+
+2) Nick Marentes has updated his website, to make ordering his commercial games
+a lot easier (And all in one place):
+  https://nickmarentes.com/
+
+3) Also, if you have purchased his Jumping Joey game, there is a bug that was
+found that caused the game to freeze if you managed to make it to the 6th
+level. He shows the patch at the bottom of the Jumping Joey page - you just
+have to type in 1 short line in the BASIC loading program that Joey comes with
+to fix it:
+  https://nickmarentes.com/ProjectArchive/jumpingjoey.html
+
+4) The Amigos live taping of The Coco Show (featuring Cocoban - and a live
+interview with it's author, Paul Thayer) was last night (it will also be on
+YouTube shortly):
+  https://www.twitch.tv/videos/1713389033?t=01h40m00s

@@ -1,0 +1,174 @@
+The Coco Nation News stories for Episode 300, February 11, 2023
+===============================================================
+
+Coco 1/2/3 (and multi-platform)
+-------------------------------
+1) Allen Huffman did a blog post on how to avoid Disk Full & Input past End of
+file errors in DECB:
+ 
+https://subethasoftware.com/2023/02/07/coco-disk-basic-and-avoiding-df-and-ie-errors/
+
+2) La Coco Strangiato on YouTube (CocoNut Bob on the Coco Discord) has posted a
+video "My Coco3 Repack... Unpacked!" where he goes through his Coco 3 repacked
+into a PC tower case:
+  https://youtu.be/Ca8Hg8SwHCE
+
+3) Michael Furman has put up instructions and downloads for pyDriveWire 06,
+including special directions for Mac OSX:
+Mac OSX install:
+ 
+https://github.com/n6il/pyDriveWire/blob/v0.6/docs/pyDriveWire%20Installation%20Instructions%20for%20macOS.md
+Linux/Windows install:
+ 
+https://github.com/n6il/pyDriveWire/blob/v0.6/docs/pyDriveWire%20General%20Installation%20Instructions.md
+He also did an update:
+ 
+http://www.ocs.net/2023/02/10/pydrivewire-v0-6-windows-x64-binary-package-update/
+
+4) ugBASIC: An isomorphic language for retrocomputers
+
+  https://www.facebook.com/groups/2359462640/posts/10160459482107641/
+
+"In essence, two things are isomorphic if you can translate losslessly back and
+forth between them. It's a formalisation of equivalence." - Software design
+isomorphisms by Mark Seemann
+https://blog.ploeh.dk/2018/01/08/software-design-isomorphisms/
+
+MarkO's Take: A "common" BASIC that compiles/assembles to various targets.
+
+  I just have the initial post on Facebook:
+  https://www.facebook.com/groups/2359462640/posts/10160459482107641/
+  ugBASIC Facebook Page:
+  https://www.facebook.com/groups/867151224158600
+  ugBASIC Homepage:
+  https://ugbasic.iwashere.eu/
+
+  Supported CPUs
+	NMOS 6502, Zilog Z80, Motorola 6809
+
+  Supported targets
+	Amstrad, Atari, ColecoVision, , Commodore, Dragon, MSX, Olivetti,
+	 Radio Shack Color Computer, Thomson, SEGA, ZX Spectrum
+
+  Supported chain tools
+	CC65, Z88DK, ASM6809
+
+Erico Patricio Monteiro "ericomont" on Discord has been asking the Author for a
+CoCo version for a while now, since the Dragon Version was already in place..
+
+This is an Open Source Project that will compile on Windows. Mac or Linux.  It
+is a CLI Tool. There is an IDE for Windows.
+Pre-Built Binaries are avaliable for Download on the GitHub Repository, Windows
+and Linux.  ( Linux needs GLIBC_2.34 )
+
+Functions like CHR$() are an ISO Generic, so No CoCo special characters and
+CoCo's UPPER/lower case are reversed.
+No Floating Point Math..  SQR() Rounds Down to Integer..
+
+4a) Ron Klein has made it part of the CoCo-Pi distribution..  Instructional
+Video avaliable soon from Ron.
+
+5) Alex Redman posted a video of a project he was working on around 1989 that
+included some BASIC enhancements (like key repeat), and a freeform database he
+was also working on at the time:
+  https://www.facebook.com/groups/2359462640/posts/10160468024457641/
+
+6) Christopher Cromwell posted some photos of his customized Coco 3 which
+includes a WiFi RS-232 interface originally designed by Dave Chesek:
+  https://www.facebook.com/groups/2359462640/posts/10160467963267641/
+
+7) Brad Hartz asked chat.openai.com to write a poem about the Radio Shack TRS-
+80 Color Computer... and this was the result:
+  https://www.facebook.com/groups/2359462640/posts/10160467105307641/
+
+8) Nicolaas Ervik Groeneboom posted about TurboRascal now officially supporting
+the Coco 3 in this ongoing multi-platform project, and included some videos.
+This is very much a work in progress, but the videos look pretty darned
+impressive! (Show all 3 videos since they are short)
+  https://www.facebook.com/groups/2359462640/posts/10160466445307641/
+
+9) John Zizolfo posted a template that one can print out to line up the timing
+hole and write protect notches to make "Flippy" disks (you can flip the disk
+and use the second side with a single sided drive):
+  https://www.facebook.com/groups/2359462640/posts/10160464894952641/
+
+10) For those in the Indianapolis area the week after CocoFest in Chicago - the
+Indy Classic Computer and Video Game Expo is happening April 29-30 (thanks to
+Randy Kindig for posting about it!):
+  https://indyclassic.org/
+
+11) Joel Ewy posted to the MM/1 group on Facebook what he is calling the "MM/1
+Software Preservation Spreadsheet", where he is trying to track down all
+software made for the MM/1, and whether it has been found or not:
+  https://www.facebook.com/groups/3194643584094250/posts/4108510436040889/
+
+12) The Clueless Engineer on YouTube posted a video of his voyage of
+discovering in converting a U.S. NTSC Coco 2 to Australian. This is the first
+Coco he has ever had. This is part 1:
+  https://youtu.be/9Z1eAEL_Dco
+
+13) TJBChris did a 2nd bloopers reel - warning some foul language based on the
+past few years of his videos (including multiple Coco related ones):
+  https://youtu.be/RA0gAnxRaGM
+
+14) AC's 8 bit Zone did a video showing how easy it is to upgrade an "F" board
+Coco 1 (the last Coco 1 motherboard revision, also the one used in the TDP-100
+I believe) to 64K RAM:
+  https://youtu.be/Xeli37AWe9w
+
+15) Paul Shoemaker on Facebook showed some pictures of his installing of the
+Mark Data Universal Video driver board that has been duplicated by Tom Dunk (it
+lets you get composite out of a Coco 1 or 2):
+  https://www.facebook.com/groups/2359462640/posts/10160471315197641/
+
+16) Dave Koss on Facebook linked to a short TikTok video from 1987 that shows a
+mall and a Radio Shack store - including a Coco display near the end:
+  https://www.facebook.com/groups/2359462640/posts/10160471057377641/
+
+17) Granger Meador on YouTube put up an hour long video detail his friend
+Jeff's and his creation of 15 BASIC programs involving Star Trek that they did
+on the Coco 1 between 1982 and 1984:
+  https://youtu.be/ctklgahtPdM
+
+
+MC-10
+-----
+1) Robert Sieg posted the MCX32-SD build files to the MC-10 group on Facebook:
+  https://www.facebook.com/groups/731424100317748/posts/5781967888596652/
+
+
+Dragon 32/64
+------------
+1) Mark Parry posted a photo of the Dragon cassette image he is working on for
+Quickbeam's Indoor Football, but this time with the high res loading screen
+intact:
+  https://www.facebook.com/groups/dragon32/posts/3392358724357106/
+
+2) Julian Brown posted an update on his Dragon 32 motherboard recreation
+project - he has the newest boards in, but ran out of some of components, which
+he has on order. Hopefully this version won't need any further revisions:
+  https://www.facebook.com/groups/dragon32/posts/3392056234387355/
+
+3) Melissa Wells did for the Dragon what Brad Hartz did for the Coco that we
+mentioned earlier - write a poem about the Dragon 32 (note: a better one was
+generated a little later in the comments):
+  https://www.facebook.com/groups/dragon32/posts/3391112477815064/
+
+4) Simon Hayne posted pictures of a couple of souvenir mugs that you can get
+from the North West Computer Museum:
+  https://www.facebook.com/groups/dragon32/posts/3393845577541754/
+
+
+Game On news (all Coco related platforms):
+==========================================
+1) Jim Gerrie has released a version of Scrabble for the MC-10, originally
+written by Joseph Roehrig in BYTE magazine December 1981 for the TRS-80 Model
+1/3. Warning from Jim: Running on real hardware can take up to 15 minutes a
+move; he shows it here with the emulator speed cranked up:
+  https://youtu.be/FTmI7mHGra4Nitros920
+
+2) Allen Huffman showed game program that he is calling Grappling Hook (it
+plays somewhat like The Electric Yoyo in the arcades and Beam Rider on the
+Coco. He plans to enter this in the current 10 Line programming contest:
+  https://www.facebook.com/watch/?v=1444997939364461
+

@@ -1,0 +1,178 @@
+The Coco Nation News stories for Episode 296, January 14, 2023
+===============================================================
+Collected by L. Curtis Boyle
+
+Coco 1/2/3 (and multi-platform)
+-------------------------------
+1) 48K RAM (Josh) did a livestream for the first time since he moved recently,
+showing his new setup and showing some new hardware addons that he gets to test
+for the first time - two of which are his new RetroRewind branded CocoSDC and
+CocoMan's Switch-a-Roo (Coco stuff starts around), and then runs some MOD files
+through Sock Master's 6309 MOD player (which he is pretty impressed by), and a
+bit of gameplay with Zenix and Quest for Thelda. (Coco 3 stuff starts around
+59:27):
+  https://www.twitch.tv/videos/1703688192
+
+2) "Joel Explores Tech" on YouTube did his "Digging for Tech Treasure #2"
+episode, which shows some new acquisitions that he has gotten both on his own
+and through donations from local friends. The very first thing up is an
+Extended BASIC ROM upgrade for his older Coco 2. It works, so he hints he may
+do a later video going into Extended BASIC:
+  https://youtu.be/yKG7uWuY_pw
+
+3) Kenneth Udut on YouTube uploaded a couple of songs that he wrote/made back
+when he was 13/14 years old, which he had done on a Coco 2 with the Orchestra-
+90 stereo card:
+This one has some distortion effects about half way through:
+  https://youtu.be/TmEf07El_XA
+He labelled this one as using "Stereo Additive Synthesis" and as a test:
+  https://youtu.be/LSX0qjv2D3Y
+
+4) The Lunduke Journal Podcast (also on YouTube) for their January 5 episode
+did 8-Bit Week Day 1&2 Roundup, which covers a bunch of 8 bit related stories
+(Coco stuff at 18:40).
+Podcast link and show notes:
+  https://lunduke.substack.com/p/8-bit-week-day-1-and-2-roundup#details
+YouTube version (audio only):
+  https://youtu.be/oB4tnegwrEI
+
+5) Pedro Pana (Rocky Hill on YouTube) did a video on installing DriveWire 4 on
+both Windows and Linux machines without the need to install Java or any of the
+other dependencies:
+  https://youtu.be/G9ytOzB70Ls
+
+6) John Linville is working on a vertical scrolling game engine for the Coco
+1/2. He originally posted a video showing it in action, and then published a
+blog post to explain how it works (using stack blasting):
+  https://vdgtricks.blogspot.com/2023/01/scrolling-engine.html
+
+7) Randy Kindig, on his latest episode of the Floppy Days podcast, has Carlos
+Camacho on to talk about a variety of Japanese computers, with the NEC PC-6001
+being the main feature (I should mention this is a part 1 episode). Carlos has
+been active in the Coco community for years, and because several of the
+Japanese machines were either VDG based, or OS9/6809 based... the Coco comes up
+a fair bit in this episode! Well worth a listen, and looking forward to part 2:
+ 
+https://floppydays.libsyn.com/floppy-days-121-nec-pc-6001-and-japanese-computers-with-carlos-camacho-part-i
+
+8) Some people were querying about using cheap "Sparkfun Joysticks" on a Coco.
+It's a 10KOhm analog controller that people were not sure if it would work
+properly. John Parker on the Coco Facebook group decided to try it, and says
+that it seems to work fine on his real Coco 2:
+  https://www.facebook.com/groups/2359462640/posts/10160404295217641/
+
+9) Ron Klein announced that the newly released XRoar version 1.3 is now
+available as an update on the CocoPi (and lists more of the changes to 1.3 than
+I mentioned last week):
+  https://coco-pi.com/new-xroar-1-3-package-available-for-coco-pi/
+
+10) Joel Ewy posted a quick video of animation file on his MM/1... which he
+just labels as being "Sneak preview???". It features an animated Avalon Hill
+Microcomputer Games logo:
+  https://www.facebook.com/groups/3194643584094250/posts/4084759311749335/
+
+
+MC-10
+-----
+1) Jim Gerrie uploaded a few non-game videos featuring the MC-10. The first one
+is not even written by him, but by fellow MC-10 enthusiast Greg Dionne. It's a
+"twinkly graphics version" (128x96x4) of the Christmas star that was part of
+the Logikar (sp?) contest  the past couple of months:
+  https://youtu.be/GJDkn4_mQm0
+He also added another low res graphic flag to his flag series - this time for
+Brazil:
+  https://youtu.be/YibO8AfXo_c
+And a really cool one is his showing a demonstration of Mark Dusk's 3 button
+"joystick" controller that plugs into the I/O port on the back of the MC-10.
+Jim hints that he may converting some of his games to run with the joystick (it
+basically is a separate unit with left/right and fire buttons):	
+  https://youtu.be/ZzsGst8HAiI
+
+2) Robert Sieg released a video showing his MCX32-SD with his new menu program
+that we mentioned last week being demoed and it's various features, as well as
+some of his other programs running from it (over 1/2 an hour) :
+  https://youtu.be/MQiNAXGEtdE
+He also posted a little challenge, with a cryptic message about it. Has anyone
+tried this one yet?
+  https://www.facebook.com/groups/731424100317748/posts/5702152566578185/
+
+
+Dragon 32/64
+------------
+1) 8-Bit Shack on YouTube uploaded a video where he tests a Dragon 32 PSU that
+he found in a loft:
+  https://youtu.be/JB1EswIqb88
+
+2) John Whitworth posted an update on himself and DragonPlus Electronics in
+both the Coco and Dragon Facebook groups. I will read his post verbatim (from
+the Facebook link):
+  https://www.facebook.com/groups/2359462640/posts/10160403490432641/
+
+3) Julian Brown posted an update to his duplicating the Dragon 32 motherboard
+in the Dragon group on Facebook, including getting the joystick working:
+  https://www.facebook.com/groups/dragon32/posts/3370880876504891/
+
+4) Ciaran Anscomb (sixxie) who has been doing his own Dragon 64 motherboard
+duplication project, received an edge connector and reset switch from Julian,
+and posted a quick video showing his progress - including show gameplay of his
+Tetris style game Blockdown)
+  https://www.facebook.com/groups/dragon32/posts/3370066073253038/
+
+5) Gareth Hamer posted a photo of a Dragon controller for the Sega Megadrive.
+While the logo *is* the Dragon logo from the 80's...it has nothing to do with
+Dragon or Dragon Data, and was basically just ripped off since they were out of
+business:
+  https://www.facebook.com/groups/dragon32/posts/3368593560066956/
+
+
+Game On news (all Coco related platforms):
+==========================================
+1) Jim Gerrie released a port of a 1987 Klondike Solitaire that was originally
+written in GWBasic. This is a re-release of an earlier version that he did,
+with some suggestions form Greg Dionne and some colour changes:
+  https://youtu.be/a44lS5n1a10
+
+2) Dave Veary posted a few videos that are game related this week. One is some
+Coco 3 palette hacks he did for this weeks new game, Slay the Nereis (a
+Centipede clone):
+  https://youtu.be/gQnw8O0-dsw
+His other videos show game play of the much maligned Coco 3 version of Predator
+(based on the NES version), that is frustratingly difficult at the beginning.
+But Dave gets through the dastardly first level to show some of the new and
+cool things that happen on later levels (since there are 4 videos, going to
+just show his YouTube Videos page: https://www.youtube.com/@MrDave6309/videos):
+Part 1 (Stage 1) (note he doesn't get past it here, either):
+  https://youtu.be/pbXZxlu6sfo
+Part 2 (Stages 2-3) Dave says that these are much easier. Stage 3 lets you get
+a laser, and you can shoot through some of the terrain:
+  https://youtu.be/E9SWtDyszZw
+Part 3 (Stage 4). Daves main note here is "Butterflies... and Grenades!" A
+worthwhile combination:
+  https://youtu.be/EWMj1PnKvAg
+Part 4 (Stages 5&6):
+  https://youtu.be/DyOQjAEFQ1o
+
+3) Kame Sennin 13 posted a video of gameplay of Dragon Fire on his actual Coco
+2 hardware:
+  https://youtu.be/SlWQIr6PaGc
+
+4) Sheldon MacDonald has release a free version of his Treasure Island Defence
+game (1.1) that does not need a sound chip, but uses the 6 bit DAC. It requires
+a Coco 3 OR a Coco 1/2 with a CocoVGA and SAM accelerator (it may work, albeit
+slower, w/o the accelerator?). You can download it from the Coco Facebook group
+(and I presume later on the Archive):
+  https://www.facebook.com/groups/2359462640/posts/10160409510762641/
+
+6) Tim & AJ dropped their latest episode of Sibling Rivalry on YouTube - this
+week featuring the Coco classic Mega-Bug (known as Dung Beetles on some other
+platforms):
+  https://youtu.be/yvz5GFKJDc4
+
+7) And finally, for the insomniacs out there, or *major* Coco game lovers - The
+Amigos have started doing long play feeds amalgamating a lot of their shows for
+specific computers, and playing them as a "TV channel" type stream. They
+release their Coco related one this past week, and it's almost 18 hours
+straight of Coco game playing goodness, including The Coco Show episodes, ARG
+Presents episodes, Friday Night Disaster Streams & raw gameplay footage from
+when they do research:
+  https://www.twitch.tv/videos/1704897354?sr=a&t=3s

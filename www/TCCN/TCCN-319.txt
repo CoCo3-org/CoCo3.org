@@ -1,0 +1,219 @@
+The Coco Nation News stories for Episode 319, July 1, 2023
+===================================================================
+Collected by L. Curtis Boyle
+
+Happy Canada Day to Canucks in the audience!
+
+BOATFEST:
+---------
+Ken (and me a little bit) will talk about and show some pictures from
+BoatFest, and some pickups from the show.
+(special thanks to Paul Jacobson - Pajaco6502 - for the Dragon User
+magazine!)
+Rob O'Hara (Flack) has some of his pictures up:
+  https://robohara.com/gallery/?dir=Conventions%2FBoatfest+%282023%29
+As does John "Boatofcar" Shawler:
+ 
+https://photos.google.com/share/AF1QipNYCGb5L8DbeFENIVNlpG5WN3LDkV_3cmPxHkBIT9aiPCJ0cFf8fdFsIqowyb-63A?key=VXkzWGpvbHNpdmJzcXZ6cjdWWVJ5Yzd5aEJuTTdB
+And Paul "pajaco6502" Jacobson":
+  https://photos.app.goo.gl/PHHfuRh8crFTUhz8A
+Steven (Stephen?) "Mitsoyama"
+  https://1drv.ms/f/s!Ajmv6RsudxjSuPsbGKatxMq1BJ7y6Q?e=ilfCYd
+Jason Warnes:
+ 
+https://next.retrorewind.ca/apps/photos/public/hM3mOrw69eZ56Lgq3CqM3eYhuqPBNx3N
+Mr. Kola:
+ 
+https://photos.google.com/share/AF1QipM2btu6e0z4AfQza2OVBsPYpfYrfihJAI3SgqcAZeLgW2K61bBOS8JENyiV1fVg7A?key=cndTRFZKVWhKbUJkWk9KQWFDWkp5VUM3a3FlaC13
+
+
+VCF-SW:
+-------
+For the first time in 10 years, VCF Southwest was happening thing, on the
+same weekend as BoatFest, in Dallas Fort Worth. Being in the hometown of
+Tandy, Tandy computers were well represented both on the show floor and in
+some of seminars, the latter of which we will cover later in the news. Even
+to the point that the VCF logo this year is based on the 3 diagonal color
+bars on the labels of all of our Coco's. Brendan Donahe posted some photos
+he took, including of his own booth:
+  https://www.facebook.com/groups/2359462640/posts/10160739429207641/
+And his full set of pictures:
+ 
+https://photos.google.com/direct/AF1QipMTTUdKYLd-o4oCnypAnc7GzmsqajBqj3F3rSDKsC7xJEwlQCRGhQwaFVijjSWYlQ
+Jeff of Chronologically Gaming also attended and took some photos:
+  (see my desktop folder with saved photos)
+Allan Batteiger (of RTSI.COM fame and now one of the people who own OS-9
+and still sell and maintain it - and a guest interviewee of ours some
+time ago) was there as well, and got his picture taken with Boisy Pitre,
+who was one of the seminar presenters:
+  https://www.facebook.com/groups/2359462640/posts/10160739015457641/
+He also met up with Mark Siegel, formerly of Tandy in various positions
+including Software Project Leader, Product Manager and Senior Engineer,
+and a regular in our live chat every week:
+  https://www.facebook.com/groups/2359462640/posts/10160739006697641/
+
+August 12 we have Matt Harper on (developer of Wizard's Den sold by Tom
+Mix Software).
+August 19 we have a special treat - the original programmer of The Contras
+for Sundog Systems, Doug Masten - and Glen Dahlgren who ran Sundog (and
+who has been on the show several times before, including during our Dave
+Dies interview) will be on to help co-interview Doug about one of the most
+ambitious Coco 3 games done at that time (1991-1993)
+
+
+Coco 1/2/3 (and multi-platform)
+-------------------------------
+First, an reminder on behalf of Frank @ RetroRewind: Stock replenishment
+will be slower for a month or two due to Frank recovering from wrist/hand
+surgery (and being on holidays shortly to recover).
+
+1) TRS-80 Retro Programing on YouTube posted a routine he came up with
+that does horizontal scrolling in BASIC using GET,PUT and PCOPY):
+  https://youtu.be/unIJmZ_lmWc
+
+2) Ron Klein posted that the CocoPi can now get the latest XRoar 1.4.54
+WIP update, which adds several things as well as fixes bugs in the emulation:
+  https://coco-pi.com/new-xroar-1-4-542-wip-snap-package-available-for-coco-pi/
+
+3) Coco Town posted a few of video this past week. The first is some other
+strangeness in how characters are displayed by going through the BASIC
+ROM routines vs. what the VDG chip itself does natively:
+  https://youtu.be/x5SJyWTwBLM
+And second is using BASIC's ROM routine for generating random numbers:
+  https://youtu.be/Chk8MlF5buU
+The 3rd covers several topics - structs in assembly code, modifying live
+code in a debugger, and learning how slow the RND function is in BASIC:
+  https://youtu.be/TyQjlFyhNAk
+
+4) A humble thank you to Taylor and Amy, who gave us (both as The Coco Nation
+and as Coco Talk) a tremendous shout as part of VCF-SW (in Dallas/Forth
+Worth last weekend)) Streamer panel. The females on the panel were asked
+about how they have been treated by commenters on YouTube. Chronologically
+Gaming even makes an appearance as one of the people in the audience to
+ask a question near the end:
+  https://youtu.be/QL_ph_5PPOo?t=4959
+At the same conference, Boisy Pitre (who had multiple very rare Coco related
+things on display - both officially released items and unreleased prototypes)
+did a presentation on Coco history:
+  https://youtu.be/T6mMUFEJDw0
+The Ultimate Tandy Panel went through some great stories behind the scenes
+(including the Coco, Agvision and Videotex):
+  https://youtu.be/RgHQeVCwXBY
+The guys behind the Turbo09 (whom Boisy has been helping out) did a talk
+as well, going deep into how it works:
+  https://youtu.be/LPJ4IFz4fjE
+
+5) Sad news from Robert Doggett, formerly of Microware: he reported that
+Larry Crane, one of the creators of OS-9 itself, passed away:
+  https://www.facebook.com/groups/334403350011917/posts/6308835822568610/
+Also, Boisy Pitre showed some scans of the Coco Column from Computer
+Shopper back in the late 1980's that was written by Michael Wafkowski,
+who passed away this past April:
+  https://www.facebook.com/groups/2359462640/posts/10160742023487641/
+
+6) Richard Kelly has done several updates to his Maze Creator program,
+and it is now much faster and into Beta 2, version 1. You can grab the
+DSK image to try out in the Coco Facebook group:
+  https://www.facebook.com/groups/2359462640/posts/10160742151067641/
+
+7) Simon Jonassen is doing some experimenting using special timing to
+mix both the 64x48 SG6 4 color graphics blocks and actual text on the same
+screen (normally SG6 mode tries to fetch text characters from a non-existant
+external character ROM and only shows various vertical bar patterns):
+  https://www.facebook.com/groups/2359462640/posts/10160743017592641/
+(See video in the comments that our very own Ron Delvaux made to show it
+running on a real MC-10, not an emulator)
+
+8) Allen Huffman did a blogpost which is a sequel to Jim Gerrie's 1 liner
+(32 character limit) that is coming up in the MC-10 news, and converting
+to the Coco. It's a little longer on the Coco (we can't type semi-graphic
+characters directly like an MC-10) but it's not much longer:
+ 
+https://subethasoftware.com/2023/06/28/10-print-chr205-5rnd1goto-10-simplified-by-jim-gerrie/
+
+9) New YouTube channel "Pixel & RAM" posted a Coco 2 unboxing video... which,
+other than his channel introduction video, is the very first video on
+his channel. And he has a cat named Pixel! If you watch his introduction
+video, he plans on covering a lot of stuff, from cash registers, to retro
+computers, to technology use by religion and much more. He is new to the
+Coco, so he makes some mistakes describing things, but we all have to
+start somewheres. :-) :
+  https://youtu.be/L7UunyN9-N4
+
+10) Pedro (Rocky Hill on YouTube) posted a video of upgrading a Coco 2 T1 VDG
+(true lowercase) RAM (static RAM upgrade) and ROM to Extended BASIC. This
+a longer one for Pedro - almost 3/4 of an hour):
+  https://youtu.be/bmorjLc36m0
+
+11) Captain Commodore hosted his 3rd live stream #3 - YouTube Retro
+Repairers. This one featured 5 guests, including two who have some Coco
+backgrounds amd that we have featured on our show, and Peter (8 Bits in
+the Basement) has even been on our show several times. Peter even plugs
+Nightmare Highway:
+  https://www.youtube.com/live/_luHemfscaM?feature=share
+
+12) Episode 97 of the Coco Crew dropped yesterday, although I will mention
+that the URL for the show notes is pointing to episode 96. I haven't had a
+chance to listen to it yet, but it includes an interview with Jim O'Keefe,
+and a host discussion that is a "Coco Crew Podcast retrospective":
+  cococrew.org
+
+
+MC-10
+-----
+1) Jim Gerrie released "Banner", ported from a 1978 original by Leonard
+Rosendust in 1978 from David Ahl's book "BASIC Computer Games" (Dave being
+the publisher of Creative Computing magazine). It's not a game, though;
+it's a banner making program (common for line printers back in the 1970's
+and 1980's):
+Video:
+  https://youtu.be/aL5Op-cpXCs
+Source code to download:
+ 
+https://github.com/jggames/trs80mc10/tree/master/quicktype/Productivity%20%26%20Education/Banner2
+He also did an MC-10 variation of the C-64 eternal maze making
+program... that fits into a single 32 character line (that we talked about
+earlier in the Allen Huffman blog post):
+  https://youtu.be/7FQ_ht5u2y4
+He also put up a low res graphic version of the UK's Union Jack Flag:
+  https://youtu.be/AR-cloOZi7w
+
+
+Dragon 32/64
+------------
+1) David Linsley has announced that they have made the sourcecode to
+Dragon 64 Microsoft BASIC available on GitHub (after many hours scanning
+a printout version). This includes most of the original Microsoft comments
+as well as additional Dragon ones. It should be mentioned that this would
+be very close to the Coco's as well. Another important thing to mention -
+they have Microsoft's permission for this (which includes some restrictions):
+  https://www.facebook.com/groups/2359462640/posts/10160743269217641/
+Github:
+  https://github.com/davidlinsley/DragonBasic
+
+2) Julian Brown has received his Rev 2.1 Dragon 32 replacement motherboards
+that he thinks will be the final of the initial testing boards... revision
+3 is planned to be "more radical" (see Julian's comment that describes
+that in some detail):
+  https://www.facebook.com/groups/2359462640/posts/10160748663217641/
+
+
+Game On news (all Coco related platforms):
+==========================================
+1) As covered last week, Paul Shoemaker released the Coco 1/2 version if
+his earlier MC-10 version of Video Poker.
+And as of yesterday, he has made the Coco 3 version available now as well:
+  https://pshoemaker70.itch.io/video-poker-coco-3-edition
+
+2) Jim Gerrie has been busy. First up is his port of Monster Zap, originally
+by Fred Harris in 1984 from the book "Me and My Micro: Program Translations"
+(it had been ported to the Coco / Dragon earlier by Mike Moore). It's similar
+to the popular old game Canyon Bomber, with a limited number of shots:
+  https://youtu.be/icBUgazHxSE
+Canyon Bomber seems to have been Jim's theme this week; he also posted
+Blitz by Pierre Monsault, originally for the Matra Alice (which was an
+MC-10 clone in France) from 1984 which is a much closer clone:
+  https://youtu.be/M9AuD60EUCc
+And finally, one named after the original 1977 Atari black and white arcade
+game, which I think Jim did himself:
+  https://youtu.be/_cq2zyvFKg0

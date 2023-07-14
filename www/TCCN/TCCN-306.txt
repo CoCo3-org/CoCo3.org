@@ -1,0 +1,199 @@
+The Coco Nation News stories for Episode 306, March 25, 2023
+============================================================
+Collected by L. Curtis Boyle
+
+Jeff Wires (Chronologically Gaming) is on for a full interview next week
+(Apr. 1)!
+
+Coco 1/2/3 (and multi-platform)
+-------------------------------
+1) Don Barber posted on the Coco List about Math Coprocessor cartridge he
+has made using the AMD 9511 APU (Arithmetic Processor Unit), which supports
+16 and 32 bit fixed point and 32 bit floating point arithmetic. This allows
+faster operations for things like MUL, DIV, SIN, COS, ASIN, ACOS, ATNA, EXP,
+PWR, SQRT LN and supporting functions, and the chip supports parallelism
+(more that one processing at once) which can also be exploited. Currently
+he has a patch for Coco 3 BASIC to use this cartridge, and some floating
+point heavy programs are running 10x faster. He has also made the hardware
+gerber files and the BASIC patch available on his GitHub:
+Announcement:
+  https://pairlist5.pair.net/pipermail/coco/2023-March/179448.html
+Github:
+  https://github.com/barberd/coco9511pak
+
+2) Pedro Pena (Rocky Hill) has posted instructions for installing a Pepper
+board in a Coco 2/3 (to replace the SALT chip):
+ 
+https://github.com/qbancoffee/coco_salt_replacement/wiki/Installing-a-pepper-board
+You can order them from his webstore as well:
+  https://westchester-tech.square.site/
+
+3) TRS-80 Retro Programing goes through his almost finished title screen
+for his BASIC Ultima style game that he has started working on:
+  https://youtu.be/VYuo3afYVNg
+
+4) Allen Huffman continues his deep dive into how tokenized BASIC lines
+are stored... and also that the 249/250 character limit he talked about
+in his previous blog post is more a limit of INPUT buffers - the way BASIC
+lines themselves are structured, there is no limit (within 64K anyways):
+ 
+https://subethasoftware.com/2023/03/21/alex-evans-basic-utils-change-everything-part-1/
+
+5) Jim Brain, president of the Glenside Color Computer Club (organizers
+of CocoFest) put up a blog post on the Glenside site about the fest -
+less than 30 days away:
+  https://www.glensideccc.com/its-almost-upon-us/
+
+6) Regarding NitrOS9 EOU and the CocoSDC not getting along... it has been
+discovered that there are two issues that can cause boot failures. One
+is if a person has a Coco 3 with both a 1986 (older) GIME _and_ an older
+dynamic based RAM upgrade (512K or above). The video mode we have for the
+boot screen (40 columns but without attribute bytes enabled) doesn't seem
+to reliably work in this situation, and crashes at seemingly somewhat
+random spots in the boot process. We had one person with this issue try
+swapping out an older 32 column version of the boot screen (REL module)
+and it solved his issue, so we will be reverting the REL module to 32
+columns on the next point release. The other problem is that the 6309
+version crashes every time after the 127 CocoSDC firmware update. People
+who have flashed their SDC's back to the previous version have all reported
+that the problem disappears upon doing so, so it's something in that update
+causing the issue. Bill Nobel has finally been getting some free time and
+is contact with Darren Atkinson to see if they can resolve that problem.
+The next point release of EOU should have the new REL module, a bugfix for
+a rare floating point bug in BASIC09/6309 and hopefully the SDC firmware
+problems resolved. No firm date yet.
+
+7) Cathe Cita posted on the Coco Facebook group a picture of a very small
+but complete 6809 single board computer. It includes MS BASIC and a 6850
+serial chip to talk to a keyboard terminal, and a PIA to interface with
+devices. (Apparently there is a 5MHz overclocked 6309 version as well):
+  https://www.facebook.com/groups/2359462640/posts/10160550166842641/
+
+8) Antonio Caballero has been making multiple posts on trying to get
+emulators to run Max-10 desktop publishing software from emulators. His
+final result - only MAME can run it properly (currently neither VCC nor
+XRoar can, although EJ Jaquay apparently is working on a patch for VCC):
+  https://www.facebook.com/groups/2359462640/posts/10160549878307641/
+
+9) James Diffendaffer posted a video and source code for the "animated
+running cat" that he had previously made a Coco 1/2 version of:
+  https://www.facebook.com/groups/2359462640/posts/10160546380062641/
+
+10) Emerson Costa posted originally in the Motorola MC6847 group on
+Facebook (and it got crossposted to multiple other Coco related groups)
+about some possible circuitry to allow changing the default VDG colors
+(and did a mockup using Pooyan as an example):
+  https://www.facebook.com/groups/173737063356725/posts/1305306020199818/
+
+11) "Jacob the Scientist" on Facebook posted photos of the new PCB's that
+he is working on - a UniFLEX capable 6309 system originally designed by
+Kees Schoenmaker:
+  https://www.facebook.com/groups/6809assembly/posts/3110055875954440/
+
+
+MC-10
+-----
+1) Simon Jonassen has upload the .C10 cassette file for his graphical wave
+demo to the MC-10 Facebook group:
+  https://www.facebook.com/groups/731424100317748/posts/5912077745585665/
+And a video showing it in action on emulator (runs the same on real
+hardware):
+  https://www.facebook.com/groups/731424100317748/posts/5908829592577147/
+
+Dragon 32/64
+------------
+1) Mike Miller, who programmed the AllDream assembler package for the
+Dragon, posted a bit of the history behind it in the Dragon Facebook group:
+  https://www.facebook.com/groups/dragon32/posts/3423073364618975/
+
+2) Tony Vincent posted a photo (and started a discussion) on the "Telidon
+Graphics System" board for an Apple II - it used a 2Mhz 6809 along with
+other chips to program graphics for graphics terminals:
+  https://www.facebook.com/groups/dragon32/posts/3422866021306376/
+
+3) John Whitworth of DragonPlus Electronics posted an update on his new
+batch of Dragon RGB boards - he has the CPLD's programmed now:
+  https://www.facebook.com/groups/dragon32/posts/3421675948092050/
+
+4) Chris Poacher uploaded the first full color ad, and the catalog/price
+list, for Microdeal's first Dragon releases to his Microdeal - The 8 bit
+years Facebook group. He also uploaded the first generation plain cassette
+inserts (1982) and what they were upgraded to the next year):
+  https://www.facebook.com/groups/204334613785733?sorting_setting=CHRONOLOGICAL
+
+5) Ars Technica did an article titled "Egad! 7 key British PC's of the
+1980's Americans might have missed". One of them is the Dragon 32/64:
+ 
+https://arstechnica.com/gadgets/2023/03/egad-7-key-british-pcs-of-the-1980s-americans-might-have-missed/amp/
+
+
+Game On news (all Coco related platforms):
+==========================================
+1) Jim Gerrie released "Mission Adventure" (originally by Michel Brassinne
+in 1984 from Games & Strategy magazine issue 29) for the MC-10, translate
+from it's original French to English:
+  https://youtu.be/fGmwzou3MPc
+Jim also ported over Spectral Associates "Artillery Duel" (that I just put
+up on my site recently) to the MC-10, and then added some enhancements to
+it. Still plays in just 4K of RAM (like the original did on the Coco when
+it was released in February 1981):
+  https://youtu.be/qq9_g0yUci4
+He also blog posted about his conversion of Mission ADventure:
+ 
+http://jimgerrie.blogspot.com/2023/03/mission-adventure-by-michel-brassinne.html
+
+2) Paul Shoemaker's new text based arcade game Coco Ladder is now officially
+available for download:
+  https://pshoemaker70.itch.io/coco-ladder
+He also released a longer game play video:
+  https://youtu.be/uierphJPZoQ
+
+3) Inufuto has caught up a bit this past week, with both the Coco 1/2 and
+Coco 3 versions of Cracky now available:
+ http://inufuto.web.fc2.com/8bit/cracky/
+Coco 1/2 video:
+  https://youtu.be/ps4DYmt15Rg
+Coco 3 video:
+  https://youtu.be/_wwHpVNcutc
+
+4) Chronologically Gaming (our interview guest next week) covered the
+earliest PacMan style game on the Coco: Packetman from American Small
+Business Computers, written by Greg Zumwalt and on sale by September of 1981:
+  https://www.youtube.com/watch?v=GPj-W2VCQhk&t=451s
+Aardvark's Pyramid and Tandy's Popcorn:
+  https://youtu.be/ZGRr0ZX9RRw
+He has also put up a spreadsheet of every game that he has covered so far
+(and consistently updates it) including direct video links, platform and
+his 0-5 star rating for it:
+ 
+https://docs.google.com/spreadsheets/d/1o_1ivA_kVXZhjqagvJrVZRWI7pw68A7t2Zynly9GHLI/edit#gid=0
+
+5) Pere Serrat has made patched versions of all 13 Inufuto games to allow
+some alternate keys (Q/A for up/down and O/P for left/right), automatically
+disable DOS so you don't get little glitches and possible crashes from the
+disk timer, and made them available in the Uploads section of the World
+of Dragon forums. He has made both Dragon and Coco friendly versions with
+these changes. He also included screenshots of all of them as well:
+  https://archive.worldofdragon.org/phpBB3/viewtopic.php?f=7&t=11073
+
+6) Eric Monteiro created full map screenshots for both Tut's Tomb & Shock
+Trooper, and gave me permission to put them on my site (there have been
+other updates as well over the past week):
+  http://www.lcurtisboyle.com/nitros9/tutstomb.html
+  http://www.lcurtisboyle.com/nitros9/shocktrooper.html
+
+7) Jim Mullen is working on a Coco 3 arcade game along the lines of a
+Kung Fu fighter style game, using BASIC with GrafExpress (by Jeff Steidl
+from Sundog Systems), and has released a little video demo of the side
+scrolling he has going (recorded on VCC at regular Coco 3 speed):
+  https://cocodevelopment.tinytake.com/msc/ODAzNDI5MV8yMTE4MDMzOQ
+
+8) The Amigos (Aaron & John) have released the latest Coco Show - episode
+42 covers the Tom Mix classic Dragon Slayer:
+  https://youtu.be/4_taS8pLJ2s
+
+9) SimonWGB on Twitch and YouTube did multiple Dragon 32 game streams
+this past week. One that caught my eye was he played Stone Raiders II
+(one of our current Game On Challenges)... but at the end of that stream
+he played *another* Boulder Dash clone for the Dragon called Boulder Crash:
+  https://youtu.be/qDE9kpTe1eU?t=8819

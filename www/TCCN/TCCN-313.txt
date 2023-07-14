@@ -1,0 +1,184 @@
+The Coco Nation News stories for Episode 313, May 20, 2023
+===================================================================
+Collected by L. Curtis Boyle
+
+1st, a correction from last week if you read our show notes - David Kroeker
+let me know that the test program for Diecom Phaser gun adaptor was entirely
+by Tim Lindner. My apologies for the mistake.
+
+
+Coco 1/2/3 (and multi-platform)
+-------------------------------
+1) Ken of Canadian Retro Things has released his next post CocoFest video -
+this time with our tour/interview with the Vintage Geek Museum:
+  https://youtu.be/YNz3j56sO1I
+He also did a video showing the installation (and review of) Rick Ulland's
+KeyFix 3 - the quiet click version:
+  https://youtu.be/nykZJdapS6U
+
+2) Coco Town put up a video showing some tips on animating graphical
+patterns, with lots of examples:
+  https://youtu.be/eZY_402qkok
+And a part 2 with different STEP rates for different graphical effects:
+  https://youtu.be/bvVRhL2KwE0
+
+3) Allen Huffman posted a blog entry about inverse video on the Coco (the
+light green on dark green text). He goes through the hardware options (a
+bit on the T1 VDG, a pin on the original VDG) and then inverting characters
+on the 32 column screen via a BASIC program - and various optimizations
+he did along the way:
+  https://subethasoftware.com/2023/05/16/inverse-reverse-text-on-the-coco/
+
+4) TRS-80 Retro Programing on YouTube put up a video of a little side
+project he did (to take a break from his upgrading Tales of Suburbia),
+animating a text based arrow on the screen in just a few lines of code.
+  https://youtu.be/kM8HYHgg0rU
+
+5) The Wisconsin Computer Club put up a video walkthrough of CocoFest 31:
+  https://youtu.be/EO2lnleDvcI
+
+6) 780tech.com put up a quick <3 minute video about this past CocoFest,
+set to a custom song with screenshots (and some live singing with Taylor,
+Amy & AJ):
+  https://youtu.be/FCBLjhkPoTo
+
+7) Retro Dream on YouTube did an interesting video - using a 3D modeled
+perspective to go through early Microcomputers from the Apple II through
+the Amiga 1200 (each with some specs, release date and a model of what the
+computer looked like... including the Coco 1 (well, specs wise - the model
+is either a Coco 2 or TDP-100 by the looks of it). There are many mistakes
+in it though - like what I just mentioned, and sales figures (they show
+the Dragon 32/64 selling 50K units - it's more like 350-400K for the two
+combined). The Coco 3 isn't even mentioned. So, cool effect... shame about
+the facts (granted there was a *lot* of stuff to go through):
+  https://youtu.be/JdZ4XFEZFnc.
+
+8) YaggieBoat on YouTube did a video showing him trying the Backbit Pro
+on his Coco 2 (we covered the Coco version of the Backbit some months ago,
+when they added disk support). It's not as slick/easy to use as a CocoSDC
+- but with little adaptor cards, you can run the same Backbit on multiple
+retro platforms:
+  https://youtu.be/AOrheII8DV0
+
+9) TeePublic is apparently now selling "Mr. Coco" stickers:
+  https://www.teepublic.com/sticker/36292395-mr-coco
+
+10) Michael Furman put up part 2 of his Flex VLOG series:
+  https://youtu.be/XD7kG-iluwE
+
+11) Shawn Driscoll (whom I just recently got back in contact with decades
+after we were both active on Compuserve & Fidonet back in the 1990's),
+put up a video talking about his history with the Coco 3 and OS-9 Level
+II... and the GUIB library he wrote for it and then used in games like
+the text adventure "Stranded... and out of gas!" and his BASIC09 version
+of Shanghai. All 3 of these are included with EOU (although I have some
+cosmetic fixes to make due to the line drawing algorithm having changed
+since NitrOS9 went open source):
+  https://www.youtube.com/watch?v=eEiTbjiJ-TQ
+
+12) Luciano Scharf put up some photos on the Coco Facebook group from the
+XI RetroSC show - a multiplatform retro computer show that took place in
+Blumenau, SC, Brazil on May 13:
+  https://www.facebook.com/groups/2359462640/posts/10160658055532641/
+
+13) Paul Ripke posted in the Coco group on Facebook about his making an
+assembly language version of Conway's game of Life that he did during
+CoVid, and the link to his Github for the projec. It supports 4 different
+resolutions:
+  https://www.facebook.com/groups/2359462640/posts/10160657946447641/
+GitHub:
+  https://github.com/stixpjr/cocolife
+
+12) MrDave6309 had released a couple of videos about converting PMODE 4
+machine language games to PMODE 3 (for PAL/RGB systems, and then further on
+changing palettes for Coco 3 to play such games in color on an RGB monitor.
+1st video - how to look for graphics mode settings in ML games and how to
+change them (using POKE's after LOADMing):
+  https://youtu.be/L6vod1RfBMQ
+2nd video - how to do this from BASIC:
+  https://youtu.be/OzexdHHpt9A
+
+
+MC-10
+-----
+1) David Mitchell posted a program to draw a sphere on the MC-10, ported
+from a ZX-81 program:
+  https://youtu.be/mGzes-4ByEQ
+
+2) Robert Sieg has continued his updating of his algorithms for converting
+high color pictures to the MC-10 4 color palette:
+  https://www.facebook.com/groups/173737063356725/posts/1335288630534890/
+
+
+Dragon 32/64
+------------
+1) David Mitchell posted a program from the book "35 Programs for the
+Dragon 32" by Dr. Tim Langdell that is a Weave graphics demo, but with some
+changes: he added a title screen, added repeat when the screen is finished,
+and varies the radius and foreground color:
+  https://youtu.be/WdSlsYLhm50
+
+2) Kamil Gorgh Trzaska posted a link in the Dragon group on Facebook
+to a Python wrapper he did to give a GUI to Rolf Michelson's DragonDOS
+disk utility:
+  https://www.facebook.com/groups/dragon32/posts/3459116354348009/
+Google drive link:
+ 
+https://drive.google.com/file/d/1asTinG8cp78BxaJs4kv5mJWFh7NKSeiy/view?usp=sharing
+
+
+Game On news (all Coco related platforms):
+==========================================
+1) Jim Gerrie game updates for the week:
+3D Mc-Chase (compiled with Greg Dionne's BASIC compiler) is an update to
+one he did a few years back, now adding MC-10 joypad support and key repeat:
+  https://youtu.be/Oy906DkSEj8
+He also updated his own Missile Attack, with the 2nd palette of SG6 mode,
+and full 8 way (vs. the original 4 way) movement of the cursor in this
+Missile Command inspired game:
+  https://youtu.be/4FZEO5pY_Cs
+He did an updated version of his Frogger game as well, featuring the new
+key input routine, some speedups & adding a jump sound:
+  https://youtu.be/2zzNRoiHqdU
+
+2) Chronologically gaming has hit a few games for the Coco this past week
+for March 1982:
+Amazing (Chromasette), Card Games (Tandy), Color Computer Dancing Devil
+(Tom Mix), Cosmic Superbowl (Spectral):
+  https://youtu.be/AgPOKWY97w0
+He also did a special episode going through an early issue of Electronic
+Games magazine issue #2 - which had their picks for the best games of
+1981. Jeff's own choices are often quite different... and feature a couple
+Coco games!
+  https://youtu.be/KH4dTZDvFro
+He also covered Ken Kalish's 1st Coco game (Escape), Scepter of Kzirgla
+and Space Raiders:
+  https://youtu.be/afX3z7YGHx8
+And finally, Tower of Fear by The Programmer's Guild (Charles Forsythe):
+  https://youtu.be/n5BDYEcECTw
+
+3) Jeo Papas has released more game play videos this week, including 3
+versions of Fahrfall:
+Pandemic version on Dragon 32 by John Linville:
+  https://youtu.be/GuYFR3XBXYk
+MC-10 4K version by Jim Gerrie:
+  https://youtu.be/QYfjlTEGZiM
+Coco (I presume 4K as well) version by Jim Gerrie:
+  https://youtu.be/ZDjLofVHEZc
+
+4) Jerry Young on YouTube did a gameplay video of his Haunted House for
+the MC-10, originally from the book "Computer Games To Play and Write"
+from 1983 by Dan Isaaman:
+  https://youtu.be/wnGMUGVETRQ
+
+5) The only way is Cuthbert, GA posted many more longer play Dragon
+game videos:
+  https://www.youtube.com/@MaryWinstead32/videos
+
+6) Tim & AJ try out the Coco game Buzz Worm on Episode 83 of Sibling Rivalry
+(recorded before CocoFest):
+  https://youtu.be/hEkBHVqhyaQ
+
+7) David Mitchell posted a type in game from the book "The Power of the
+Dragon" by John Sharp and David Bolton - City Bomber:
+  https://youtu.be/h1zccjrx8M4

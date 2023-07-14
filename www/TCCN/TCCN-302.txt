@@ -1,0 +1,222 @@
+The Coco Nation News stories for Episode 302, February 25, 2023
+===============================================================
+Collected by L. Curtis Boyle
+
+Two weeks of news, so buckle up... it's gonna be a *long* one!
+
+Coco 1/2/3 (and multi-platform)
+-------------------------------
+1) Pierre Sarrazin has released version 0.1.7) of BGraph, the C graphics
+library for his CMOC the offers functions similar to BASIC's LINE, DRAW, PAINT
+and CIRCLE commands (this doesn't call the BASIC routines, and BASIC is not
+required). The library also now supports clipping lines on a rectangle using
+the Cohen-Sutherland algorithm, and supports Catmull-Rom splines. You can
+download it from Pierre's CMOC site:
+  http://perso.b2b2c.ca/~sarrazip/dev/cmoc.html#bgraph
+
+2) Henry Reitveld put a video up on his YouTube channel showing him using his
+new MIDI Maestro (from Retro Innovations) with his Casio keyboard, using the
+Coco 1/2 MIDI program Lyra:
+  https://youtu.be/nkVNtCnkKdM
+
+3) TRS-80 Retro Programing posted a video about a problem he hit using PCOPY:
+  https://youtu.be/xGNRlFD-mgU
+
+He posted a followup video on Ghost Saga as well:
+  https://youtu.be/T_UsGfIOg3k
+
+And also working on a program to convert Base 10 to Base 5, part 1. Turns out
+to be a more difficult than he originally expected:
+  https://youtu.be/PESk7ZLJbkg
+
+He also showed the speed difference when changing his Tales of Suburbia to use
+PCOPY vs. the original non-byte aligned GET/PUT. It is both noticeably faster
+and also much smoother animation wise:
+  https://youtu.be/r5MRbIBhRbw
+
+4) Allen Huffman posted a blog post about how the FILES command affects free
+memory in Disk Extended Color BASIC:
+ 
+https://subethasoftware.com/2023/02/14/coco-disk-basic-files-command-and-memory/
+
+He also posted on the extra bit flag options available on the T1 VDG chip for
+the Coco 2 - color set is on both VDG's, but true lowercase, inverse video and
+full border are only on the T1 VDG (and the Coco 3's GIME chip)):
+ 
+https://subethasoftware.com/2023/02/15/6847t1-test-program-for-late-model-coco-2s/
+
+He also did one on using the CIRCLE command to do spirals rather than
+concentric circles:
+ 
+https://subethasoftware.com/2023/02/15/high-resolution-spiraling-in-extended-basic/
+
+And one for users of XRoar 1.3.1 or later - how to configure the Coco 3 keys
+(Alt, Ctrl, F1, F2), especially on the Mac OSX version:
+ 
+https://subethasoftware.com/2023/02/18/xroar-emulator-ctrl-alt-f1-f2-keyboard-config-for-coco-3/
+
+The aid people who want to fiddle with these settings, he has also set up a
+cocopedia page with configuration file examples that you can cut & paste, or
+modify for the settings you want:
+  https://www.cocopedia.com/wiki/index.php/Xroar.conf
+
+He also did a blog post about the DLOAD command and what it actually does on
+the Coco 3 (and the POKE/EXEC equivalent):
+  https://subethasoftware.com/2023/02/21/poke-1130exec-40999-and-dload/
+
+He also posted on the Coco Facebook group that he found some disks with buffer
+saves from his calling the Hayes BBS (which had a Coco section). He is working
+on getting them gathered up to post for the public in the future:
+  https://www.facebook.com/groups/2359462640/posts/10160487401037641/
+
+5) Glen Hewlett put up a blog post covering some of the differences (and how to
+adjust for them) between the 6502 and 6809 if you are transcoding:
+ 
+https://nowhereman999.wordpress.com/2023/02/15/mos-6502-to-motorola-6809-assembly-language-transcoding/
+
+6) Carl England gave an update of getting a new utility done to copy copy-
+protected floppies to an SDC (and that also work), with some help from the
+CocoSDC's creator, Darren Atkinson:
+  https://www.facebook.com/groups/2359462640/posts/10160480525687641/
+
+7) Terry Trapp returns with a Coco video showing a "broken" Coco 1 he acquired
+at Goodwill:
+  https://youtu.be/5iU1nB2GoD8
+
+8) John Zizolfo on Facebook (who posted the template for making double sided
+disks last week) has uploaded 3 label layouts for floppies as well that you can
+print out:
+  https://www.facebook.com/groups/2359462640/posts/10160483110462641/
+
+9) Ron Klein posted that XRoar 1.3.1 is now available on the Coco Pi:
+  https://coco-pi.com/new-xroar-1-3-1-package-available-for-coco-pi/
+
+And MAME 0.252:
+  https://coco-pi.com/new-mame-0-252-package-available-for-coco-pi/
+
+10) Congrats to both the Coco Crew and The Coco Show for getting in the top 10%
+of the "Listen" score according to Listen Notes:
+ 
+https://www.listennotes.com/search/?q=coco&sort_by_date=0&scope=podcast&offset=10&language=Any%20language&len_min=0&ecount_min=0
+
+11) YARC (Yet Another Retro Channel) on YouTube did a re-cap and composite mod
+with universal video driver video:
+  https://youtu.be/Yy_WHm6sDuA
+
+12) Canadian Retro Things (our very own Ken Waters!) released the 3rd video in
+his series about getting a new Coco... now what do you do? This episode covers
+the Coco 3 specifically (he covered this last week, but I wanted to give it a
+quick mention this week as well):
+  https://youtu.be/9G8qgrvPsQc
+
+13) Sheldon MacDonald posted that he has updated his SegaCoco IDE to version
+0.12 (this is a an IDE / assembler he has been working on that will generate
+code and run it in emulators for both a Coco and the Sega Genesis). This update
+even includes a demo program for the Genesis called "chicken dance":
+  https://www.facebook.com/groups/2359462640/posts/10160498458207641/
+
+14) Richard Kelly did a cool demo in semigraphics called the "Ants on Bridge"
+demo. This features moving the "ants" across bridges that is flicker free and
+the ants go under or over bridges. All in BASIC with no ML suborutines at all,
+and it can be downloaded from the Coco Facebook group:
+  https://www.facebook.com/groups/2359462640/posts/10160489832037641/
+
+
+MC-10
+-----
+1) Jim Gerrie found an MC-10 video has been released for the "In it's own
+Words" video series (may want to mute the sound):
+  https://youtu.be/EcoKaclt1sU
+
+2) Verne's Misadventures on YouTube release part 2 of his MC-10 video: Setting
+up & learning to use the MCX32-SD:
+  https://youtu.be/TxTd4P7O3Gc
+
+Dragon 32/64
+------------
+1) John Whitworth posted an update about his RGB boards, now that he is out of
+the hospital: Prototype boards sent off to the PCB assembly company:
+  https://www.facebook.com/groups/dragon32/posts/3396823717243940/
+
+He also has EPROM converters:
+  https://www.facebook.com/groups/dragon32/posts/3396178373975141/
+
+He also put up a video on YouTube showing his Dragon Beta/128 fixed up, and
+runs the BASIC09 graphics demo that uses the enhanced graphics and text in a
+640x540 multicolor mode:
+  https://youtu.be/fl_m6Mn0m_Q
+
+2) The Clueless Engineer released a 3 part video series about the Dragon 32 on
+YouTube:
+Part 1:
+  https://youtu.be/72LvEHGdzIQ
+
+Part 2:
+  https://youtu.be/1_USfg3G3Tw
+
+Part 3:
+  https://youtu.be/o0xAoE05nHc
+
+3) 8-Bit Shack released a video on his YouTube channel showing how to build a
+composite Video lead for his Dragon 32 "loft find":
+  https://youtu.be/PmbEFJPBqeU
+
+4) ToBach on YouTube posted a short video of his entry for the Lovebyte 256
+byte oldskool intro combo, which place 16th out of 22. It's a low res color
+swirling effect:
+  https://youtu.be/21TCSpsS1gs
+
+5) Captain Commodore on YouTube released a video showing how to build and
+install a Dragon 32 Power Supply Unit (PSU) from Dragonplus Electronics:
+  https://youtu.be/-2Tvoa_Jses
+
+6) Phil Harvey-Smith posted on the Dragon Facebook group about the hardware
+modification that he did to get Paul Shoemaker's Ghost Rush to work on a Dragon
+32 that has 16 chips to get 32K (I assume that this is similar in principal to
+a stacked 16K RAM upgrade on a Coco - the VDG /SAM could not normally use the
+upper 16K of RAM for video):
+  https://www.facebook.com/groups/dragon32/posts/3403534279906217/
+
+
+
+Game On news (all Coco related platforms):
+==========================================
+1) Jim Gerrie ported a 1980 Gin Rummy 2.5 program originally written by S.
+Silverman for the TRS-80 Model I/III, and released both a video and a blog post
+about it:
+Video:
+  https://youtu.be/kqffNZim5vY
+
+Blogpost:
+  http://jimgerrie.blogspot.com/2023/02/gin-rummy-by-s-silverman-1980.html
+
+2) As promised, Sheldon MacDonald has released the source code to his Treasure
+Island Defense (6 bit DAC sound version). It is included with his IDE project
+(link at top):
+  https://www.softmotion3d.ca/index.php?topic=6.0
+
+3) Tim & AJ released episode 71 of Sibling Rivalry - this time playing Diecom's
+Coco 3 game, Gantelet II. This was one my favorites, and the only Coco game I
+know of that could have 4 simultaneous players.
+  https://youtu.be/fToF_-4qxDU
+
+4) Chronologically gaming took a quick look at some real old Spectral
+Associates games for the Coco from 1981 - both written in BASIC - including
+Battlefleet (Battleship with some twists) and Artillery Duel - Artillery in
+real time against the computer. The latter only took 4K RAM.
+  https://youtu.be/6SOCuoGTXlQ
+
+Also he went over Tandy's Crosswords cartridge game:
+  https://www.youtube.com/watch?v=f8NcoLqUC9g&t=3545s
+
+5) A new channel on YouTube (in Portuguese) is making videos of Dragon games in
+quick 30-40 second clips. For some reason, many are zoomed in so that you can't
+see the whole screen. He seems to be going in roughly alphabetical order -
+currently on the D's as of Friday. This includes some that I haven't seen
+before:
+  https://www.youtube.com/@user-zr2tz2ig2e/videos
+
+6) Happy Coding (a regular streaming partner with the Amigos who works on the
+Spectrum) posted a video to YouTube showing the current status of Pere Serrat's
+porting Happy's Asteroids RX Spectrum game to the Dragon 32:
+  https://youtu.be/97mBx2nINY0

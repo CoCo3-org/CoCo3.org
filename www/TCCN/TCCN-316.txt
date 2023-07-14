@@ -1,0 +1,196 @@
+The Coco Nation News stories for Episode 316, June 10, 2023
+===================================================================
+Collected by L. Curtis Boyle
+
+Nick Marentes and I will be interviewing Ron Bull - who ran the Bull's Barn
+Coco website 20 years ago, as well as being the co-organizer of PennFest
+1999 and PennFest 2000
+
+Next week (June 17) we have Dave, the man behind the new YouTube channel
+Coco Town, on for an interview!
+June 23, Ken and I will hopefully be reporting live from BoatFest while
+Mark Overholser hosts the news, and Sloopy hosts the Game On Challenge.
+August 12 we have Matt Harper on (developer of Wizard's Den sold by Tom
+Mix Software).
+August 19 we have a special treat - the original programmer of The Contras
+for Sundog Systems, Doug Masten - and Glen Dahlgren who ran Sundog (and
+who has been on the show several times before, including during our Dave
+Dies interview) will be on to help co-interview Doug about one of the most
+ambitious Coco 3 games done at that time (1991-1993)
+
+Coco 1/2/3 (and multi-platform)
+-------------------------------
+1) Coco Town on YouTube (who is our guest next week) has released the 2nd
+episode of his using Coco floating point routines in the BASIC ROM from
+assembly, this time exploring how the fractional parts for the 5 byte
+floating point numbers work, passing strings to BASIC from assembly, etc.:
+  https://youtu.be/KawKWmiJoZA
+He also has a short video announcement: The source code for programs that
+he has shown on his channel for the Coco are now available for download!
+Announcement:
+  https://youtu.be/lYK_JaKfnjI
+Downloads:
+  https://cocotownretro.wordpress.com/
+
+2) Allen Huffman posted on his blog about his being part of the phone
+phreaking scene when he was young, and going through a few of the programs
+that generated the extra tones, the various colored "boxes" and scanning
+for computers by going through phone numbers. I dabbled with this a bit
+myself back in my pre-Coco 3 days:
+ 
+https://subethasoftware.com/2023/06/06/phreak-philes-modem-scanning-in-the-late-1980s/
+
+3) Ron Klein posted about a few updates that are now available for the
+Coco Pi:
+TRS80GP emulator added (this was originally an emulator strictly for the
+Z80 based b&w TRS-80's, but now has MC-10 and Coco 1/2 support added):
+  https://coco-pi.com/new-trs80gp-emulator-added-to-coco-pi/
+XRoar 1.4.1 - official release with new composite color tweaks, initial
+mouse middle button paste, many more controls available from the GUI for
+GTK+ and Windows, fixes to sync bytes for DMK disk files, and more:
+  https://coco-pi.com/new-xroar-1-4-1-package-available-for-coco-pi/
+New update to ugBAsic
+  https://coco-pi.com/new-update-for-ugbasic-now-available-for-coco-pi/
+Also, I think it was his birthday this past week?
+
+
+4) ChibiAkumas has updated his Coco 3 page for his assembly language
+programming series, which includes information on the MMU, GIME registers,
+etc:
+  https://www.chibiakumas.com/6809/coco3.php
+
+5) TRS-80 Retro Programing on YouTube put up another "side video" - this
+one called "Nostalgia-inducing retro graphics", where he asks viewers if
+they know/remember any of the graphics shown (definitely some from tape
+and print magazines, the Color and Extended BASIC manuals, etc.):
+  https://youtu.be/25QpWBQ2jCE
+
+6) Michael Furman release episode 5 of his FLEX series on YouTube (Nick
+Marentes will like the tail end of the intro):
+  https://youtu.be/uBkrlUfA_5Q
+He has also announced that the Frank Hogg Laboratories port of Flex to the
+Coco, version 5.0.4, is available for download from the Internet Archive
+(and hopefully the Color Computer Archive soon), thanks to his efforts
+on fixing the existing DSK images. Also, the "Color Utilities" disk and
+"ED" editor from FHL, and TSC (Technical Systems Consultants - original
+authors of Flex in the late 1970's) Extended Basic all are now available
+for download. The announcement, details and download links:
+  http://www.ocs.net/2023/06/08/general-availability-of-fhl-color-flex-5-04/
+
+
+
+MC-10
+-----
+1) Jim Gerrie released his port of "Mastermind Codebreaker', originally
+by Lloyd Milligan in RT-11 BASIC, from the October 1977 issue of BYTE
+magazine. This program is used to figure out solutions for the Mastermind
+board game (of which there are multiple versions on the Coco as well):
+  https://youtu.be/N8ahDklX3Bs
+
+2) Robert Sieg put up a screen shot showing some ideas for large characters
+using the SG6 (64x48) mode on the MC-10:
+  https://www.facebook.com/groups/731424100317748/posts/6149232501870187/
+
+Dragon 32/64
+------------
+1) David Mitchell released another video & software download showing a
+graphics demo for the Dragon 32, originally by Dr. Tim Langdell from his
+book 35 Programs for the Dragon 32. He notes that it eventually will crash
+with an ?FC ERROR:
+Video:
+  https://youtu.be/NGxv51xqM6A
+Github sourcecode download:
+ 
+https://github.com/daftspaniel/RetroCornerRedux/tree/main/Dragon/TypeIns/Snowflake
+
+2) Tony Jewell posted a photograph he just discovered this week, showing
+photos from inside the Eurohard Dragon plant in Spain at it's inauguration
+from December 19, 1984:
+  https://www.facebook.com/groups/dragon32/posts/3474913886101589/
+The full article with more pictures:
+ 
+https://fundceri.org/extremadura-en-imagenes/dragon-data-los-microordenadores-fabricados-en-extremadura
+
+English Translation (for some reason google translate for a website is
+not working for me):
+  "Progress belongs to those who imagine the future." Today in
+  #ExtremaduraEnImágenes we delve into a time when only a few saw the
+  Information Society as a revolution, reliving through our gallery the
+  inauguration of the Dragon microcomputer factory, which took place on
+  December 19, 1984.
+  At the beginning of the eighties, a large British toy company called
+  Mettoy sought to enter the new world of personal computing that was
+  beginning to have a great commercial projection worldwide. Mettoy, based
+  in Wales, created the Dragon Data company seeking to manufacture a home
+  microcomputer, thus emerging the Dragon 32 computer (named for its 32
+  Kilobytes of RAM).
+  In 1984, a corporation called Eurohard, S.A. was founded in Spain with
+  the aim of entering the personal computing market. Taking advantage of
+  the cancellation of the purchase of Dragon Data by Radio Shack, Eurohard,
+  with the help of different Spanish entities, bought the company in August
+  1984, moving its headquarters from Wales to Spain and establishing, on
+  the one hand, its commercial headquarters in Madrid and, on the other,
+  its computer factory in Casar de Cáceres (Extremadura).
+  With the Dragon 200 model, Eurohard won on February 6, 1985 a contest
+  of the Ministry of Culture of the Junta de Extremadura for the supply of
+  computer systems to educational centers. For this reason, in Extremadura,
+  the computer made by the new company Dragon Data was popular among
+  schoolchildren. He then tried to achieve the same at the national level
+  by submitting the team in a bid to win the Ministry of Culture's Project
+  Athenea contest.
+  Today in #ExtremaduraEnImágenes we rescue from our Photo Library the
+  inauguration of the Dragon microcomputer factory, which took place on
+  December 19, 1984. The event was attended by, among others, those who
+  on those dates were:
+     Mr. Juan Carlos Rodríguez Ibarra (President of the Junta de
+     Extremadura).
+     D. Manuel Veiga López (president of the Provincial Council of
+     Cáceres).
+     D. Eugenio Álvarez Gómez (Minister of Industry and Energy)."
+
+Tony also found an article in the "Tales from the Vault" series for the
+IEEE Life Members newsletter called "Dealing with Dragons", written by
+John Haine. John was a member of PA consulting back in 1982 (they designed
+the Dragon). The article covers the hardware fix they came up with for a
+"ghost" vertical feature that showed up on early Dragon 32's screens, and
+how they figured it out. And why companies doing designs should have more
+robust understanding of what they are doing when they design something just
+to save money. (NOTE: several current Dragon experts mention both missing
+and incorrect information in this article, but that may be because it was
+written 20 years after the author was involved).
+  https://lmnewsletter.ieee.org/2020/12/01/dealing-with-dragons/
+
+
+
+Game On news (all Coco related platforms):
+==========================================
+1) YouTube channel HamataroFan2002 did a 3 minute play video of the
+official Frogger on the Coco (he has recently done a lot of the official
+Frogger ports):
+  https://youtu.be/FYgczaM910I
+
+2) Chronologically Gaming covered a few Coco games this week that were
+released around April 1982.
+The Great Word Game:
+  https://www.youtube.com/watch?v=oVyWJ91s20Y&t=1588s
+Color Scarfman:
+  https://www.twitch.tv/videos/1841473152?t=00h14m43s
+Storm:
+  https://www.twitch.tv/videos/1841473152?t=00h41m37s
+I was also a guest on his show yesterday, where I gave my opinion on
+Scarfman and Storm, as well as the other games he did from April 1982.
+
+3) David Mitchell has another Dragon type in game - Drastar 4, originally
+by Brian Morely and published in the August 1984 issue of Dragon User
+magazine. He has both the video and BASIC source available for download
+(as usual, David has added a bit - he added the speed up POKE and the
+title screen):
+Video:
+  https://youtu.be/VCQQjyn6fj8
+Download:
+ 
+https://github.com/daftspaniel/RetroCornerRedux/tree/main/Dragon/TypeIns/Drastar4
+He also posted a link to the specific Dragon User magazine that it came from:
+ 
+https://archive.worldofdragon.org/browse/downloads/Magazines/Dragon%20User/1984/DragonUser_0884.pdf
+

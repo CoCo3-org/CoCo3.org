@@ -1,0 +1,184 @@
+The CoCo Nation News stories for Episode 291, December 3, 2022
+================================================
+(November 26-December 2)
+Collected by L. Curtis Boyle
+
+CoCoTALK! is becoming The CoCo Nation in the new year.
+Steve Strowbridge has retired CoCoTALK! and the show will continue
+under the new name and new management.
+
+Coco 1/2/3 (and multi-platform)
+-------------------------------
+Alan @ AC's 8-bit zone released a video about installing the CocoDV on
+a variety of Coco 1 & Coco 2 models:
+  https://youtu.be/ZztOCo-0GKI
+
+Damon Beals in our Discord posted a webpage devoted to installing a
+6309 in a Vectrex, and running Scramble modified to run in 6309 native
+mode (you can see the scrolling terrain is faster/smoother, especially
+on the right hand side where terrain comes in):
+ 
+https://itwww.hs-pforzheim.de/daten/mitarbeiter/johannsen/vectrex_lab/projects/mc_6309/mc_6309.htm
+
+Glen Hewlett (of various arcade transcodes fame) posted a blog post to
+explain how to stream large files from the CocoSDC, including a library
+of ASM routines to do so. He also points out a few things that are not
+currently in the documentation; 1) a stream file must be at LEAST
+79,360 bytes long, and 2) it must be padded to a 512 byte boundary;
+otherwise the CocoSDC will lock up:
+ 
+https://nowhereman999.wordpress.com/2022/11/30/streaming-large-files-on-the-cocosdc/
+
+Allen Huffman made a blog post about a program he wrote for Laverne
+Ricks back in 1987. It originally started out as a Coco Pen-Pal log and
+ended up being a Paper Route database for Laverne. He goes through how
+the program ran and it's features that he wrote just he completed high
+school in 1987.
+ 
+https://subethasoftware.com/2022/11/30/my-1987-paper-route-program-i-wrote-for-laverne-ricks-in-lufkin-texas/
+Allen has also been experimenting with the ChatGPT AI (that has been
+covered this week by The Verge and other big tech websites), and is
+fairly impressed with it, including it's (sometimes partially) figuring
+out BASIC, assembly and C source code. The Coco related blog posts
+about his experiments:
+6809 assembly:
+ 
+https://subethasoftware.com/2022/12/01/chatgpt-ai-can-analyze-6809-assembly-language/
+BASIC:
+  https://subethasoftware.com/2022/12/01/openais-chatgpt-knows-basic/
+
+The November episode of the Coco Crew has dropped, including a review
+of Paul Thayer's recently released CocoBan:
+  cococrew.org
+
+Ron Klein has a couple of updates for the CocoPi - XRoar 1.2.719 WIP is
+now available, as well as MAME 0.250. The MAME update includes Tim
+Linder's Elanco AgVision & Videotex emulation:
+  https://coco-pi.com/2022/11/
+
+Floyd Resler (author of one of the "new-to-EOU" games in Version 1.0.0,
+SpaceZap) posted an interesting question/poll on Facebook - How did
+everyone get their first Coco/Dragon?
+  https://www.facebook.com/groups/2359462640/posts/10160322056912641/
+
+Antonio Caballero posted a remastered box template that you can use to
+replace the box for Direct Connect Modem Pack, on the Coco Facebook
+group:
+  https://www.facebook.com/groups/2359462640/posts/10160320838247641/
+
+Alderson Retro Computing released a brief YouTube video showing his
+Coco 3 playing GFL Championship Football II, and also his first time on
+camera:
+  https://youtu.be/I4Q_PIMiy1c
+
+Vintage Geek on YouTube did a preview/behind the scenes video of the of
+the fist exhibit (a computer classroom) that they are setting up for
+their Vintage Geek Museum in Knoxville, Tennessee (not quite open yet).
+It has Coco's prominently displayed during the presentation &
+interview:
+  https://youtu.be/B_y5AoqkAqc
+
+Nik Brisevac posted a picture of a 3D printed joystick/paddle
+controller he got off of Thingiverse, which he has adapted to the Coco:
+  https://www.facebook.com/groups/2359462640/posts/10160325702397641/
+
+James Ross posted an interesting poll (with over 150 votes already) -
+what machine did one migrate to for daily work after the Coco? In my
+case it was the TC-9, and then finally a Windows 98 PC (way after
+Windows 98 was obsolete):
+  https://www.facebook.com/groups/2359462640/posts/10160325673502641/
+ 
+
+MC-10
+-----
+Jim Gerrie continues his semigraphics country flags series, this time
+rendering the Chinese flag and a strong political statement:
+  https://youtu.be/IJysPa3ZTjQ
+
+Robert Sieg posted his Full Screen Project sprite software package for
+the MC-10, including source code. This used the Gameboy Sprite
+Generator software make tiles/sprites for the software package in 4x6,
+8x8, 8x16, 16x16 and 32x32 resolutions.
+ 
+https://www.facebook.com/groups/731424100317748/posts/5558762370917206/
+
+
+Dragon 32/64
+------------
+wayland on YouTube took up the Mandelbrot Challenge 8 bit Battle Royale
+Text mode:
+  https://youtu.be/wirvwHVokz4
+He then uploaded a semigraphics version to add some color:
+  https://youtu.be/uaamZzfBqJU
+(This is similar to a BASIC09 version I did about a year ago, on the
+Coco 3 for both the 6809 and 6309. EOU version 1.0.0 will run a little
+faster, too)
+  https://youtu.be/5HSlruKzCxk
+
+
+
+Game On news (all Coco related platforms):
+==========================================
+Color Computer Programing has changed his YouTube channel name to TRS-
+80 Retro Programing, and has release a no-commentary update video to
+his "Tales of Suburbia" graphical adventure game, now in it's second
+program for Stage 2:
+  https://youtu.be/3cFMfi6XyHg
+
+Jim Gerrie has released a port of the Dungeons of Doom RPG game
+originally by Les Howarth, Cheryl Evans and Chris Oxlade for the 1984
+"Write Your Own Adventure Games" book. The version Jim did is based on
+the BBC Micro, and he added a simple 3D view using the 64x48 SG6
+graphics system made by Erico Patricio Monteiro. The game lets you make
+your own characters and even your own maps:
+  https://youtu.be/aL1-510kX3w
+
+Pere Serrat posted the 7th Supersprite FM+ enhanced AGD games for the
+Coco and Dragon. The 4 games in this pack is:
+Papyrus
+Sprouty
+Stars
+UFO
+  http://archive.worldofdragon.org/phpBB3/viewtopic.php?f=7&t=11056
+Pere also has released the first BIG PACK (a collection of all
+Supersprite FM+ enhanced AGD games to day - so all 7 separate packs
+combined - 28 games):
+  http://archive.worldofdragon.org/phpBB3/viewtopic.php?f=7&t=11057
+Pere also posted a ZIP file with screenshots from the original
+Coco/Dragon AGD converted games, to help people select the next games
+to port to the SuperSprite FM+. He also notes that any games to be
+converted can not have sprites other than 16x16 - the V9958 chip on the
+board only supports sprites of that size, and that he is thus working
+on a list that will exclude games that can't be ported:
+  https://www.facebook.com/groups/dragon32/posts/3333481016911544/
+
+Robert Sieg posted the download for his game port of Flipull, that
+requires either the VMC-10 emulator or an MCX-128 card on a real MC-10
+(screenshot in the comments) and can be found in the MC-10 Facebook
+group:
+ 
+https://www.facebook.com/groups/731424100317748/posts/5558938100899633/
+
+The Games Version Comparison channel on YouTube did an interesting
+video covering the evolution of games based on Robert Heinlein's book,
+Starship Troopers (unfortunately it doesn't show any gameplay attacking
+bugs - just running around the map). And it starts with the 1982 Coco
+game Klendathu by Leo Christopherson:
+  https://youtu.be/zsnF70FAIXc 
+
+The Video Game Magazine channel on YouTube put up their "slideshow" of
+Electronic Games magazine issued #1 (October 1981 issue), which
+actually has a 2 page spread about the first Color Computer. Cool to
+look at if you have never seen it before:
+  https://youtu.be/AI26yFQWX8Y?t=111
+(Also, at 5:21, it has a quick review of Space Trader by Spectral
+Associates for the Coco, and also a comparison of Football games,
+including a screenshot of Tandy's Coco Football at 6:12)
+
+Ken of Canadian Retro Things put up a video last night of not one, but
+two new Coco games: CocoBan (by Paul Thayer) and Jumping Joey (by Nick
+Marentes). He also shows how to use the table of POKE values that Nick
+put up on his Jumping Joey webpage to get the graphics of other higher
+semigraphics games from the Coco 1/2 working on a Coco 3 (although text
+characters will be lost):
+  https://youtu.be/SeDY-eggVWc

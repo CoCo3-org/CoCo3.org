@@ -1,0 +1,159 @@
+The CoCo Nation News stories for Episode 290, November 26, 2022
+================================================
+(November 20-25)
+Collected by L. Curtis Boyle
+
+Coco 1/2/3 (and multi-platform)
+-------------------------------
+Color Computer Programming did a BASIC program to play part of "In My
+life" by the Beatles. He goes through transcribing the solo melody to
+the PLAY command, playing with volumes, tempos, and when octaves need
+to be changed):
+  https://youtu.be/rOrVsTyyIfk
+
+Pedro Pena (Rocky Hill on YouTube) released a video of him assembling
+"Ralph" his duplication of a Coco 2B 26-3134B motherboard (this is the
+one Tandy sold late in the Coco 2's life that had the T1 VDG chip with
+true lowercase, inverse video and full border features added):
+  https://youtu.be/u0PwnJCS3qc
+
+Getting into the holiday spirit, tclem1 on YouTube released a video
+that is almost an hour and a half of Christmas music (played on normal
+instruments) but with the kaleidoscope from the Coco's Audio Spectrum
+Analyzer cartridge:
+  https://youtu.be/kFRSr6n4RTM
+
+4) Don Barber mentioned in a few spots (Facebook Coco group shown here)
+about a USB serial pack to use with the Coco, which simulates the 6551
+that the RS-232 pak used, so all the old software for the RS-232 pak
+still works. He released it as open source, so you can download it as
+well. As has been mentioned in the comments, it works with such
+classics as Sock Master's Twilight Terminal (the full color ANSI
+terminal program):
+  https://www.facebook.com/groups/2359462640/posts/10160309647122641/
+His project link on Github:
+  https://github.com/barberd/cocousbserial
+
+Sheldon MacDonald posted a disk image to the Coco Facebook group that
+contains his Matrix demo that he wrote in assembly for the Coco 1/2/3
+(he will be uploading sourcecode later):
+  https://www.facebook.com/groups/2359462640/posts/10160307471882641/
+Video:
+  https://youtu.be/G_rnCg2eiao
+
+In a move that multiple retro computer podcasts are having to do, the
+Coco Crew has announced their switching to anchor.fm as their podcast
+host. Previously they were on cyberears, but cyberears is shutting down
+(this also affected the Retro Computing Roundtable podcast and many
+others):
+ 
+https://www.facebook.com/groups/1606095809633762/posts/3325181871058472/
+
+Dave Veary (MrDave6309 on our Discord) has uploaded some tutorial
+videos for using EDTASM+ to his YouTube channel:
+  https://www.youtube.com/@MrDave6309/videos
+
+
+MC-10
+-----
+Jim Gerrie posted the Full program demo that we showed some of last
+week - the full "Decouvrez Alice"
+ tutorial/demo. Almost 22 minutes long:
+  https://youtu.be/xeAqAwQwxqY
+
+Jim also posted a link to a lengthy blog post that was released on
+October 31, on refurbishing an Alice 90 - from the website Quantum
+Bits. This was written by Fred Bellaiche, and has extensive pictures of
+the insides, keyboard assembly, etc. as he cleaned it up:
+  https://www.quantum-bits.org/?p=4494
+
+
+Dragon 32/64
+------------
+Julian Brown released some pictures of his quick and dirty ROM
+replacement - which can handle 2 ROM's on a single chip, and includes
+jumpers to switch between them:
+  https://www.facebook.com/groups/dragon32/posts/3325804464345866/
+
+He posted an update to the ROM adaptor as well, testing it on the
+Dragon Mk 2 boards (with pictures):
+  https://www.facebook.com/groups/dragon32/posts/3328154727444173/
+
+Great news! John Whitworth has announced that DragonPlus Electronics is
+open for business again:
+  https://www.facebook.com/groups/dragon32/posts/3326267470966232/
+
+Tim Gilberts has uploaded the information sheets for the Premier Dragon
+Disk Operating System (by Premier Publications) sold back in the day
+for the Dragon 32. This was a more advanced DOS than Disk Extended
+BASIC, including a wildcard FIND command for both sequential and random
+access files, a CONFIG command that allows one to change the step rate,
+sectors per track, number of tracks, number of heads, etc. for your
+drives, and more:
+
+Sheet 1 link (this is the price list for the controller as well as
+different combinations of drives):
+  https://www.facebook.com/groups/dragon32/posts/3326170380975941/
+  (use local "premier1".jpg to show)
+
+Sheet 2 link (command list):
+  https://www.facebook.com/groups/dragon32/posts/3326170534309259/
+  (use local "premier2.jpg" to show)
+
+
+Game On news (all Coco related platforms):
+==========================================
+The latest episode of The Coco Show has been released, covering the
+early Coco 3 game release by Diecom, Grand Prix Challenge:
+  https://www.youtube.com/watch?v=036tf2XEU5I
+
+Chris Poacher posted on his "Microdeal - The 8 bit years" Facebook page
+his newly aquired original tape and instructions for the Dragon 32
+version of Syzygy (sold by Spectral Associates in the U.S.)... but this
+version has a bonus - the Hints sheet (normally sold separately via
+mail order from Microdeal themsleves) is included with this one. As
+Chris mentions, the cheat sheet itself has to be "solved" to get the
+clues - you don't just read them:
+ 
+https://www.facebook.com/groups/204334613785733/posts/1124041605148358/
+
+Paul Shoemaker posted a video to the Coco Facebook group showing a game
+that he is fancying up from it's original Creative Computing magazine
+release, called "Camel". He shows a cool camel walking animation in
+this first experiment:
+ 
+https://www.facebook.com/100012520339402/videos/596384225619966?idorvanity=2359462640
+
+He did a follow up yesterday with further animations:
+  https://www.facebook.com/groups/2359462640/posts/10160313974632641/
+
+He also posted a quick video for his (he promises final!) version of
+Ghost Rush - Christmas Edition":
+  https://www.facebook.com/groups/2359462640/posts/10160306198557641/
+
+Jim Gerrie has released a Race Demo game which was also part of the
+"Decrouvrez Alice" demo/tutorial we showed last week for the Alice,
+which Jim translated to English and the MC-10. It's a 4K racing game,
+and Jim upgraded it a bit with better key controls an score keeping:
+  https://youtu.be/xLaQsbDUiH4m
+
+Pere Serrat & Kees von Oss have released the next AGD enhanced for the
+SuperSprite FM+ board games pack out (#6) that has the following 4
+games:
+Dirty Dozer
+Forward to the Past
+MAgic Able
+The Hair-raising Adventures of Mr Hair
+  http://archive.worldofdragon.org/phpBB3/viewtopic.php?f=7&t=11055
+
+Erico Patricio Monteiro has been trying a cross platform isomorphic
+BASIC called "ugBasic", that compiles to many different 8 bit systems.
+As a test, he did a quick hack to his semigraphics fight game and
+upload it for the Dragon 64 to the Dragon group on Facebook. He plans
+on more extensive testing of this new cross platform BASIC in December:
+  https://www.facebook.com/groups/dragon32/posts/3326864814239831/
+
+Tim and AJ released their next My Drunk Sibling game play video - this
+time playing Steve Bjork's Coco 1/2 version of One on One Basketball,
+sold by Tandy from Electronic Arts:
+  https://youtu.be/kQAUJ5tigJA

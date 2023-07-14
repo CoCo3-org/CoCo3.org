@@ -1,0 +1,169 @@
+The Coco Nation News stories for Episode 307, April 1, 2023
+============================================================
+Collected by L. Curtis Boyle
+
+Jeff Wires (Chronologically Gaming) is on for a full interview today!
+
+Coco 1/2/3 (and multi-platform)
+-------------------------------
+1) First a couple of corrections from last week:
+a) About the mini 6809/6309 boards with serial ports and a PIA - That
+was Torsten Cito who posted that in Facebook. Thanks for the correction,
+Torsten. He also mentioned that the docs for it mention that serial
+communications "is not working flawlessly if you paste complete programs
+into the terminal program - (Torsten is) curious why's that (might be the
+interpreter being to slow?)
+b) Mike Miller let me know that the post about the history of the Dream
+Dragon assembler was in fact written by the author Mike Kerry; Mike Miller
+actually just cross posted it. Apologies to both!
+
+2) James Jones went through the Benchmark from Interface Age magazine that
+we covered a few weeks ago. He does the initial speed tests of Microsoft
+Coco 3 BASIC and then BASIC09 (as I had done), but then goes through the
+benchmark itself reporting bugs and multiple ways to optimize it:
+ 
+https://docs.google.com/document/d/1u4iZYkWHVluzqbpyV-CPJxZLFkchP95xDryEYVpESD8/mobilebasic?mibextid=Zxz2cZ
+
+3) TRS-80 Retro Programing put up a video showing a bit more graphics and
+working out how the graphics are going to work (on the fly) for his Coco
+Ultimate Ultima style game in BASIC:
+  https://youtu.be/MI4BKfhgZ6o
+He also released a video showing progress on Tales of Suburbia, with the
+PCOPY routines worked in, tape 3 scenarios, etc.:
+  https://youtu.be/Nji1TZauFXw
+
+4) Our very own Ken put up a celebration video with some behind the scenes
+look at his various retro areas, for his "Canadian Retro Things" YouTube
+channel breaking the 1K subscriber mark!
+  https://youtu.be/0GeeLnd8EHQ
+
+5) Episode 94 of the Coco Crew was released yesterday. A few features are
+a review of Space Marauder (by Aussie Craig Stewart) and a discussion on
+"sharing time at CocoFest" - basically about being thoughtful of exhibitors
+time at the show with questions that may take a long time to answer or
+problems that will take a long time to solve (in a weekend with the entire
+Fest going on). I agree in principal with this; and as they mention, you
+can always followup up later via email, Discord, etc. after the show when
+there is more time to go around:
+  cococrew.org
+
+6) La Coco Strangiato on YouTube (Coconut Bob in our Discord) will be
+attending his first ever CocoFest in 3 weeks. So he put up a quick video
+of something that he will be showing at the Fest - color LED's installed
+into a Coco 2 or 3, with *no* cutting or drilling required:
+https://youtu.be/GI2ga2UMX4c
+
+7) Luis Bulek on YouTube put up his first Coco related video - and it
+is doing beginner's assembly language, in this case showing all 256
+possible characters that can be displayed on Coco 1/2 (or 3 in the 32
+column mode). Since he has/had a CP-400, it is in Portuguese, so turn on
+closed captioning and auto-translate:
+  https://youtu.be/9YHKCUP2LB4
+
+8) Fred Rique posted in the Coco group on Facebook that he has done a
+rewrite/update of BASIC DIGNIFIED, which is a tool to help write BASIC
+programs in modern programming editors like Visual Studio and Sublime Text:
+  https://www.facebook.com/groups/2359462640/posts/10160564308307641/
+His github for the project:
+  https://github.com/farique1/basic-dignified
+And a quick video showing it in action:
+  https://youtu.be/aQfmmiJ9mzo
+
+9) John Whitworth of Dragonplus Electronics posted some updates (and
+screenshots) showing is mini Dragon RGB board (which, because of it's small
+physical size should fit in Coco's as well). See comments for pictures of
+the board itself:
+  https://www.facebook.com/groups/2359462640/posts/10160564959007641/
+
+10) Robert Moore put up a cool picture of his new shelving unit showing
+his "real" valuables on it (from bottom to top: Coco 1, Coco 2, Coco 3,
+Coco 3.14) :
+  https://www.facebook.com/groups/2359462640/posts/10160561670647641/
+
+11) Ciaran Anscomb posted a blog post about his experimental branch for XRoar
+to do better composite video processing. This gets heavy into the details:
+  https://www.6809.org.uk/xroar/cvbs.shtml
+
+12) Barry Nelson has posted a side branch version of MAME 0.252 that he
+has done, that has a couple of changes:
+a) Use a floppy controller in ANY multi-pak slot.
+b) Allow a floppy controller to use a custom RGBDOS ROM. Currently just
+the Windows binary is up.
+  https://github.com/abcbarryn/mame/releases/tag/mame0252bn
+
+13) Ron Klein posted about a couple of updates that you can get on your
+CocoPi.
+a) MAME 0.253 update available
+b) XRoar 1.3.2001-WIP available (this is the experimental version for setting
+up many video settings, as well starting support for middle button paste,
+new tape control controls for Windows, etc.)
+  https://coco-pi.com/news-updates/
+
+14) Henry Reitveld did a "Crossing the streams (retro computers) video -
+He used his Tandy 502 disk drive (a 360 double sided drive) to load and
+run CP/M 3.0 on the Nabu - which he used by logging into it from his Coco 3:
+  https://youtu.be/sUOHNYg_N-s
+
+15) JaysVintageJunk released a video on YouTube showing how he modified
+his Coco 2 (UK PAL version) to composite video output without drilling
+any holes in the case to mount RCA connectors:
+  https://youtu.be/Hci1cIkAu24
+
+16) YaggieBoat on YouTube released a video of him test driving his Coco 2
+that he had picked up. Sound doesn't seem to be working on it unfortunately,
+but he does test some games that he got with the system:
+  https://youtu.be/f4UikyC_X6U
+
+MC-10
+-----
+1) Robert Sieg posted a few large scale maps for the game "Pandemic"
+that he started working on in 2019. He also mentioned that his daughter
+Rhiannon helped make them:
+  https://www.facebook.com/groups/731424100317748/posts/5940480916078681/
+  https://www.facebook.com/groups/731424100317748/posts/5941461579313948/
+
+Dragon 32/64
+------------
+1) (RGB board is both Coco and Dragon and mentioned above)
+
+
+Game On news (all Coco related platforms):
+==========================================
+1) Our guest from today covered some more 1981 Coco games this past week
+on Chronologically gaming:
+  https://youtu.be/p6rUPLVo2bM
+Skiing (with proper colors): 1:48
+Slashball (an early Aardvark arcade game) 22:57
+
+2) Catching up with CRPG Addict (whom I haven't checked into for a few
+months for Coco games):
+He played the C64 version of Quest (from 1983), which was based on the
+original TRS-80 and Coco versions from 1981, and the gameplay is pretty
+well identical:
+  http://crpgaddict.blogspot.com/2023/03/game-489-quest-1981.html
+
+3) Jim Gerrie has ported Cribbage from Creative Computing (originally by
+Sheppard Yarrow in 1979), but he is requesting testers as he is not that
+familiar with the card game:
+  https://www.facebook.com/groups/731424100317748/posts/5929144787212294/
+Online emulator to try it (select CRIBBAGE cassette on lower right, then
+type RUN):
+  http://faculty.cbu.ca/jgerrie/MC10/JG_MC_AI_Progs.html
+He also has a blog post about it just yesterday, and thinks he may have
+the bugs fixed:
+ 
+https://jimgerrie.blogspot.com/2023/03/cribbage-in-microsoft-basic-by-sheppard.html
+And now a video:
+  https://youtu.be/yaD8oVu_Juc
+
+4) "The only way is OLED display" on YouTube did a 2+ minute video called
+"Dragon 32 one game a letter" (showing tape cover artwork). (mute as he
+had his TV on in the background). I don't know if this is their favorites
+for each letter, or just what they had on hand. They also cut off at W:
+  https://youtu.be/gJlNuAUI5E0
+
+5) A Gaming Channel by LR on YouTube has been doing a bunch of retro games
+this past week, including multiple Dragon 32/64 ones. This past week he
+played Boris the Bold, Breakout, Caverns of Chaos, Copta Snatch, Chambers,
+and plenty of others (and these are longer play - 20-30 minutes/video):
+  https://www.youtube.com/playlist?list=PLNrXEtRb7LhpnEWcnhYNxa8WNlO0QK2T9

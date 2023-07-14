@@ -1,0 +1,177 @@
+<!doctype html>
+<html>
+<head>
+	<title>CoCo3.org -- The Coco Nation News stories for Episode 304, March 11 2023
+</title>
+	<style type="text/css">
+		body { font-family:tahoma,arial,helvetica; font-size:14px; color:#FFFFFF;  background-color:#303030; }
+		h1 { font-weight:bold; font-size:16px; }
+		h2 { font-weight:bold; font-size:14px; }
+		a:link    { color: #DFDF00; }
+		a:visited { color: #DFDF00; }
+		a:hover   { color: #888800; }
+		a:active  { color: #FFFF00;	}
+		div#navbar { height:26px; border-top:solid #000 1px; border-bottom:solid #000 1px; }
+		div#navbar ul { margin:0px; padding:0px; font-weight:bold; line-height:26px; white-space:nowrap; text-align:center; }
+		div#navbar li { list-style-type:none; display:inline; color:#B8B8B8; }
+		div#navbar li a { text-decoration:none; padding:8px; }
+		div#navbar li a:link { color:#808080; }
+		div#navbar li a:visited { color:#808080; }
+		div#navbar li a:hover { color:#FFFFFF; background-color:#C0C0C0; }
+	</style>
+</head>
+<body>
+	<div style="padding:20px; width:800px;">
+				
+		<div id="navbar">
+			<ul>
+				<li><a href="../index.html">Home</a></li>
+				<li><a href="../blog.html">Blog</a></li>
+				<li><a href="../projects.html">Projects</a></li>
+				<li><a href="../links.html">Links</a></li>
+				<li><a href="../about.html">About</a></li>
+			</ul>
+		</div>
+
+		<a href="https://thecoconation.com/"><img style="margin:10px 0px 0px 0px;" src="TCCN-Banner.png" width="333" height="150" alt="" /></a>
+		<a href="index.html" style="margin:0px 0px 0px 20px;">[Index]</a>
+
+<pre>
+<big><strong style="color:lightblue">The Coco Nation News stories for Episode 304, March 11 2023
+</strong></big>===============================================================
+Collected by L. Curtis Boyle
+
+<big><strong style="color:lightblue">Coco 1/2/3 (and multi-platform)
+</strong></big>-------------------------------
+1) Allen Huffman dig a blog post deep diving into how tokenized lines are
+stored in BASIC and how much memory they take. He even includes a BASIC
+subroutine that can report on the BASIC program it is merged with. There
+is also a sequel blog hinted at at the end of the article as well:
+ 
+<a href="https://subethasoftware.com/2023/03/07/color-basic-program-line-info-dump-program">https://subethasoftware.com/2023/03/07/color-basic-program-line-info-dump-program</a>/
+
+2) James Diffendaffer posted both a screenshot and listing of a port to
+the Coco 1/2 of a Colonial Viper from the original Battlestar Galactica
+TV series, that was originally written by Monty McGraw in 2000 for a Tek 4052
+  <a href="https://www.facebook.com/groups/2359462640/posts/10160514688972641">https://www.facebook.com/groups/2359462640/posts/10160514688972641</a>/
+(See playable video in the comments by Paul Shoemaker showing a Cylon in
+sites - animated on the Coco).
+
+3) The 64 bits or less Retro Gaming Festival is taking place at the Benton
+County Fair Grounds in Corvallis, Oregon (and is sponsored by the Portland
+Retro Gaming Expo) that takes place on June 3-4. They mention the consoles,
+light gun based systems and home computers that will be out for people try,
+including the Coco. I should also mention that Tim and AJ will be attending
+from the Sibling Rivalry show:
+  <a href="https://www.64bitsorless.com">https://www.64bitsorless.com</a>/
+
+4) TRS-80 Retro Programming uploaded a video about doing reverse masking
+with PUT in Extended BASIC, which we may cover ourselves later in the show:
+  <a href="https://youtu.be/F3j9BY2j1mM">https://youtu.be/F3j9BY2j1mM</a>
+
+5) Thanks to Alderson Retro Computing for pointing this out:
+Darren Atkinson released an update (firmware version 127 and SDC-DOS
+version 1.75) for the CocoSDC on February 27, which you can download at
+<a href="http://cocosdc.blogspot.com">http://cocosdc.blogspot.com</a>. This includes fixes to CRC error reporting and
+and when it is inserted in sector ID fields when formatting, and Deleted
+Data Address Marks (DAM). I believe these are related to his working with
+Carl England on making the SDF image handling more robust (mostly for copy
+protected disk images). Other updates:
+ - added command to switch to specific image in a Disk Set
+ - added option for 8 bit transfers in the Write Logical Sector command
+ (so we can use TFM if you have a 6309). He warns that it has NOT been
+ tested for reliability at 1.78 MHz on a Coco 3
+ - added options for creating/mounting files that aren't necessarily
+ disk images. These can only be accesses using LBA sector commands or the
+ STREAM command
+ - Creating/modification dates - instead of the old generic very old date,
+ the CocoSDC will now set the date/times to midnight on the build date of
+ the firmware (Feb 27, 2023 for this latest version, but it will change
+ on newer builds in the future.
+
+SDC-DOS 1.75 update adds the following enhancements:
+ - Added ability to change the step rate for any REAL drives hooked up:
+ DEF STEP=r (r can be 6,12,20,30 (ms))
+ - BACKUP command has been changed to not erase the current program and
+ variables from memory.
+ - DSKINI command has been changed to not erase the current program and
+ variables from memory, and also will tolerate up to 6 granules of that
+ contain bad sectors before aborting. If any are found, they are marked
+ as Allocated in the File Allocation Table (ie it won't let you use them).
+ - Sector I/O code has been rewritten to use Status polling rather than HALT
+ and NMI "infinite loop" method. This prevents problems that can happen on
+ Coco 1 or 2 machines due to a lack of pull up resistors on the address
+ bus and Read/Write lines (he notes particularly if a 6809 was replaced
+ with a 6309).
+
+
+<big><strong style="color:lightblue">MC-10
+</strong></big>-----
+1) Brendan Donahe posted both on the Coco Discord and the MC-10 Facebook
+group that he has the wired USB keyboard/Atari joystick adapter working well
+on the MC-10, and that he is now working on a new 3D printed spacer to fit
+between the two halves of the MC-10 case to have room for the ports. He
+also mentions that one should be able to have both this upgrade AND the
+CocoVGA installed at the same time and fit within this case spacer:
+  <a href="https://www.facebook.com/groups/731424100317748/posts/5882187338574706">https://www.facebook.com/groups/731424100317748/posts/5882187338574706</a>/
+
+
+<big><strong style="color:lightblue">Dragon 32/64
+</strong></big>------------
+1) Chris Poacher posted in his "Microdeal - The 8 bit years" Facebook
+group a pretty interesting historical document from Microdeal - their
+2nd price list which shows all of their available software with prices,
+for ALL the systems they supported at the time. It also includes an ad for
+Buzzard Bait, and the top 10 list for the Dragon (Chris thinks it was made
+in late 1984 or early 1985):
+  <a href="https://www.facebook.com/groups/204334613785733/posts/1197636294455555">https://www.facebook.com/groups/204334613785733/posts/1197636294455555</a>/
+He also showed some alternate early tapes that Microdeal sold - black
+cassettes instead of the more standard white they usually used:
+  <a href="https://www.facebook.com/groups/204334613785733/posts/1195281361357715">https://www.facebook.com/groups/204334613785733/posts/1195281361357715</a>/
+
+2) Ciaran posted in the Dragon Facebook group about some hidden options
+in the "cvbs" branch of the Linux source for XRoar, which has some extra
+options, with more options for video artifacting colors, and including
+extra controls for brightness, contrast, hue and various filter pipeline
+options. You will have to recompile from this branch to get these options,
+but for those of you for whom Linux is your native OS and development
+system, this is definitely worth taking a look at:
+  <a href="https://www.facebook.com/groups/dragon32/posts/3412645708995074">https://www.facebook.com/groups/dragon32/posts/3412645708995074</a>/
+
+3) Varun Khanna in the Dragon Facebook group is taking a survey of peoples
+favorite Dragon 32 games as part of research for a project he is working
+on for the group. Get your votes in!
+  <a href="https://www.facebook.com/groups/dragon32/posts/3411630652429913">https://www.facebook.com/groups/dragon32/posts/3411630652429913</a>/
+
+4) Spanish YouTube channel ParcelaDigital, el blog de Manuel Llaca,
+does an almost 40 minute tour of the computer museum at the University
+of Zaragoza, which covers a ton of retro computing (and even earlier),
+including the Dragon 32.
+(in spanish, so turn CC on and change auto-translate under settings to
+English):
+  <a href="https://youtu.be/LDVUwdrlZ9U?t=770">https://youtu.be/LDVUwdrlZ9U?t=770</a>
+
+5) YouTube channel "The only way is OLED display" put up a video called
+"Dragon User 40th Anniversary" to celebrate the fact that 2023 is 40th
+anniversary of the launch of "Dragon User" magazine:
+  <a href="https://youtu.be/GFf01PM0Tgc">https://youtu.be/GFf01PM0Tgc</a>
+
+
+<big><strong style="color:lightblue">Game On news (all Coco related platforms):
+</strong></big>==========================================
+1) TRS-80 Computer Programming on YouTube shows some further updates to
+his Ghost Saga BASIC game that he is working on, including a new player
+position/sprite and shows some of the adventure style elements that he is
+adding to the game:
+  <a href="https://youtu.be/ZMa_sdpCELk">https://youtu.be/ZMa_sdpCELk</a>
+
+2) Jim Gerrie posted "Dr. Who Adventure" originally for the Atari 400/800
+from the magazine called "Computer & Video Games", March 1983 issue. He
+even fixed a bug from the original code (GOSUB's without proper RETURN's):
+  <a href="https://youtu.be/BcX-sgNgZDE">https://youtu.be/BcX-sgNgZDE</a>
+
+</pre>
+
+	</div>
+</body>
+</html>

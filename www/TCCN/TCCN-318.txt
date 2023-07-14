@@ -1,0 +1,119 @@
+The Coco Nation News stories for Episode 318, June 24, 2023
+===================================================================
+Collected by L. Curtis Boyle and Mark Overholser
+
+June 23, Ken and I will hopefully be reporting live from BoatFest while
+Mark Overholser hosts the news, and Sloopy hosts the Game On Challenge.
+
+August 12 we have Matt Harper on (developer of Wizard's Den sold by Tom
+Mix Software).
+
+August 19 we have a special treat - the original programmer of The Contras
+for Sundog Systems, Doug Masten - and Glen Dahlgren who ran Sundog (and
+who has been on the show several times before, including during our Dave
+Dies interview) will be on to help co-interview Doug about one of the most
+ambitious Coco 3 games done at that time (1991-1993)
+
+Coco 1/2/3 (and multi-platform)
+-------------------------------
+First, an reminder on behalf of Frank @ RetroRewind: Stock replenishment will
+be slower for a month or two due to Frank recovering from wrist/hand surgery.
+
+1) David of the Coco Town YouTube channel, put up a nice "thank you"
+video for being our interview guest last week. We are also glad that he
+survived the experience. :-)
+ https://youtu.be/nFO6k-z4Ias
+
+2) TRS-80 Retro Programing on YouTube Posted another update to his Tales
+of Suburbia game project, adding model rocket graphic to the title part
+of the screen:
+  https://youtu.be/bcDM4F5c8GM
+
+3) Last weeks guest of YouTube Coco Town fame has released a new video
+detailing his discovery that the values you write to the VDG don't always
+match the ASCII values of the characters:
+  https://youtu.be/e9qgUNI9V1s
+
+4) Gadget Reboot on YouTube did a video on how he made a digital to analog
+joystick adaptor for the Coco:
+  https://youtu.be/xZSDwJGriC8
+
+5) Boisy Pitre : Ready for VCF Southwest.
+https://www.facebook.com/groups/2359462640/posts/10160737030387641/
+
+Allan Batteiger of Microware and Mark Siegel of Tandy.
+https://www.facebook.com/groups/2359462640/posts/10160739006697641/
+
+6) Michael Furman : MikeyN6IL's VLOG $13: FLEXing the CoCo Ep 7: Flex OS
+
+https://www.facebook.com/groups/2359462640/posts/10160737178927641/
+
+https://youtu.be/FDM3sc3NMyo
+
+7) Jim Gerrie : I've been working on a typing in a program FACTSFIG from
+Input magazine:
+https://www.facebook.com/groups/2359462640/posts/10160734056767641/
+
+8) Marco Spedaletti : ugBASIC:COLDFIX v1.14 [rev. 20230624.1025]
+https://www.facebook.com/groups/867151224158600/posts/1312009456339439/
+
+https://ugbasic.iwashere.eu/
+https://spotlessmind1975.itch.io/ugbasic-ide
+
+
+MC-10
+-----
+1) I feel a grave disturbance in the Force as if a million 6803 cried
+out and were suddenly silenced ...
+
+
+Dragon 32/64
+------------
+1) Nick Marentes : Dragon PAL H-sync fix...
+Does anyone know or can point me to a web site that explains the mod
+required to PAL Dragon64's to correct the H-Sync problem?
+https://www.facebook.com/groups/2359462640/posts/10160731606432641/
+
+2) Julian Brown : More details on his Keyboard
+https://www.facebook.com/groups/dragon32/posts/3485240268402284/
+
+3) Mike Miller : Does anyone have any copies (or know of an archive) of 68'
+microcosm magazine?
+https://www.facebook.com/groups/6809assembly/posts/3168186500141377/
+
+
+Game On news (all Coco related platforms):
+==========================================
+1) Todd Horch on his YARC (Yet Another Retro Channel) posted a video
+showing the half dozen arcade transcodes on the Coco 3 - Donkey Kong
+by Sock Master, Space Invaders by Mark McDougall, and Defender, Joust,
+Robotron:2084 & PacMan by Glen Hewlett:
+  https://youtu.be/FgEYt1k7Xeo
+
+2) The next episode (45) of The Coco Show has dropped on YouTube. This
+episode features Karate by Diecom:
+  https://youtu.be/Jx9bABuOAhw
+
+3) Paul Shoemaker : Hi everyone.  I just released a CoCo version of my
+most recent game, Video Poker
+https://www.facebook.com/groups/2359462640/posts/10160737831767641/
+
+https://pshoemaker70.itch.io/
+
+4) Richard Kelly : "Maze Creator" version 0.10K.  This is my rewrite of
+the maze-making algorithm.  I had to do so weird code tweaking to make the
+PMODE graphics look right.  The thing is - does it look right on a real
+CoCo 1/2/3?  I'll have to leave it to you folks to find out, as my current
+CoCo isn't connected to anything right now.  Feel free to post bug reports!
+https://www.facebook.com/groups/2359462640/posts/10160737721912641/
+
+5) David Mitchell : This is probably the type-in I messed around most
+with back in the day. I used Rainbow Writer and a custom character set to
+produce a High-res version. Good times..
+https://www.facebook.com/groups/dragon32/posts/3486138521645792/
+
+
+News and Topic Suguestions Channel on The CoCo Discord
+------------------------------------------------------
+ZX Spectrum games by Bearsden Primary 2023
+https://dougie9mcg.itch.io/zx-spectrum-games-by-bearsden-primary-2023

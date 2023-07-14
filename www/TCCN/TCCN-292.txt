@@ -1,0 +1,156 @@
+The CoCo Nation News stories for Episode 292, December 10, 2022
+================================================
+(December 3-December 9)
+Collected by L. Curtis Boyle
+
+Coco 1/2/3 (and multi-platform)
+-------------------------------
+Allen Huffman posted a cool picture, courtesy of Henry Reitveld. It's a
+picture of his Invaders09 game (running in the just released
+NitrOS9/EOU Version 1.0.0) running in Henry's Rampage arcade cabinet:
+ 
+https://subethasoftware.com/2022/12/03/my-old-space-invaders-game-running-on-an-arcade-cabinet/
+
+He also put up parts 1&2 of his Coco version of the Logiker Vintage
+Computing Christmas Challenge - which is to crunch code as small as
+possible to create the screen output specified in the challenge:
+ 
+https://subethasoftware.com/2022/12/06/tackling-the-logiker-vintage-computing-christmas-challenge-2021-part-1/
+ 
+https://subethasoftware.com/2022/12/09/tackling-the-logiker-2022-vintage-computing-christmas-challenge-part-2/
+
+And, he also decided to delve into CMOC (C like language) development
+for the first time, getting his very first CMOC program generated for
+DECB (using the XRoar emulator):
+ 
+https://subethasoftware.com/2022/12/07/my-first-c-program-for-coco-disk-basic/
+
+And a follow up to that is his blog post titled "I will never write a
+shell script again" (using the Chat AI he has been using a lot the past
+couple of weeks):
+ 
+https://subethasoftware.com/2022/12/07/i-will-never-write-a-shell-script-again/
+
+Konrad Pietrzykwoski shared a video showing his loading a game via a PC
+that is part of his Museum collection in Poland - with a Coco 3 that
+was originally sold in Canada:
+  https://www.facebook.com/groups/2359462640/posts/10160334463372641/
+
+Medium.com did an interesting piece on Christmas demos for early
+computers, with the Coco being an early one with a BASIC one written in
+1982. I seem to recall our interview with Glen Sogge that he had done
+one early - either for Christmas 1980 or 1981, that he has
+unfortunately lost (but was demoed at multiple Radio Shack stores in
+the Chicago area):
+ 
+https://medium.com/geekculture/when-the-first-christmas-computer-demo-was-created-bfb043279d9b
+
+This one is a catch-up story that I missed back at the beginning of
+November. Glen Hewlett (of transcode fame) took on the challenge of one
+of the "Code Golf" challenges. This is a website that has people
+issuing challenges of making code as small as possible (in the language
+of their choice) to accomplish a specific task. Glen had taken on a
+challenge of drawing a Mona Lisa on a graphics screen using a technique
+originally by programmer Jakub "Ilmenit" Debski. It's a procedural
+graphics demo originally for ab Atari XL, and took 250 bytes of
+assembly code and data (calling some ROM routines to draw & set up the
+graphics screen). Glen took 283 bytes in his final result, but that
+include the screen setup and drawing routines as well. He supplies the
+source code on the blog post, and a video of it in action:
+  https://nowhereman999.wordpress.com/2022/11/02/code-golf-on-the-coco/
+
+Sheldon MacDonald posted the first of several planned videos on his new
+dual IDE environment (which lets you develop programs for both the Coco
+and the Sega Genesis):
+  https://youtu.be/GUjfwEiqUM4
+
+Jim Brain, president of the Glenside Color Computer Club, posted that
+Glenside is planning to have a celebration Tandy computers (or
+workalikes, clones like the Alice, Dragon, CP-400, etc), sharing
+stories, etc. on December 30. It will be a Zoom call starting at 6:30
+pm Central time and last as long as people are around. There may be
+some demos as well. Full details can be found on Facebook (pictured) as
+well as the Coco mailing list:
+  https://www.facebook.com/groups/2359462640/posts/10160340953372641/
+
+Adrian at Adrian's Digital Basement on YouTube went through what
+appeared to be a very dirty TRS-80 Model III... but the insides show
+that it was once a Coco repacked into a Model III, with working
+keyboard, drives, etc. The machine was donated to Adrian by Tim
+Lindner:
+  https://youtu.be/_0XGFz67DIc
+
+
+MC-10
+-----
+Jim Gerrie announced this morning a little contest - he has his DDOOM
+game port pretty well finished, so he has a challenge: The first person
+to complete the 5 dungeon levels that Jim created (this is a game we
+showed a video of recently, where one can create their own maps) and
+get the "Idol" on level 5, and documents it with either video or
+screenshot evidence, will one one of his semigraphic man cups (I have
+no idea if he has an official name):
+ 
+https://www.facebook.com/groups/731424100317748/posts/5599437420183034/
+
+
+Dragon 32/64
+------------
+Julian Brown posted in the Dragon Facebook group that he has finally
+received what he hopes to be the final prototype Dragon replacement
+motherboards:
+  https://www.facebook.com/groups/dragon32/posts/3339260283000284/
+And an update has solders more and more parts to the board:
+  https://www.facebook.com/groups/dragon32/posts/3341177252808587/
+
+Richard Harding has been doing research and scanning in documents
+related to the Dragon and it's history from the National Archives in
+the UK (see comments section for some examples, including buyouts,
+unreleased products, etc.):
+  https://www.facebook.com/groups/dragon32/posts/3339947459598233/
+
+
+Game On news (all Coco related platforms):
+==========================================
+Paul Shoemaker, mere days after releasing Ghost Rush:Winter Edition...
+has also released the Camel game he was converting from an old text
+version from Creative Computing. You can get it on the Coco group on
+Facebook now, and the Color Computer Archive soon (if not already):
+  https://www.facebook.com/groups/2359462640/posts/10160331007192641/
+
+MrDave6309 posted a video played from a ROM cartridge image he has made
+2 old Coco 1/2 Challenge Software games on the same cartridge (Color
+Blast & Creature Feature) that also contain palette enhancements for
+the Coco 3:
+  https://youtu.be/GpzilHAmrT4
+
+The Video Game Magazines channel on YouTube has put up Electronic Games
+Issue 2, which again includes multiple Coco mentions (3:23 shows Space
+Assault & Polaris, as an example, and near the beginning showed Quasar
+Commander. Also Meteoroids by Spectral Associates, which became
+Microbes from Tandy later) is reviewed @ 6:46):
+  https://youtu.be/QhvMr8x7CB4
+
+Brian Joyce shared an interesting story on the Coco Facebook group -
+Airball (originally for the Dragon and Coco) has been ported to the
+Nintendo NES and the Game Boy Advance:
+  https://www.facebook.com/groups/2359462640/posts/10160337196457641/
+
+YouTube channel "Chronologically Gaming" has hit 1980, and goes through
+games on various platforms (including arcade) that were copyrighted
+1980 (this one starts alphabetically going through 1980 releases that
+don't have a firm release date during that year that the host could
+find) - including some of the earliest Coco 1 games, across multiple
+videos:
+"Rumble in the 80's" - Backgammon brief showing (39:28)
+  https://youtu.be/gwFngkNDzY4
+
+"We Go Berzerk!"- First appearance of Dino Wars (30:53)
+  https://youtu.be/1dXaOPDEUJM
+
+"Is Scott Adams Bob Rossi?" (Dino Wars is the first game - re-rating it
+from it's previous appearance):
+  https://youtu.be/latL4-p1Jg8
+
+He streams live on Twitch each weekday at 9 pm Central:
+https://www.twitch.tv/chronologicallygaming/

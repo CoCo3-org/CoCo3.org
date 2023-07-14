@@ -1,0 +1,174 @@
+The Coco Nation News stories for Episode 295, January 7, 2023
+===============================================================
+Collected by L. Curtis Boyle
+
+Coco 1/2/3 (and multi-platform)
+-------------------------------
+TRS-80 Retro Programing on YouTube did a video about using PCOPY in
+Extended BASIC:
+  https://youtu.be/Qh0DKRaJnAc
+
+Ron Klein announced that the CocoPi now has the MAME 0.251 package
+available for it through the updating system built in. On the Coco side of
+things, it fixes some bugs in the 6809 core for things like TFR (where it was
+using 6309 behaviour in a few spots), adds in the Disto Super Controller II
+mini expansion bus emulation, including the add-on realtime clock/parallel
+printer board for the mini bus. It also contains very preliminary work on
+the never released Deluxe Coco:
+  https://coco-pi.com/new-mame-0-251-package-available-for-coco-pi/
+
+Brian Wieseler posted photos of a Coco cartridge that I have never seen
+before: from HiTech Electronic Sign Company in Clearwater Florida. It has
+a ROM and a large 1/4" stereo style plug coming from it. I am guessing
+it is to program electronic signs (Bill Nobel did a similar project for
+a company in Moose Jaw, Saskatchewan back in the 1990's) - but has anyone
+seen these before?:
+  https://www.facebook.com/groups/2359462640/posts/10160395574967641/
+
+XRoar version 1.3 has been released, and it
+Main XRoar page with downloads:
+  https://www.6809.org.uk/xroar/
+
+List of changes in 1.3 (mainly floppy write back behaviour - it will now
+by default actually save things to the disk image when you save things,
+rather than just temporarily and then throwing out your changes when you
+quit XRoar. Yay!):
+  http://www.6809.org.uk/xroar/doc/xroar.shtml#Recent-changes
+
+Allen Huffman has dug out some old graphics ads and demos he did within
+the first 2 years of getting his Coco 3, and has posted videos of 4 of them
+on his Sub-Etha Software YouTube channel. They include ads on behalf of
+his father, and feature palette animations, custom character sets and more:
+  https://www.youtube.com/@subethasoftware/videos
+
+Carl England posted an update of his attempting to write software that
+can back up copy protected disks directly to the CocoSDC. He has had
+*some* success, but purposeful CRC errors still seem to cause problems
+when trying to create the .SDF format disk images (See comments for some
+further details):
+  https://www.facebook.com/groups/2359462640/posts/10160392682597641/
+
+For those wanting to put in a CocoDV board from AC's 8-bit Zone into a
+Coco 1, but don't want to have to cut the plastic center post, Mike Rojas
+as a solution - a little "CocoDV Board Relocater for the Coco 1":
+  https://www.facebook.com/groups/2359462640/posts/10160397300112641/
+
+Retro Tech Repair put up his part 2 video for trying to fix his homebrew
+composite mod on his Coco 2. He also shouts out AC's 8 bit Zone, and does
+game demos at the end:
+  https://youtu.be/yVPkKDZzCRo
+
+Portuguese YouTube channel "Oldplayers" did an almost 2.5 hour live
+stream talking about the TRS-80 Color computer and clones. Make sure to
+turn on close captioning and settings->auto translate->english if you
+don't speak Portuguese (Luciano Scharf, Juan Castro and Daniel Campos were
+on the show as well, although with some audio issues at the beginning -
+they are active in the Coco community as well):
+  https://youtu.be/hELNWBKrbYI
+
+Nine Finger Tom on YouTube (and on the Coco Discord) did a short video
+showing the GIME-X 256 screen image, with scrolling vertically to show
+the whole thing (256x225x256):
+  https://youtu.be/d_C06z7832M
+
+Sheldon MacDonald has posted another update video on his dual IDE
+(to generated code for both the Coco and the Sega Genesis:
+  https://youtu.be/O8YB0zJoEeQ
+
+And a second one, which will be part of a series for those getting started
+in assembly. This episode covers loads and stores on both the 6809 and
+the 68000 CPU's:
+  https://youtu.be/_29ATB9C5V8
+
+TJBChris is starting a new series on his YouTube channel - "Tandy Time",
+and his first part of the series is with the Coco 3 - and he creates the
+TJB shopping network (however, nothing is actually for sale):
+  https://youtu.be/CTsmYbrn5iA
+
+Antonio Caballero has finished his design of a replacement box for
+the Direct Connect Modem Pak:
+  https://www.facebook.com/groups/2359462640/posts/10160399160612641/
+
+Steve Strowbridge uploaded a font that can be drawn using DRAW statements
+to the Coco Facebook page:
+  https://www.facebook.com/groups/2359462640/posts/10160398963587641/
+
+Ken of Canadian Retro Things did a quick video to show and talk about
+some of the things changed or added in NitrOS9/EOU Version 1.0.0:
+  https://youtu.be/WEzkV9eYtiQ
+
+
+MC-10
+-----
+Darren Ottery posted another version of his MCX32-SD file browser at
+the suggestion of Ron Delvaux: @-L will toggle inverse text on/off. You
+can get it from his Google drive, and the announcement post is from the
+Facebook MC-10 group:
+  https://www.facebook.com/groups/731424100317748/posts/5665378816922227/
+
+Google Drive link:
+  https://drive.google.com/drive/folders/1MoNq4qmz0FRubv5CDMrNpSAoR_zJU0d5
+
+Robert Sieg posted a sample of a menu system that he is working on for
+the MCX32-SD. This is very early stages and he expects to make a lot of
+changes as he goes, but he is requesting that people download it and give
+it a try and give him some feedback. The program is available for download
+in the MC-10 Facebook group:
+  https://www.facebook.com/groups/731424100317748/posts/5682357415224367/
+
+
+Dragon 32/64
+------------
+Julian Brown has made progress on his Dragon motherboard replication
+project, and now has it booting the ROM correctly (he still is awaiting
+some parts to test the cassette port and audio):
+  https://www.facebook.com/groups/dragon32/posts/3365661430360169/
+
+And Ciaran Anscomb's similar project also showed progress. He doesn't
+have the screen hooked up yet, but the ROM is running fine - he types MOTOR
+ON (blindly) and you can hear the click of the cassette relay, and typing
+in purposeful syntax error (which caused MS BASIC to shut the motor off)
+also works in his quick little video:
+  https://www.facebook.com/groups/dragon32/posts/3365143467078632/
+
+NOTE: Julian Brown is working on a Dragon32 and Ciaran Anscomb is
+working on a Dragon64.
+
+Game On news (all Coco related platforms):
+==========================================
+Jim Mullis posted the question in the Coco Facebook group: "How many
+folks here are actively working on new games for the CoCo?  Also when you
+are done, will you be sharing your code freely?"
+To which Paul Shoemaker responded (see comments) with a screenshot of
+an awesome looking new RPG he is working on (with it's own unique combat
+system, going by his comments):
+  https://www.facebook.com/groups/2359462640/posts/10160397161607641/
+
+Jim Gerrie posted a video of another MC-10 game port he has done - this
+time Aztec Adventure (by Roberto B. in 1988) originally for the Italian
+Laser 300 computer. It was fixed up and translated to English originally
+by Garry Francis, and Jim ported it to the MC-10. SPOILER ALERT if you
+play the whole video it shows how to win. It's a text adventure with a
+low res graphic title screen:
+ https://youtu.be/fP4iXCUXjqc
+
+He also ported the text adventure "Spaceship Farmer" to the MC-10 (also
+translated from Italian). He would like testers for this one to see if
+they can play it all the way through. (download link in the description
+on the YouTube page):
+  https://youtu.be/07LaeL7n4yk
+
+Chronologically Gaming has a new episode that has Space Assault (by
+Image Producers for Tandy) @ 3:37:
+  https://youtu.be/A6jTqG0M1gc?t=217
+
+And also Project Nebula:
+  https://youtu.be/usMk_0FvXk8?t=744
+
+The 2022 "Beauty and the Beast" programming contest for all TRS-80's
+were announced (the challenge this year was making a Wordle clone), and
+Rick Adams COCOdle came in a very close 2nd with Rowland Archer's Word-80
+on the Model 4 in the "Beauty" category (mainly because Rowland included
+extra stats that it keeps track of):
+ 
+https://www.vintageisthenewold.com/the-results-for-the-2022-beauty-and-the-beast-programming-contest-for-the-trs-80-has-been-announced
