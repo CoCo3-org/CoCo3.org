@@ -1,0 +1,178 @@
+The Coco Nation News stories for Episode 331, September 23, 2023
+===================================================================
+Collected by L. Curtis Boyle
+
+- The interview with Doug Masten (author of The Contras) with co-interviewee
+Glen Dahlgren of Sundogs Systems that was originally going to happen
+on August 19 is being postponed, due to a fairly major surgery. We are
+shooting for around October/November depending on doctor's orders.
+
+Upcoming conventions/trade shows of interest to Coco people:
+************************************************************
+Tandy Assembly 2023: Springfield, Ohio U.S.A.
+SEP29-OCT01, 2023
+  http://www.tandyassembly.com/
+** REMINDER: TRS-80 Trash Talk Live episode #35 is next Saturday (September
+23) at 5 PM Eastern, and it's focus is Tandy Assembly, going through vendors,
+seminars and more! Live on YouTube.
+  https://www.youtube.com/@TRS80TrashTalk
+
+Rocky Mountain Pinball Showdown and Gameroom Expo
+https://www.pinballshowdown.com/index.html
+Pinball and classic video games - sent in by James Diffendaffer
+
+?-=- The Interim Computer Festival -=- : Seattle, Washington U.S.A.
+SEP30-OCT01, 2023
+  https://sdf.org/icf/
+
+Dragon MeetUP 2023 : The Centre of Computing History, Cambridge, UK
+OCT 07-08, 2023
+  https://www.facebook.com/events/225011523831254
+
+Portland Retro Gaming Expo: Portland, Oregon U.S.A.
+OCT 15-18, 2023
+  https://www.retrogamingexpo.com/
+
+
+
+Coco 1/2/3 (and multi-platform)
+-------------------------------
+1) Alan of AC's 8 bit Zone put up a video about building a mechanical
+keyboard for the Coco - from scratch:
+  https://youtu.be/LfPPVcCY15A?si=0x_qOU4NKag5YDJU
+
+2) Mr. Dave 6309 put up a 512K animated page-flipping graphics demo,
+and shows the source code to do it:
+  https://youtu.be/g2srdceDOx0?si=Uzq4pMnr5mnFTnZv
+
+3) Coco Town added another SepTandy video, this time NOT about resurrecting
+his Moon Patrol clone that he did as a teenager. No, this time he sees if
+he can dial into a BBS at 300 baud... in 2023:
+  https://youtu.be/iLK4MqJWNfg?si=iaYfX2QyJjiF0Idm
+Then of course he got back to his Moon Patrol clone, part 6: Explosions and
+scoring. This is the final episode covering his original code written as
+a teenager... but he's not done. The next episode will be adding new code,
+based on all he has learned since he wrote it originally:
+  https://youtu.be/7HoGbypgK88?si=eyR6_lM2FJFDiC2U
+
+4) 8-Bit Rerun (a new channel on YouTube) posted a SepTandy video about
+a Coco 2 clean & retrobright. This is a PAL Coco 2 with "Colour" spelled
+correctly ;-). I am not much into cosmetic restorals, but the method he
+used to give rid of some of the case damage I am not familar with, and
+seems to have good results:
+  https://youtu.be/lquotAw3HzM?si=Veu-vwDQrHGeH6Q-
+
+5) 8-Bit Boyz on YouTube finally gets around to opening a box for SepTandy
+that he got from fellow YouTuber "Geek With Social Skills"... almost a
+year previous:
+  https://youtu.be/rD62ulRNSZY?si=a67DvK25G3TaxIyO
+
+6) Ken of Canadian Retro Things did a big unboxing for a SepTandy video:
+  https://youtu.be/wD9KdXzcikk?si=AaRHdkxO0tEJeHON
+
+7) ARC Javmaster did a live stream Wednesday night unboxing a Coco 3 that
+had *never been used* which both Sloopy and I guested on. One of the other
+people on (Joe of Joe's Computer Museum) got to try NitrOS9/EOU for the
+first time on his Coco 3 as well.
+  https://www.youtube.com/live/5hvUQLEYLaQ?si=u09cLzzonUABh_3o
+
+8) Drake on YouTube did a SepTandy video as well - a fellow Canadian -
+did a Coco 1 unboxing (With some extras):
+  https://youtu.be/E_gGFpd6e6A?si=QWVK992GnOyvSCy3
+
+9) The first Tandy Assembly Meetup in the San Francisco Bay area will be
+November 4, 2023 from 2-5 PM at the San Francisco State University. They
+have a Google doc where you can sign up to go. This is for people who can't
+make the track to the central/eastern states for the full Tandy Assembly
+show. There is talk of eventually making this a Tandy Assembly West:
+  https://forms.gle/Xqc42DNyBPvWnwve6
+
+10) Boisy Pitre has been active on our Discord about a new OS-9 Level
+1 port to a project called Foenix F256 Jr, which is real hardware using
+the equivalent of a 6MHz 6809. Level II is up next. This system features
+advanced graphics and sound compared to a Coco 3. Boisy posted a quick
+video on Facebook showing it talking to a Drivewire 4 server and running
+programs from that:
+  https://www.facebook.com/groups/2359462640/posts/10160919924427641/
+And a quick description of the system:
+  https://www.facebook.com/groups/2359462640/posts/10160919017012641/
+And the manufacturers site:
+  https://c256foenix.com/f256k/?v=3e8d115eb4b3
+
+11) The Dithertron website we covered last week (for converting modern
+picture formats to dithered formats for retro computers has now officially
+released it's first 6847 support. It supports 128x64, 128x96 and 128x192
+4 color modes, and both colorsets:
+  https://8bitworkshop.com/dithertron/#sys=c64.multi&image=seurat.jpg
+
+MC-10
+-----
+1)
+
+
+
+Dragon 32/64
+------------
+1) John Whitworth posted on Facebook that Dragon PSU boards are back in
+stock at his online store (16 as of his post on Friday):
+ 
+https://www.dragonplus-electronics.co.uk/product/dragon-psu-board-kit-version-jan-2022/
+
+2) "Doc Feelbad" on the Dragon Facebook group posted a link from the Home
+Computer Museum in the Netherlands (that we have covered before), where
+they have apparently found out they possess a rare Dragon 32 Demonstration
+cartridge:
+  https://www.facebook.com/groups/dragon32/posts/3552416985017945/
+
+3) Richard Harding posted a poll in the Dragon group on Facebook, asking
+people if they use of their Dragon's helped launch their career, or if they
+just played games, etc. I think they have an even higher ratio of people
+who's careers started because of their Dragon usage than us Coco people -
+80% said it had:
+  https://www.facebook.com/groups/dragon32/posts/3551879625071681/
+
+*****
+And, although this isn't Coco related (or even 6809), but since they are
+great friends of the show, I thought I would close out with a great song
+by Taylor and Amy that was partly recorded at VCF-MW. Plus we have quite
+a few cross platform people on our panel and in our audience too:
+  https://youtu.be/LrPxM-qYNTI?si=yTxTQZRcdd35fn7Z
+
+
+
+
+Game On news (all Coco related platforms):
+==========================================
+1) TRS-80 Retro Programing put up an update video of his Tales of Suburbia
+graphic adventure style game, covering a new music option and changing
+tapes between the chapter segments:
+  https://youtu.be/N65VLs6yLio?si=vEzNLvaj9bgTOn7-
+
+2) Jim Gerrie returns with a backport from the Metra Alice to the original
+MC-10 of the game "Third World War" originally by Free Game Blot in 1985:
+  https://youtu.be/gG2R28Rlwj0?si=fJeayf5QJaSxXfF7
+
+3) Retro Gaming Nook on YouTube did a long play video for SepTandy, playing
+Imagic's DragonFire - as he puts it - "on an original Tandy Color Computer
+in all it's RF Glory", since it didn't play properly on his Coco 3. He
+gets to the 11th round, when things are really speeding up:
+  https://youtu.be/YT6Vemgg_io?si=xZjN2LjVmgtyVJGs
+
+4) "Attempts: A gaming channel by LGR" on YouTube posted a 12 minute video
+of gameplay playing Nick's Donut Dilemma, and from what I can tell is
+meant to be an official entry for high scores on multiple high score sites
+(including Twin Galaxies):
+  https://youtu.be/ySKTCOSZ_JY?si=z0qEw2Yq-1NqBL8M
+
+5) Brian Palmer (Briza) has resurrected a BASIC Coco game from Australian
+magazine SoftGold - World Weight Lifting originally written by Duncan Fenn
+(14 at the time). Brian had been trying to get this one typed in for awhile,
+but he was missing a page in his copy. Thanks to Raechell Tony Hobart,
+he got the missing page and typed it in. I don't think he has uploaded
+the DSK image yet (probably still testing it):
+  https://www.facebook.com/groups/2359462640/posts/10160911200122641/
+
+
+Get connected with more of the CoCo, Dragon and MC-10 community here:
+=======================================
+https://thecoconation.com/community/

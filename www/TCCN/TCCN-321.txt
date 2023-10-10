@@ -1,0 +1,159 @@
+The Coco Nation News stories for Episode 321, July 15, 2023
+===================================================================
+Collected by L. Curtis Boyle
+
+- August 12 we have Matt Harper on (developer of Wizard's Den sold by Tom
+Mix Software).
+- August 19 we have a special treat - the original programmer of The
+Contras for Sundog Systems, Doug Masten - and Glen Dahlgren who ran Sundog
+(and who has been on the show several times before, including during our
+Dave Dies interview) will be on to help co-interview Doug about one of
+the most ambitious Coco 3 games done at that time (1991-1993)
+- September 9 we have Mark P. & Charlie from Portacoco.com. If you were
+at the Fest, you would have seen them at their booth showing Coco's (and
+monitors) running wirelessly together and off batteries that do NOT require
+modifications to a Coco case to attach.
+
+
+Coco 1/2/3 (and multi-platform)
+-------------------------------
+1) TRS-80 Retro Programing posted a longer video showing a full screen
+scrolling effect using the fast version of GET/PUT submitted by one of
+his viewers. The video is of him typing it in live and figuring out how
+it works as he goes:
+  https://youtu.be/i3leL3_jX3w
+Then he did a followup version incorporating some changes I mentioned,
+and changed the background to be shapes rather than random circles (to
+make the effect easier to see):
+  https://youtu.be/CPTRNoIuB2c
+
+2) Coco Town on YouTube did another followup on programming the VDG /
+SAM chip - this time covering the differences found in the T1 VDG (true
+lowercase, border on/off, inverse video), etc:
+  https://youtu.be/dpywQBaOf4k
+He did another followup, going through the different bit settings and VDG
+pin differences between the 2 VDG chips:
+  https://youtu.be/tKhPvhuVzWM
+He then did one about cycle counting (for optimizations) and a new version
+of his keyboard routine that he used on the T1 VDG video:
+  https://youtu.be/fC8EAz6pBt4
+
+3) Marco Van De Meulenhof posted on the Coco Facebook group that replacement
+Tandy Coco 2 badges are back in stock:
+  https://www.facebook.com/groups/2359462640/posts/10160769998117641/
+Store entry:
+ 
+https://retro8bitshop.com/product/tandy-trs-80-color-computer-2-silver-sticker-badge-domed/
+
+4) Michael Furman has posted his latest VLOG on Flex up on YouTube - where
+he has discovered that he really *did* have the master disk for his FHL
+copy of Flex. He explains how he was duped, and why it took this long to
+figure it out with a lot of technical content about the physical format
+of a FLEX disk, hidden files and plain detective work:
+  https://youtu.be/cB7nerXt0jU
+
+5) UK YouTube channel Retro Relix did a 20 minute video about a 16K Extended
+PAL TRS-80 Color Computer Restoration (I will mention that the machine worked
+right off the bat, so this is more restoring the case, etc from scratches,
+etc., but also adding a composite audio/video out, etc.). He also replaces
+the TRS-80 label using a replacement from the same place Marco mentioned
+earlier, and 3D prints a replacement black beauty button and replacement
+joystick stem (which he tests with some 16K games, since that is what his
+Coco has). He also teases a follow up video featuring hardware cartridges...:
+  https://youtu.be/GYh5l-imtFE
+
+6) Justin D. Morgan uploaded a live stream video of his doing a composite
+mod on his Coco 2 on YouTube, testing it, trying the Speech Sound Pak
+(which he had tremendous fun with) and the CocoSDC showing a few games:
+  https://www.youtube.com/live/hJ9kIdZ0Jng?feature=share
+
+7) Pierre Sarrazin announced that CMOC 0.1.83 has now been released. This
+includes adding an error message for multiply defined global variables &
+functions, rather than a warning; fixed a build problem on OpenBSD, isspace()
+now returns non-zero for \f and \v; a number of Coco 3 graphics functions
+no longer require an previous call to initCocoSuppport; and resetPalette()
+no longer requires BASIC being present:
+  http://perso.b2b2c.ca/~sarrazip/dev/cmoc.html
+
+8) Marco Spedaletti aka spotlessmind1975 released
+ugBASIC (Micro Game BASIC) compiler and IDE 1.14.1
+This is a version that collects all the bug fixes and corrections that
+have emerged in past months. Among the most important new features was
+added preliminary support for inline assembly and system calls.
+  https://ugbasic.iwashere.eu/?news&target=coco#news
+
+
+MC-10
+-----
+1) Jim Gerrie ported Skyscape originally by Robert M. Simons from
+Compute! magazine in November 1985. Jim ported this one from the
+TI-99/4A. It's an astronomy program that displays a sky map of the planets,
+sun, moon and Halley's comet, based on the date and latitude you type in:
+  https://youtu.be/18Migoe9MK8
+
+
+Dragon 32/64
+------------
+1) Julian Brown sent me an update on his Dragon 32 reproduction board:
+"In case you've missed it - the D32 reproduction board (rev 2.1) is now
+done and ready for consumption
+The final fault was a bad op-amp (actually a few bad op-amps).
+I've ordered up an initial batch of 20 that will go on sale via ebay
+(probably) but it is of course open source and anyone can get a board
+(or 5) fabricated from the design"
+  He also roughed out the Mark 2 Dragon 32 board used Stewart Orchard's
+  (who has been a guest on our show a couple of times) schematics:
+  https://www.facebook.com/groups/dragon32/posts/3500479533545024/
+
+2) John Whitworth has re-opened the Dragonplus Electronics online store
+with a "slightly reduced" range of items. How long it stays open depends
+on his cancer recovery goes. We are rooting for you, John! He mentions
+that the PSU, Oojamaflip 2020, SuperSprite FM+, Lower Case board, Pull up
+board and HD63C09E & SAM chips are available (It still says closed at the
+top for me, but does list the hardware as available):
+  https://www.dragonplus-electronics.co.uk/product-category/hardware/
+He also announced that he has finished replicating the JCB Speech
+Cartridge. He doesn't planning on manufacturing them, but will upload to
+GitHub once it is finalized:
+  https://www.facebook.com/groups/dragon32/posts/3498442650415379/
+
+3) John Linney reported that he has found some 8" disks (likely for the
+Motorola Exorciser or Exorterm) that have sourcecode for Microsoft's Dragon
+Extended BASIC - dated from May 26, 1983. They are looking into getting
+it read:
+  https://www.facebook.com/groups/dragon32/posts/3499824033610574/
+
+4) Bill Fixes Everything on YouTube put up a video doing a powerswitch
+fix on *2* Dragon 32's:
+  https://youtu.be/sE9mczw6HMk
+
+
+
+Game On news (all Coco related platforms):
+==========================================
+SPECIAL FOR GAME ON CHALLENGE:
+Glitch in The Lair video:
+  https://www.youtube.com/watch?v=vpnKGJsdlxk
+
+
+1) Paul Thayer posted a video VLOG update on his upcoming fast pace space
+shooter, SHMUP YOU UP!, and demos his new 2 channel digitized sample
+sound routines:
+  https://www.facebook.com/groups/2359462640/posts/10160773720782641/
+
+2) Richard Kelly has released his official Version 1 of his Maze Creator
+(which has both Coco 1/2 and Coco 3 versions, as well as graphic and text
+versions included). It is already available for download in the Coco group
+on Facebook, and will be on the Color Computer Archive (if it isn't already
+there) (screenshots in the comments):
+  https://www.facebook.com/groups/2359462640/posts/10160773310222641/
+
+3) Jim Gerrie has ported Sleuth (a CLUE like game), originally by Paul
+Farquhar from the July 1985 issue of Compute's Gazette, to the MC-10 from
+the Vic-20:
+  https://youtu.be/v-ZQkM-WnTg
+
+4) Tim and AJ are back to the Coco with Sibling Rivalry episode 91 -
+Space Shuttle. No, not the Tom Mix Software one, but a simultaneous 2
+player Lunar Lander style game by Aardvark:
+  https://youtu.be/n--KqZ56EGg

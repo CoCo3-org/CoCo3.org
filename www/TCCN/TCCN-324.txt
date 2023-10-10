@@ -1,0 +1,107 @@
+The Coco Nation News stories for Episode 324, August 5, 2023
+===================================================================
+Collected by L. Curtis Boyle and Mark Overholser
+
+- August 12 we have Matt Harper on (developer of Wizard's Den sold by Tom
+Mix Software).
+
+- The interview with Doug Masten (author of The Contras) with co-interviewee
+Glen Dahlgren of Sundogs Systems that was originally going to happen
+on August 19 is being postponed, due to a fairly major surgery. We are
+shooting for around October/November depending on doctor's orders.
+
+- September 9 we have Mark P. & Charlie from Portacoco.com. If you were
+at the Fest, you would have seen them at their booth showing Coco's (and
+monitors) running wirelessly together and off batteries that do NOT require
+modifications to a Coco case to attach.
+
+Coco 1/2/3 (and multi-platform)
+-------------------------------
+1) TANDYCOM on YouTube released a video showing him running a 1983 BBS
+program on the Javascript Mocha online Coco 2 emulator:
+  https://youtu.be/4hs7SeBh8S0
+
+  Javascript Mocha online Coco 2
+  https://www.haplessgenius.com/mocha/
+
+2) TRS-80 Retro Programing on YouTube released a quick video showing a
+gem with some color animation for the Coco 1/2:
+  https://youtu.be/hwD6SaLGRkk
+He also did a deep dive in trying to figure out how the "Fast" GET/PUT
+buffer works and how to use it, and gets most of
+it by the end of the video, but still needs to learn a bit more:
+  https://youtu.be/zrGWzlaKxb4
+
+3) Coco Town does yet another follow up on using the T1-VDG - this time
+patching the print vector so that 1) you can keep the new modes staying
+active in BASIC, and 2) without screwing up the print vector (like the
+quick POKE 359,57 hack does... PRINTing to files on disk, etc. won't work
+with that POKE enabled). He also goes through and explains/demonstrates
+how the RAM vectors change, and why:
+  https://youtu.be/ZZeA1W5NfmU
+
+4) YARC (Yet Another Retro Channel) on YouTube released a video titled:
+"Can we use the TZXDuino with a Tandy Color Computer?" (I think this is
+Todd Horch's channel?):
+  https://youtu.be/3beZ7EYS-2E
+
+5) "Oh Brother!" on YouTube released a video that they did on Twitch using
+a real Coco 2 with cassette to try some small physics simulations:
+  https://youtu.be/cMTfWBIEK0M
+
+6) Bill Sexton posted a photo of his Coco 3 Analog RGB output to his Atari
+ST RGB monitor, requiring just a cable change. In the comments he posts
+the diagram showing how to do it:
+  https://www.facebook.com/groups/2359462640/posts/10160815422887641/
+
+7) The Coco Crew has released an interview done with Colin J. Stearman
+in 2023. Colin was the author of the Rainbow series "Cooking with Coco",
+a technical series on doing upgrades to Disk BASIC (I have the YouTube
+link here, since that is where I happened to listen to it). The interview
+is done by Boisy Pitre:
+  https://youtu.be/wxlH5HDaCjc
+
+
+MC-10
+-----
+1)
+
+
+Dragon 32/64
+------------
+1)
+
+
+Game On news (all Coco related platforms):
+==========================================
+1) TRS-80 Retro Programing has a longer walkthrough of his kitchen scene
+in his Tales of Suburbia Extended BASIC game:
+  https://youtu.be/s71FHO9Ro_k
+
+2) Inufuto has their next game out, called Hopman (started coming out for
+the various platforms on July 19, 2023). The player hops around between
+platforms collecting flags, but unlike some previous Inufuto games along
+the same line, this is a sidscrolling platformer. Coco 1/2 version requires
+32K RAM, Coco 3 requires 128K, and the MC-10 version requires 20K. All 3
+have videos as of July 29 and 30th.
+  http://inufuto.web.fc2.com/8bit/hopman/
+
+3) XPerTek has released another spanish Coco game play video (on an amber
+monitor) - this time for Moon Shuttle:
+  https://youtu.be/PTSd51NZChc
+
+4) Our very own Ken of Canadian Retro Things released a gameplay comparison
+of Protectors 2 - on the Coco 1/2 and the C64:
+  https://youtu.be/6KYY0y-Z-fQ
+
+5) Jim Gerrie did some porting to the Coco for a change; Fox and Geese
+originally from Marshall Cavendish's INPUT magazine in 1984. As Jim says,
+it demonstrates some simple AI techniques and uses high res graphics". The
+play board looks a lot like checkers or chess, but the gameplay is quite
+different. I think it is based on the traditional game of the same name,
+where the geese try to trap the fox so it can't move, and the fox tries
+to eliminate all of the geese before that can happen:
+Video:
+  https://youtu.be/WkU1Ar2I3Ag
+Entry for this game on Jim's "Type-in Mania:" series:
+  http://faculty.cbu.ca/jgerrie/Home/foxgeese.html

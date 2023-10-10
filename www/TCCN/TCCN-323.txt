@@ -1,0 +1,146 @@
+The Coco Nation News stories for Episode 323, July 29, 2023
+===================================================================
+Collected by L. Curtis Boyle
+
+- August 12 we have Matt Harper on (developer of Wizard's Den sold by Tom
+Mix Software).
+
+- The interview with Doug Masten (author of The Contras) with co-interviewee
+Glen Dahlgren of Sundogs Systems that was originally going to happen
+on August 19 is being postponed, due to a fairly major surgery. We are
+shooting for around October/November depending on doctor's orders.
+
+- September 9 we have Mark P. & Charlie from Portacoco.com. If you were
+at the Fest, you would have seen them at their booth showing Coco's (and
+monitors) running wirelessly together and off batteries that do NOT require
+modifications to a Coco case to attach.
+
+Coco 1/2/3 (and multi-platform)
+-------------------------------
+1) TRS-80 Retro Programming did a longer video (almost 3/4 hour) on the
+law of Sines:
+  https://youtu.be/vl1GZn5WUlg
+He also did a Tales of Suburbia update, filling out the kitchen room
+(and mentioned in the title that he is almost done):
+  https://youtu.be/sqvrlqh1qPQ
+
+2) Simon Jonassen put up a quick video (using XRoar, but it works on
+real hardware) showing some mode change and timing tricks to get smooth
+scrolling text on a regular 'ol VDG chip:
+  https://www.facebook.com/groups/2359462640/posts/10160798037397641/
+
+3) Ron Klein posted an update on the Coco Pi, and the fact that 32 bit
+MAME may need to be dropped:
+  https://coco-pi.com/coco-pi-project-update-2023-07-24/
+
+4) Brendan Donahe posted some photos from last weekend's Classic Game Fest
+in Austin Texas, where he had a both for the CocoVGA (both MC-10 and Coco
+versions) amongst other things:
+  https://www.facebook.com/groups/2359462640/posts/10160801685607641/
+
+5) Coco Town released a video on recursion, how it works with the stack,
+and includes assembly sourcecode. It also shows some practical examples
+at the beginning that use recursion to do something complex with very
+small program code. It is one of the best visualization presentations for
+recursion that I have seen.
+Video:
+  https://youtu.be/756L40drupY
+Source:
+  https://cocotownretro.wordpress.com/2023/07/25/recursion-to-the-lowest-level/
+
+6) Paul Thayer released a longer video blog (1/2 an hour) about his game
+development for Schmup You Up, going into the assembly language programming
+behind mixing voices, how FIRQ sound routines work, and some of the issues
+he has hit with things like sampling rates and volume:
+  https://www.facebook.com/groups/2359462640/posts/10160803524087641/
+
+MC-10
+-----
+1) Jim Gerrie has written a new version of the "10PRINT2" 1 line maze
+drawing program... this time using the SG6 (which increases the resolution
+from 64x32 to 64x48):
+  https://youtu.be/xQ16Av00HkI
+He also did a Barbie silhouette to take advantage of the Barbie movie craze:
+  https://youtu.be/t_pX9X1GslA
+
+
+Dragon 32/64
+------------
+1) Julian Brown, fresh off of starting to sell his Dragon 32 replacement
+motherboards (version 2.1), has started thinking of his version 3.0 (which
+has enhancements). He is asking some technical questions on one thing he
+wants to add - a programmable character set. For those who know about it
+to answer, it's in the Dragon group on Facebook:
+  https://www.facebook.com/groups/dragon32/posts/3508182956108015/
+He also has some prototypes of the keyboard electronics replacement board
+(similar to Rick Ulland's KeyFix for the Coco's):
+  https://www.facebook.com/groups/dragon32/posts/3510176232575354/
+Although, he did discover why spacers are needed to lift the keyboard:
+  https://www.facebook.com/groups/dragon32/posts/3511046172488360/
+
+2) Richard Harding announced that this year's Dragon MeetUp will be October
+7-8 at The Centre for Computing History in Cambridge. As Richard mentions,
+all 68xx computers are welcome, so that adds things like the MC-10, the
+Alice, all the Coco's, Vectrex, etc.:
+  https://www.facebook.com/events/225011523831254/?ref=newsfeed
+
+3) John Whitworth of Dragonplus Electronics posted an update to his SuperRGB
+package - the final versions of the 2-4 boards each owner will need are
+ordered. Mockup pictures in his post in the Dragon group on Facebook:
+  https://www.facebook.com/groups/dragon32/posts/3508362562756721/
+
+
+Game On news (all Coco related platforms):
+==========================================
+1) Jim Gerrie posted video of Tandy's original Pong for the MC-10 (released
+on cassette from Tandy in 1983), but with some enhancements for speed,
+and also using a special keyboard ML routine by Greg Dionne to allow both
+players to move their paddles at the same time:
+  https://youtu.be/2BnD-KemDoY
+He also updated Breakout from the Tandy Micro Games cassete as well,
+adding speedups, high score & performance ratings. Also now works with
+the Joypad controller, and still in 4K:
+  https://youtu.be/cyJgMK18TJg
+
+2) Jim Mullis posted a new update video to his Super Powers (based on
+DC Comics characters) game using BASIC along with GrafExpress (from
+Sundog). Full notes of changes in the YouTube description:
+  https://youtu.be/UbnXX3j4j3M
+
+3) Nick Marentes found an interesting just released video covering the
+Home Computer invasion in the early 1980's - in the UK. It covers the full
+range from the ZX80/81, the BBC Micro, Vic-20, Dragon 32/64, and more:
+  https://youtu.be/pdUciv2KMWg
+
+4) Christopher Lee announced in the Dragon group on Facebook that he will
+shortly be announcing a kickstarter for a new text adventure game based on
+the Infocom engine, and is gauging interest for the Dragon (and I assume
+Coco as well). He has a brief description of the plot included as well,
+and mentions that there will be multiple ways to purchase it from digital
+download to boxed collector's editions. The game is called "The Forgotten
+Pyramid":
+  https://www.facebook.com/groups/628229514520648/posts/1200662100610717/
+
+5) Spanish YouTube channel "XperTek" does a review of some games on his
+Coco 2 (unfortunately he only has an amber composite monitor) (turn close
+captioning on, with settings-> auto-translate to english):
+Downland (Tandy):
+  https://youtu.be/c6QXFOtVdfc
+Morocco GP (Computerware):
+  https://youtu.be/-01ZI_Mb3DM
+Cuber (Tom Mix):
+  https://youtu.be/3ldHaFNiAic
+
+6) Hikikomori Style on YouTube did a video showing Dragon 32 game cassettes
+that are paired up by being related (same genre, clone of the same original
+arcade game, etc.):
+  https://youtu.be/fML9kyjqMCU
+
+7) I think I completely missed this game when it was released for the
+Dragon and Coco. It is available on multiple platforms, and the Spectrum
+version was converted to the Coco and Dragon by Pere Serrat, who also
+did the port of Asteroids RX that was featured on the Game On Challenge
+the past two weeks. The premise is cool, because each screen is based on
+arcade style games from back in the 1980's. It's a free download on itch.io,
+and requires 64K:
+  https://sloanysoft.itch.io/janky-joe-dragon-coco

@@ -1,0 +1,141 @@
+The Coco Nation News stories for Episode 327, August 26, 2023
+===================================================================
+Collected by L. Curtis Boyle
+
+- September 9 we have Mark P. & Charlie from Portacoco.com. If you were
+at the Fest, you would have seen them at their booth showing Coco's (and
+monitors) running wirelessly together and off batteries that do NOT require
+modifications to a Coco case to attach.
+
+- The interview with Doug Masten (author of The Contras) with co-interviewee
+Glen Dahlgren of Sundogs Systems that was originally going to happen
+on August 19 is being postponed, due to a fairly major surgery. We are
+shooting for around October/November depending on doctor's orders.
+
+
+Coco 1/2/3 (and multi-platform)
+-------------------------------
+1) Shuford14 (Eddie Malphrus) on the TRS-80 Discord met up with Jerry
+Heep (one of the engineers at Tandy from the 1970's onwards) and got some
+documentation related to VERY early Coco related things, and is scanning
+and uploading them to the Internet Archive. The archive copies are ZIP's
+so I will show them locally here; you can grab your own copies by using
+the links in the news show notes on our Discord:
+Block diagram for Videotex II (which was never released) - using a 6805 CPU:
+  https://archive.org/details/videotex-ii-block-diagram
+Photos submitted to the FCC as part of the certification for Videotex:
+  https://archive.org/details/trs-80-26-5000-videotex
+Videotex Service Manual:
+  https://archive.org/details/trs-80-videotex-service-manual-26-5000_20230822
+
+2) CocoTown did a video that shows (through visualizations) how Quick
+Sort works:
+  https://youtu.be/MmpiUm_IGEQ?si=ML_HOvj5eE_x_hMr
+He then did a follow up video showing how the Quick Sort he wrote in
+assembly works:
+  https://youtu.be/EW1-zfIbEXE?si=e0sSL60DrSx88bis
+And then he did was he called a "dumb one" - getting each sort... to
+sort itself:
+  https://youtu.be/P_AMR-7ZIBs?si=YeNm0CndAuj3axcT
+
+3) TRS-80 Retro Programing did another update to his picking up of the
+Kung Fu game I started way back in 1986:
+  https://youtu.be/L3tDX39G4uI?si=nzfbZvvcZSu2qrhL
+
+4) Ars Technica posted an article about a retro computer collector & use
+named Brian Green (originally published March 11 of this year, but they
+posted a link to it on Facebook this week). Looking through the photos,
+he has several Coco's, including a Coco 3 with an Zippsterzone keyboard,
+MegaMiniMPI, Coco SDC, Orch-90, floppy drives with controller, RS-232 Pak,
+and more:
+ 
+https://arstechnica.com/gadgets/2023/03/apple-atari-and-commodore-oh-my-explore-a-deluxe-home-vintage-computer-den/
+
+5) Fred Provoncha has put up Control Panel for NitrOS9/EOU version 3.1b on
+Facebook (and it should on the archive soon). Please feel free to test it
+and report and bugs. We will be including this on the next version of EOU
+(1.0.1), but that won't be for a bit until work dies down for me):
+  https://www.facebook.com/groups/1929079184021683/posts/3463992663863653/
+
+6) ChibiAkumuas in YouTube has released part 2 of his 6309 programming
+series on YouTube. This time he talks about 6309 extensions of shifts,
+compares and logical operations:
+  https://youtu.be/9mlrxDdU2HY?si=U8cC_WGN_yxXtOSy
+I should mention - he has text summaries of the lessons, and that is ahead
+of the video releases (part 3 is already there):
+  https://www.chibiakumas.com/6809/6309.php
+
+7) Eric Canales announced another update to his 6Dev09 assembler; build
+18 is now available to people who have purchased it at:
+  https://www.playpi.net/software-portal/
+Updates are:
+  Small bugfixes
+  Fixed some activation issues
+  Added splash screen
+  Added MAME 0.257 support
+  Added new machines, carts, and roms in line with MAME 0.257.
+  Added rs232 support
+  Fixed window sizing on start
+  Install fonts when using installer
+
+8) The Vintage Geek museum (that Ken and I visited this past spring) did
+a video on the Robie robot that Radio Shack sold, that had the capability
+of getting tapes made on a Coco to program it somewhat. They don't have
+the tape deck working properly to do that in the video, but the Coco and
+a Coco game make appearances:
+  https://youtu.be/17huNzvFYys?si=ednUFNIMPsfPWvyJ
+
+9) Spanish YouTube channel RetroComputo did an episode about using the
+Multi-Pak interface:
+  https://youtu.be/PYZhKQTPPjM?si=PIx7eARkBsD74RbN
+
+MC-10
+-----
+1) Johan Koelman posted some early screenshots of his ZX Spectrum based
+MC-10 emulator, and the VDG character set he is using (set up to be 8x8
+unlike the VDG's 8x12 since that works better for the Spectrum):
+  https://www.facebook.com/groups/731424100317748/posts/6408133815980053/
+
+
+Dragon 32/64
+------------
+1) A reminder: This year's Dragon Meetup (the 6th one) is October 7 & 8 at
+the Center for Computing History in Cambridge.  This years theme is software,
+including a lot of games and competing for high scores. Details here:
+ 
+https://www.computinghistory.org.uk/det/71156/dragon-meetup----7th-8th-october-2023/
+
+2) Julian Brown showed his new Dragon keyboard PCB's - now two different
+boards rather than using 2 identical boards twice:
+  https://www.facebook.com/groups/dragon32/posts/3531902170402760/
+He has another update to his replacement keyboard circuit boards for Dragon
+keyboards (like Rick Ulland's KeyFix for the Coco), with pictures. He is
+really close to having it ready for the public:
+  https://www.facebook.com/groups/dragon32/posts/3533739470219030/
+
+
+Game On news (all Coco related platforms):
+==========================================
+1) The Coco Show episode 47 is up on YouTube - covering a game originally
+on the Dragon, Lucifer's Kingdom. This is also Boat's last regular schedule
+show, as "Real Life (TM)" has cut his spare time down. Next month Aaron
+will be co-hosting with his brother, "The Brent"... which should work well
+since they both used their family's Coco 2 when they were young:
+  https://youtu.be/z36GS3pSLbk?si=_AK1_5kwSdAi0aWc
+
+2) Last week we mentioned some gameplay videos from paulisthebest3uk
+on YouTube, including Monkey Kong "+ bonus game" (that had just out the
+morning of the show). I decide to check the video itself out this past week
+(since I didn't have time to watch it before the show) and I am glad I did
+- the bonus game is one I have never seen before, called "Revenge of Pac
+Man" by Tom F.A. Fiers in 1983 - from Belgium! It looks fairly decent and
+features either joystick or keyboard controls. From what I saw, it looks
+to be for cassette only, and crashes. He does Galactic Raiders after that.
+  https://youtu.be/Pg8Saw-NDFE?si=WJAY0ByTkdHwKPwm&t=254
+And he did other games during the week as well:
+  https://www.youtube.com/@paulisthebest3uk/videos
+
+
+=======================================
+Get connected with more of the CoCo, Dragon and MC-10 community here:
+https://thecoconation.com/community/

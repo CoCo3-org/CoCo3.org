@@ -1,0 +1,252 @@
+The Coco Nation News stories for Episode 332, September 30, 2023
+===================================================================
+Collected by L. Curtis Boyle
+
+- The interview with Doug Masten (author of The Contras) with co-interviewee
+Glen Dahlgren of Sundogs Systems that was originally going to happen
+on August 19 is being postponed, due to a fairly major surgery. We are
+shooting for around October/November depending on doctor's orders.
+
+Upcoming conventions/trade shows of interest to Coco people:
+************************************************************
+Tandy Assembly 2023: Springfield, Ohio U.S.A. *** ON NOW ***
+SEP29-OCT01, 2023
+  http://www.tandyassembly.com/
+
+Rocky Mountain Pinball Showdown and Gameroom Expo *** ON NOW ***
+https://www.pinballshowdown.com/index.html
+Pinball and classic video games - sent in by James Diffendaffer
+
+-=- The Interim Computer Festival -=- *** ON NOW ***
+Seattle, Washington U.S.A.
+SEP30-OCT01, 2023
+  https://sdf.org/icf/
+
+Dragon MeetUP 2023 : NOTE: THE LOCATION OF THIS HAS MOVED DOWN THE ROAD
+TO THE CAMBRIDGE MUSEUM OF TECHNOLOGY,
+RATHER THAN THE CENTRE OF COMPUTING HISTORY:
+ 
+https://www.computinghistory.org.uk/det/71156/Dragon-Meetup-7th-8th-October-2023/
+(They were doing roof repairs but they fell behind schedule and won't be
+fixed in time for the meet up).
+OCT 07-08, 2023
+  https://www.facebook.com/events/225011523831254
+
+Portland Retro Gaming Expo: Portland, Oregon U.S.A.
+OCT 15-18, 2023
+  https://www.retrogamingexpo.com/
+
+
+Coco 1/2/3 (and multi-platform)
+-------------------------------
+1) First up is the success of our first Beta episode of CocoTECH (sneaking
+it in just before #SepTandy ends, and already over 200 views on YouTube
+alone!). We tried a dual approach, with some software and some hardware. We
+also got some comments on the show and suggestions for format changes,
+etc. Lets go through the ones mentioned on YouTube:
+  https://www.youtube.com/live/-BUERUCbgXM?si=8KP8xXiS-mFJ1V2y
+(personal observation - since we do want it live and interactive, I don't
+think we can limit every one to 30 minutes. But we can also have pre-recorded
+episodes of fixed length if the presenter so wishes. I agree with cutting
+the "chatty banter" down - this is the TECH show after all - and that may
+be more easily handled by having less people on the live panel (they can
+be in chat instead). Maybe 1 person per project and a "moderator" who can
+change the camera views and keep things on the rails as a maximum? And 2
+projects maximum... maybe just one per episode would be better?
+An exception might be if we do a live "class" style episode - people
+following along with and doing a hardware upgrade, or going through software
+or programming?
+
+2) CocoTown has started his second series about resurrecting the Moon
+Patrol clone he started in his teens. The previous series covered all the
+routines he had done back in the day as a teenager. Now, he starts on bug
+fixes and improvements, including changing the loader program from BASIC
+to assembly, amongst other things. And bugs. Lots of bugs:
+  https://youtu.be/OLKpE-wkw0w?si=lEWhO9Uqs3ffX3PH
+
+2) David Mitchell of Davy's Retro Corner fixed up his SG-Edit (and even has
+links to the source on his Github). You can use this to design screens for
+the Coco, MC-10, Dragon and all of their clones. It's an interactive web app:
+Blog announcement:
+  https://davysretrocorner.blogspot.com/2023/09/oops-and-grid.html
+He later did an update where you can four-way scroll the screen you are
+editing on:
+  https://davysretrocorner.blogspot.com/2023/09/we-are-scrolling.html
+Web app link:
+  https://cheerful-cajeta-f5df82.netlify.app/
+
+3) La Coco Strangiato on YouTube (aka Bob Emery) put up a video of him
+trying to figure out how to get an SVI-CAS to work on his Coco (this is
+a virtual cassette recorder replacement for retro computers from Australia):
+  https://youtu.be/pDE4cZge6-Y?si=1RqbbG4f9cLLQdJ6
+
+4) TRS-80 Retro Programing posted a video of some changes of how he is
+going to do his Coco Ultimate, including switching to PMODE 1 (to save
+RAM and to get 4 colors on the screen at once).
+  https://youtu.be/GQfHxVrL5gk?si=Xe5CeiISc3wly6pH
+He added another part about Coco Ultimate, adding player health bars:
+  https://youtu.be/naAcbsDYgEo?si=MPeCv12WcplAgIB6
+He also did something different - Part 1 of creating a cursor based
+navigable menu in Color BASIC that uses the arrow keys:
+  https://youtu.be/z6kxZZE6p-s?si=FlcKUPeGRFt4JPqS
+
+5) Chris's Retro Tech Channel put up a video for SepTandy showing the Coco
+1 he picked up in a "Mega Haul" earlier this summer. He just shows what it
+looks like and the condition it is in, and wondered out loud if it would
+work with either/both of an RCA to Coax adapter (I tried one here awhile
+ago and it seemed to work, but I was going to a flat screen TV with a
+tuner built in), or if a TI-99 RF modulator would work:
+  https://youtu.be/Z-WWbNIyvV4?si=nEPi_28EoLwfCK3G
+He did a follow up video a couple of days later, where is does have it
+going to the TV. It's Color Basic 1.1, no extended. Don't know the RAM yet,
+but I suspect 16K:
+  https://youtu.be/Sga8RjIsMZc?si=Smt4BGxegkCeufbl
+
+6) Terry Stewart (tezza) of New Zealand on YouTube goes through the Coco
+1 in his collection. He mentions that this is a re-upload to fix bad audio
+in a previous release; not sure if that is a recent or much older version
+of this video:
+  https://youtu.be/qXaxodHVsyo?si=j4Kwi5aSl7-tvl4-
+
+7) Veronica Explains on YouTube did her summary of VCF-MW (she is one of
+the guest spots in the 6502 song by Taylor and Amy that we covered last
+week), and it shows Ken and his Coco table a few times. She even mentions
+in the video description that Ken may have convinced her that she may need
+to get a Coco 3... way to go, Ken!
+  https://youtu.be/ImKZb7Ych38?si=QtC8aXTwa9hqspfl
+
+8) Ken of Canadian Retro Things has another #SepTandy video himself,
+based on a special Coco 2 I donated to him from an ex-Coco user here in
+Saskatoon. It has multiple upgrades - including a composite upgrade that
+doesn't seem to be producing colour. Will he figure it out?
+  https://youtu.be/fcCqUoXR1MY?si=n4uEEyiNFGKodwS0
+
+9) TJBChris on YouTube has put up Part IV (and the final one) of his SepTandy
+"TEC" (Tandy Education Connection) series, this time covering educational
+software of TRS-80 Model 1/3/4 and the Coco:
+  https://youtu.be/8h-YqOdRMtA?si=-ZjvEaTBfWO4PeC8
+
+10) Geek with Social Skills put up his last SepTandy for this year, doing
+a memory upgrade on his Coco 3:
+  https://www.youtube.com/watch?v=lrLytiCyJX8
+
+11) MrDave6309 has released a new video showing his sprite engine,
+showing backgrounds and foregrounds that sprites can go behind or in
+front of and using double buffering. He plans on tweaking it a bit more,
+and then extending it to make it easy to call from BASIC:
+  https://youtu.be/INmlGb9bx_I?si=0lPnQxgWcQHUVd5s
+
+12) Justin D. Morgan did a 3rd try at fixing up/upgrading his Coco 2. While
+it's still not 100%, he did reduce the yellow bar size by quite a bit
+(and out of the active display area), and did get the 6309 installed:
+  https://www.youtube.com/live/MEojIu9M4s8?si=hvQ5KyTKMq37QZAl
+
+13) Danniielle O'Connor posted a photo of the PONG game by Nick & Richard
+Kelly running on her Coco D (Coco 3 in a Model 4 case). She is hoping to
+have the Coco D completed by the end of SepTandy (today):
+  https://www.facebook.com/groups/2359462640/posts/10160928838567641/
+
+14) For those of you who watch the show "This Week in Retro", they are asking
+people to submit Tandy related (Coco, TRS-80 B&W models, Tandy 1000-5000,
+etc.) stories to their sub-reddit for this weeks question to viewers.
+Current episode SepTandy part:
+  https://youtu.be/mQtQ9RPzwgM?si=DoW-7_CbO0rQ5A6l
+Their sub-reddit:
+  https://www.reddit.com/r/thisweekinretro/
+
+MC-10
+-----
+1) Dillon Teagan posted in the MC-10 group on Facebook that someone has
+developed a 2 port multipack, with 2 joystick ports and a special ROM Card
+socket for game cartridges for the Alice (4K/32/90K). If that is correct, it
+should work on the MC-10 as well (Alice 4K is a clone of it). Unfortunately,
+it looks like it wouldn't work with either of the MCX cards currently out
+(the 128K RAM upgrade, or the 32K RAM/SD cards reader one).
+  https://www.facebook.com/groups/731424100317748/posts/6531827416944025/
+The original posts in French, including photos:
+  https://forum.system-cfg.com/viewtopic.php?f=18&t=14636&start=60&
+
+2) Johan Koelman announced the availability of the beta of a new MC-10
+emulator that runs on a ZX Spectrum:
+  https://www.facebook.com/groups/731424100317748/posts/6526653437461423/
+
+
+
+Dragon 32/64
+------------
+1)
+
+
+
+Game On news (all Coco related platforms):
+==========================================
+1) Jim ported Solitaire (a single player card game, but not common Klondike
+style that most people know) to the MC-10 from Compute! magazine January
+1986, originally from the IBM PC by Ben Elizer and Kevin Mykytyn. The
+video is over 15 minutes long, as it shows a complete game played right
+through to a win:
+  https://youtu.be/ja2nuASkWhg?si=NDakc-pBY-kPO492
+He also updated his low res Dig Dug clone for the MC-10, including some
+music by Carlos Camacho. He added a timer, enemies turn white and can
+travel through rock, minor speedups and adjustments to the timer length
+based on level of play have been added as well:
+  https://www.facebook.com/groups/2359462640/posts/10160935619772641/
+Video of the new game play:
+  https://youtu.be/RFqWvESkHbg?si=7ZjYApyGoGLe-X1c
+
+2) Chronologically Gaming did his first coverage of a Coco specific magazine
+(having covered several video game magazines as well Atari specific
+magazines, etc.) on Monday's episode. He covered the July 1982 Rainbow -
+their first anniversary and the first time Lonnie considered it a "full
+magazine" - full color cover, typesetting, etc.):
+  https://www.youtube.com/watch?v=N8oHJD8dw5c&t=1913s
+
+3) Retro Gaming Nook continues their SepTandy with another Coco game
+review - this time Super Pitfall on a Coco 3. This is a longer video -
+almost 45 minutes:
+  https://youtu.be/EnhZDx2gGak?si=1xDQreHpe5cG-IXJ
+
+4) ExperTek (Spanish channel with an amber monitor that we have shown
+before) showed Britt Monk's / Avalon Hill's 3-D Brickaway:
+  https://youtu.be/nkdWcKL4LXs?si=2s2JsoGGUkny3Qvr
+
+5) Bruno Aubin on YouTube released video gameplay of the Inufuto games
+for the MC-10:
+  https://www.youtube.com/@Neotenien/videos
+
+6) The Wargaming Scribe (it's been awhile since we have covered his
+website!) has added game #111 to his "all computer wargames" page, which
+is Waterloo by Ark Royal Games on the Coco, released at the end of 1983. He
+does not think highly of it:
+  https://zeitgame.net/archives/10995
+Also, I think I missed one he did back in December around Christmas time,
+Bomber Command also by Ark Royal Games:
+  https://zeitgame.net/archives/7888
+
+7) For the Amigos SepTandy contribution, Aaron hosts a 1 & 3/4 hour special
+on "The Games of Nick Marentes". As much as Nick would like me to play
+the whole thing here on the show, I will just play a clip, and y'all can
+go watch the full video and leave comments on their YouTube channel (it
+covers most of Nick's Coco games... but not all) (Nick recommends showing
+a clip at 1:01 - Gunstar):
+  https://youtu.be/F6t_x89Vtmg?si=F-T-3qR8LJXVoyl5
+
+8) Brian Palmer has another game typed in from Australian Coco magazines -
+Pendant of Death originally by Wayne Kelly. A text adventure game with a
+few graphics pictures thrown in. He wants some testers to play it and see
+if he had any typing mistakes, and you can download the DSK image from
+the Coco group on Facebook:
+  https://www.facebook.com/groups/2359462640/posts/10160935507127641/
+And another from Australian Coco - Dragon Lord originally by Dennis Mellican
+- also available in the Coco group on Facebook:
+  https://www.facebook.com/groups/2359462640/posts/10160927200917641/
+
+9) Richard Kelly has uploaded BASIC Pong version 1.11 "Retro Rick Edition"
+(this you will remember was started by Nick Marentes a couple of weeks ago)
+to the Coco Facebook group:
+  https://www.facebook.com/groups/2359462640/posts/10160930290822641/
+
+
+Get connected with more of the CoCo, Dragon and MC-10 community here:
+=======================================
+https://thecoconation.com/community/

@@ -1,0 +1,227 @@
+<!doctype html>
+<html>
+<head>
+	<title>CoCo3.org -- The Coco Nation News stories for Episode 326, August 19, 2023
+</title>
+	<style type="text/css">
+		body { font-family:tahoma,arial,helvetica; font-size:14px; color:#FFFFFF;  background-color:#303030; }
+		h1 { font-weight:bold; font-size:16px; }
+		h2 { font-weight:bold; font-size:14px; }
+		a:link    { color: #DFDF00; }
+		a:visited { color: #DFDF00; }
+		a:hover   { color: #888800; }
+		a:active  { color: #FFFF00;	}
+		div#navbar { height:26px; border-top:solid #000 1px; border-bottom:solid #000 1px; }
+		div#navbar ul { margin:0px; padding:0px; font-weight:bold; line-height:26px; white-space:nowrap; text-align:center; }
+		div#navbar li { list-style-type:none; display:inline; color:#B8B8B8; }
+		div#navbar li a { text-decoration:none; padding:8px; }
+		div#navbar li a:link { color:#808080; }
+		div#navbar li a:visited { color:#808080; }
+		div#navbar li a:hover { color:#FFFFFF; background-color:#C0C0C0; }
+	</style>
+</head>
+<body>
+	<div style="padding:20px; width:800px;">
+				
+		<div id="navbar">
+			<ul>
+				<li><a href="../index.html">Home</a></li>
+				<li><a href="../blog.html">Blog</a></li>
+				<li><a href="../projects.html">Projects</a></li>
+				<li><a href="../links.html">Links</a></li>
+				<li><a href="../about.html">About</a></li>
+			</ul>
+		</div>
+
+		<a href="https://thecoconation.com/"><img style="margin:10px 0px 0px 0px;" src="TCCN-Banner.png" width="333" height="150" alt="" /></a>
+		<a href="index.html" style="margin:0px 0px 0px 20px;">[Index]</a>
+
+<pre>
+<big><strong style="color:lightblue">The Coco Nation News stories for Episode 326, August 19, 2023
+</strong></big>===================================================================
+Collected by L. Curtis Boyle
+
+- The interview with Doug Masten (author of The Contras) with co-interviewee
+Glen Dahlgren of Sundogs Systems that was originally going to happen
+on August 19 is being postponed, due to a fairly major surgery. We are
+shooting for around October/November depending on doctor's orders.
+
+- September 9 we have Mark P. & Charlie from Portacoco.com. If you were
+at the Fest, you would have seen them at their booth showing Coco's (and
+monitors) running wirelessly together and off batteries that do NOT require
+modifications to a Coco case to attach.
+
+<big><strong style="color:lightblue">Coco 1/2/3 (and multi-platform)
+</strong></big>-------------------------------
+1) ChibiAkumis Has started a new 6309 assembly language tutorial (and
+more parts are coming). In this episode he covers the extra registers,
+and some of the new 16 bit math:
+  <a href="https://youtu.be/4PCKd4gJRlc">https://youtu.be/4PCKd4gJRlc</a>
+
+2) Coco Town released a video this week expanding on doing sorts in machine
+language. He tackles 3 different sort algorithms: Bubble, Insertion and
+QuickSort. He also shows how to access Extended BASIC's TIMER:
+  <a href="https://youtu.be/8JL9dlRmxKg">https://youtu.be/8JL9dlRmxKg</a>
+Sourcecode for the sorts:
+ 
+<a href="https://cocotownretro.wordpress.com/2023/08/14/bubble-sort-insertion-sort-quick-sort-assembly-code">https://cocotownretro.wordpress.com/2023/08/14/bubble-sort-insertion-sort-quick-sort-assembly-code</a>/
+He also did an episode called "Unravelled Gems", which shows some programming
+tricks he found in the Spectral Associates BASIC Unravelled series. These are
+ones that we use in NitrOS9 too - like putting in a useless CMPX immediate
+opcode to skip the next two bytes, rather than a BRA which would take 1
+more byte and still be the same speed:
+  <a href="https://youtu.be/n-e1GBr9gtg">https://youtu.be/n-e1GBr9gtg</a>
+
+3) TRS-80 Retro Programing posted another update to his Tales of Suburbia
+game:
+  <a href="https://youtu.be/547aX66TkLs">https://youtu.be/547aX66TkLs</a>
+He also took an old game I had barely started way back in 1986 (and then I
+got distracted with my new Coco 3 so I never took it further) and is working
+on making it into an actual game. I am not sure why he has such an aversion
+to the high speed POKE, but it does run a fair bit faster with it on:
+  <a href="https://youtu.be/yEP_jDTkieM">https://youtu.be/yEP_jDTkieM</a>
+And he did a follow up as well:
+  <a href="https://youtu.be/Fto963TV-M0?si=JhJQDYWHMB4vNnvs">https://youtu.be/Fto963TV-M0?si=JhJQDYWHMB4vNnvs</a>
+
+4) Glen Hewlett put up a blog post about his 4 way scrolling ML subroutine
+that one can use from BASIC - and has now added an 80 column Coco 3 version
+as well.
+Blog Post:
+ 
+<a href="https://nowhereman999.wordpress.com/2023/08/15/introducing-advanced-text-screen-scrolling-solutions-for-coco-basic-programmers">https://nowhereman999.wordpress.com/2023/08/15/introducing-advanced-text-screen-scrolling-solutions-for-coco-basic-programmers</a>/
+32x16 version on his Github:
+  <a href="https://github.com/nowhereman999/CoCo_Scroll">https://github.com/nowhereman999/CoCo_Scroll</a>
+80x24 version on his Github:
+  <a href="https://github.com/nowhereman999/CoCo3_Scroll80">https://github.com/nowhereman999/CoCo3_Scroll80</a>
+
+5) Bill Pierce announced that VCC 2.1.0.8 has now been released. This
+includes bug fixes, RS-232 pak emulation, a pause function, execution trace
+feature artifact color fixing and improved windows mouse cursor position
+when show, all contributed by various authors:
+  <a href="https://github.com/VCCE/VCC/releases">https://github.com/VCCE/VCC/releases</a>
+
+6) Thomas Cherryholmes (of the cross-platform Fujinet project) is looking
+for some help for maintainers for the Coco side of the project. I personally
+don't have time myself, but would anyone else in the community like to
+help? Details as to what it involves are in his Facebook post:
+  <a href="https://www.facebook.com/groups/2359462640/posts/10160841095127641">https://www.facebook.com/groups/2359462640/posts/10160841095127641</a>/
+
+7) Jamie Cho posted on the Coco Facebook group an update to his BASIC to
+BASIC09 converter program that he is working on, this time covering on sound
+frequencies are translated from BASIC's 256 tones to BASIC09's 4096 tones:
+  <a href="https://www.facebook.com/groups/2359462640/posts/10160840514812641">https://www.facebook.com/groups/2359462640/posts/10160840514812641</a>/
+
+8) Allen Huffman did a blog post that is based on a behaviour that Robin
+of 8-Bit Show and Tell found on the Commodore PET, Vic20 and Commodore 64
+versions of BASIC (also a Microsoft BASIC). If one tries to use scientific
+exponentiation with a number too long, it produces an Overflow error
+(which is expected). What is not expected is that it will corrupt some
+of the BASIC program itself. Since Coco BASIC is also made by Microsoft,
+Allen decided to try this on the Coco. Spoiler alert - the Coco suffers
+from the same problem. (NOTE: William Astle explains what is causing the
+bug in the comments):
+ 
+<a href="https://subethasoftware.com/2023/08/17/color-basic-overflow-bug-same-as-commodores">https://subethasoftware.com/2023/08/17/color-basic-overflow-bug-same-as-commodores</a>/
+
+9) Boisy Pitre announced on Facebook that he has ported CoreMark (an
+industry standard benchmark program) to the Coco. It is built using the
+CMOC C-like compiler:
+  <a href="https://www.facebook.com/groups/2359462640/posts/10160848877567641">https://www.facebook.com/groups/2359462640/posts/10160848877567641</a>/
+Github link:
+  <a href="https://github.com/boisy/coremark">https://github.com/boisy/coremark</a>
+
+10) Retro Relix did a video on YouTube going through using an Orch 90,
+Speech Sound Pak and CocoSDC on his Coco, does some serial connections to
+his PC, and then throws in some games as well:
+  <a href="https://youtu.be/cid1fQViI7M?si=JQ7FhzlG13ebXYY6">https://youtu.be/cid1fQViI7M?si=JQ7FhzlG13ebXYY6</a>
+
+11) Pierre Sarrazin has released version 0.1.84 of CMOC. This fixes some
+bugs and allows verbatim assembly language blocks in your sourcecode:
+  <a href="http://perso.b2b2c.ca/~sarrazip/dev/cmoc.html">http://perso.b2b2c.ca/~sarrazip/dev/cmoc.html</a>
+
+
+<big><strong style="color:lightblue">MC-10
+</strong></big>-----
+1)
+
+
+<big><strong style="color:lightblue">Dragon 32/64
+</strong></big>------------
+1) A reminder: This year's Dragon Meetup (the 6th one) is October 7 & 8 at
+the Center for Computing History in Cambridge.  This years theme is software,
+including a lot of games and competing for high scores. Details here:
+ 
+<a href="https://www.computinghistory.org.uk/det/71156/dragon-meetup----7th-8th-october-2023">https://www.computinghistory.org.uk/det/71156/dragon-meetup----7th-8th-october-2023</a>/
+
+2) Wisteela (Paul Ryan) on YouTube put up a 2 part video about his Dragon 32:
+part 1 is asking for help in fixing it, and part 2 shows that it is alive
+(basically some loose connections seems to have been the culprit):
+Part 1:
+  <a href="https://youtu.be/nj7FOBUeOjE?si=YWaZhRybsL92F_EB">https://youtu.be/nj7FOBUeOjE?si=YWaZhRybsL92F_EB</a>
+Part 2:
+  <a href="https://youtu.be/vBm86GZ34y0?si=vsDBTIYtfae7XIMt">https://youtu.be/vBm86GZ34y0?si=vsDBTIYtfae7XIMt</a>
+
+
+<big><strong style="color:lightblue">Game On news (all Coco related platforms):
+</strong></big>==========================================
+First up - an update from Nick on the 5,000th version of Neutroid:
+
+
+1) The YouTube channel "Brown Robin Bird !!!" is planning a live stream
+at 6:15 pm Eastern time, August 22 of playing Sock Master's Donkey Kong
+Remixed from VCC. He has over 6,000 subscribers so it will be interesting
+to monitor the chat during the live stream:
+  <a href="https://www.youtube.com/live/9QDM-wEY20o?feature=share">https://www.youtube.com/live/9QDM-wEY20o?feature=share</a>
+
+2) Chronologically Gaming covered Aardvark's Venturer on Monday's show
+(May 1982)
+  <a href="https://youtu.be/V2ee9uKixC8?t=3241">https://youtu.be/V2ee9uKixC8?t=3241</a>
+And in closing out May of 1982, he also covered Viking (both Vic20 &
+Coco versions) and War Kings by Tom Mix:
+  <a href="https://youtu.be/y0nlzdBdw7g">https://youtu.be/y0nlzdBdw7g</a>
+For June (and I think this is early, but there were conflicting release
+dates) is Canyon Climber:
+  <a href="https://youtu.be/vHFPs1eLVdE?si=M3UV6bmMwZjLCWzC&t=1229">https://youtu.be/vHFPs1eLVdE?si=M3UV6bmMwZjLCWzC&t=1229</a>
+
+3) Our very own Ken of Canadian Retro Things did another comparison video -
+part of his "One Game, Two Computers" series - comparing the Coco and C64
+versions of Shamus. Shamus is one of the few games that was sold directly
+for the Coco by it's creating company (Synapse Software) and then Tandy
+later sold exclusively in their own stores (Zaxxon and Pooyan by Datasoft
+are two others):
+  <a href="https://youtu.be/RLmIbAgQo0w">https://youtu.be/RLmIbAgQo0w</a>
+
+4) Paul Thayer posted a video update to his Shmup You Up project on Facebook,
+which includes his showing various rapid fire parameter changes to show
+their effect on the game engine:
+  <a href="https://www.facebook.com/groups/2359462640/posts/10160843951322641">https://www.facebook.com/groups/2359462640/posts/10160843951322641</a>/
+
+5) Christopher Lee has announced on Facebook that his Kickstarter for
+funding the development of his Infocom engine based adventure game "The
+Forgotten Pyramid" has started, which will be available on a variety of
+machines including the Coco and the Dragon:
+  <a href="https://www.facebook.com/groups/2359462640/posts/10160843571357641">https://www.facebook.com/groups/2359462640/posts/10160843571357641</a>/
+
+6) Paulisthebest3uk on YouTube released a bunch more Dragon gameplay
+videos this week, including Leggit, Bubble Buster, Moon Cresta, Dark Star,
+Tanglewood, Chambers and Kamacarzy:
+  <a href="https://www.youtube.com/@paulisthebest3uk/videos">https://www.youtube.com/@paulisthebest3uk/videos</a>
+
+7) David Mitchell posted a Dragon 32 game he wrote from scratch based on a
+game from rosettacode.org, called Flipping Bits. Basically, you can flip
+(invert) a row or column of bits at a time, and the object is match the
+pattern on the right side:
+  <a href="https://youtu.be/KMLwFkYOSlQ?si=9sW3ge5eK9m2Bu5K">https://youtu.be/KMLwFkYOSlQ?si=9sW3ge5eK9m2Bu5K</a>
+Github source code:
+ 
+<a href="https://github.com/daftspaniel/RetroCornerRedux/tree/main/Dragon/Originals/FlipBits">https://github.com/daftspaniel/RetroCornerRedux/tree/main/Dragon/Originals/FlipBits</a>
+
+8) La fondateur did a quick gameplay video of Time Bandit on a real Coco 3,
+although unfortunately with the artifact colors reversed:
+  <a href="https://youtu.be/61Wy4gja8-M?si=NnCRYli6GTq3PFge">https://youtu.be/61Wy4gja8-M?si=NnCRYli6GTq3PFge</a>
+
+</pre>
+
+	</div>
+</body>
+</html>

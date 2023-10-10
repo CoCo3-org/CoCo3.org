@@ -1,0 +1,132 @@
+The Coco Nation News stories for Episode 322, July 22, 2023
+===================================================================
+Collected by L. Curtis Boyle
+
+- August 12 we have Matt Harper on (developer of Wizard's Den sold by Tom
+Mix Software).
+
+- The interview with Doug Masten (author of The Contras) with co-interviewee
+Glen Dahlgren of Sundogs Systems that was originally going to happen
+on August 19 is being postponed, due to a fairly major surgery. We are
+shooting for around October/November depending on doctor's orders.
+
+- September 9 we have Mark P. & Charlie from Portacoco.com. If you were
+at the Fest, you would have seen them at their booth showing Coco's (and
+monitors) running wirelessly together and off batteries that do NOT require
+modifications to a Coco case to attach.
+
+For Game On Challenge segment:
+-------------------------------
+Scott Cooper found a cheat for Cuthbert in Space to wrack up the points:
+
+"Here is video showing how to rack up points without getting hurt. It is
+done on the Loot Stage. I move up to the very top and position myself
+under my number of men left. Make sure to keep shooting to the left,
+because sometimes a baddie will come out from the left. For some reason ,
+I never see any baddies coming from the right. So just stay here and rack
+up points from shooting the falling X shape looking things. The loot stage
+starts at 1:25 in the video. Shortly after that I speed up Xroar to make
+the process happen faster."
+
+https://youtu.be/5UXsgdyUZW8
+
+
+Coco 1/2/3 (and multi-platform)
+-------------------------------
+1) CocoTown released a different type of video than he normally has his
+channel - trying to improve picture quality for his Coco 2 setup (with
+a special restriction - not having to open the case). He uses multiple
+methods with varying results:
+  https://youtu.be/VF3wzWV9T7M
+He also added a video testing to see if his Tandy branded real Coco 2 had
+the T1 VDG in it this whole time...
+  https://youtu.be/G-PoPtwML98
+
+2) Bob Emery (La Coco Strangiato) did a video on cutting the cord - driving
+a Coco from a USB power source instead of the power plu (and getting rid
+of the transformer completely in the process):
+  https://youtu.be/tTwTgGR-jSU
+
+3) Michael Furman posted a promo video unveiling his new cross platform
+(within the Coco) CocoSDC utility called CocoSDC Commander, where he
+explains what it is and why he made it:
+  https://youtu.be/T6z_EsNv74E
+Current Alpha:
+  https://github.com/n6il/cocosdc-commander
+
+4) Jamie Cho is working on a transpiler - a program to convert Color BASIC
+programs to BASIC09. This is very much a work in progress and currently
+does most of the original COLOR BASIC and some of Extended BASIC. He plans
+on supporting Disk BASIC and Coco 3 BASIC as well (I should note that this
+runs on modern machines, not on a Coco itself):
+  https://www.facebook.com/groups/2359462640/posts/10160786739322641/
+
+Dragon 32/64
+------------
+1) Julian Brown has the first batch of boards made (Rev 2.1) for those
+who want to make their own Dragon 32 based on his recreating the motherboard:
+  https://www.facebook.com/groups/dragon32/posts/3503691376557173/
+
+2) Richard Kelly has now released his Maze Creator version 1.0 (that we
+showed last week) for the Dragon 32/64 as well:
+  https://www.facebook.com/groups/2359462640/posts/10160786321627641/
+
+3) John Whitworth put up a demo video of his SuperRGB module for the Dragon,
+but for the T1 VDG. It plugs into the VDG socket and converts the T1 to
+a true RGB signal for output:
+  https://www.facebook.com/groups/2359462640/posts/10160791523197641/
+
+Game On news (all Coco related platforms):
+==========================================
+1) Jim Gerrie was busy since last week's show. First up: A port of
+Mindbusters (originally by Ned W. Schultz in the April 1985 issue of
+Computer! magazine) that was originally in PC BASIC. This a sliding
+row/column game with graphical patterns where you try and solved it the
+least amount of time:
+  https://youtu.be/Wc5nojHTRMI
+Next up he did "Adventure Without A Name" originally by A. Sumner in the
+1986 book "Bumper Book of Programs Volume 2" that was published by Your
+Microcomputer:
+  https://youtu.be/9Mkgaa31lVI
+He also did DONKEY.BAS, a GW BASIC demo game written by Bill Gates &
+Neil Konzen in 1981:
+  https://youtu.be/CzImR9REIdE
+
+2) TRS-80 Retro Programming posted an update to Tales of Suburbia -
+including Stage 4 and plans for finishing the game:
+  https://youtu.be/tpd_GkER2Ow
+
+3) The Coco Show episode 46 features Ciaran Anscomb's port of Dunjunz to
+the Coco and Dragon this month:
+  https://youtu.be/5uwDCKKCZvw
+
+4) Tom's Toys on YouTube did a video of using the MiSTer with the Dragon 32
+& Coco 1,2,3 cores and points out some bugs and issues he hit. This is all
+with one game (Donkey King), where the player can only climb up a ladder
+but not down.  I do not have a MiSTer, but for those who are experienced
+with it, do you see these same issues?
+  https://youtu.be/pHAeq8fsad0
+
+5) David Mitchell (Davy's Retro Corner on YouTube) released a video of a type
+in game called Stunt Cycle, which originally appeared in the book "Sixty
+Programs for the Dragon 32", written by Robert Erskine, Humphrey Walwyan,
+Paul Stanley and Michael Bews (this particular game by Paul Stanley):
+  https://youtu.be/_c1vVotWNbA
+Source code:
+ 
+https://github.com/daftspaniel/RetroCornerRedux/tree/main/Dragon/TypeIns/Stunt-Cycle
+He also released Box Driver, one he wrote himself but based on the common
+racing type game a lot of home computers did in BASIC using scrolling to
+their advantage:
+  https://youtu.be/RNRhsUMKJ1c
+Source code (just 7 lines!):
+ 
+https://github.com/daftspaniel/RetroCornerRedux/tree/main/Dragon/Originals/BoxDriver
+
+6) Fabrizio Caruso has released his 7th massively cross-platform game,
+Shuriken, using his CROSS-LIB library. Coco 1/2 version is one of the ones
+released (.cas format only at this time), which you can get from his github:
+  https://github.com/Fabrizio-Caruso/CROSS-LIB/releases/tag/shuriken
+He has a video to show gameplay from one of the other platforms in the
+8-Bit Programming & Engineering group on Facebook:
+  https://www.facebook.com/groups/844901978962785/posts/6295799440539651/

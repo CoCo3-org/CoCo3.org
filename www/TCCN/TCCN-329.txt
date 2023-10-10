@@ -1,0 +1,236 @@
+The Coco Nation News stories for Episode 329, September 9, 2023
+===================================================================
+Collected by L. Curtis Boyle
+
+- Next week we have our interview with Mark P. & Charlie from
+Portacoco.com. If you were at the Fest, you would have seen them at their
+booth showing Coco's (and monitors) running wirelessly together and off
+batteries that do NOT require modifications to a Coco case to attach.
+
+- The interview with Doug Masten (author of The Contras) with co-interviewee
+Glen Dahlgren of Sundogs Systems that was originally going to happen
+on August 19 is being postponed, due to a fairly major surgery. We are
+shooting for around October/November depending on doctor's orders.
+
+
+Upcoming conventions/trade shows of interest to Coco people:
+************************************************************
+VCF-MidWest 2023 ( VCFMW18 ) : Elmhurst, Illinois U.S.A
+SEP 09-10, 2023
+https://vcfmw.org/
+
+Utah Retro Game Swap : Layton, Utah U.S.A.
+SEP 09
+http://www.davisconferencecenter.com/calendars
+
+World of Retro Computing : Kitchener, Ontario Canada
+SEP 16-17, 2023
+https://www.worldofretrocomputing.com/2023-worc-expo
+
+Tandy Assembly 2023: Springfield, Ohio U.S.A.
+SEP29-OCT01, 2023
+http://www.tandyassembly.com/
+
+-=- The Interim Computer Festival -=-  : Seattle, Washington U.S.A.
+SEP30-OCT01, 2023
+https://sdf.org/icf/
+
+Dragon MeetUP 2023 : Cambridge, UK
+OCT 07-08, 2023
+https://www.facebook.com/events/225011523831254
+
+Portland Retro Gaming Expo: Portland, Oregon U.S.A.
+OCT 15-18, 2023
+https://www.retrogamingexpo.com/
+
+
+
+Coco 1/2/3 (and multi-platform)
+-------------------------------
+1) Pierre Serrazin (during the show last week) announce updates to both
+CMOC and the hirestxt library:
+CMOC version 0.1.85:
+- supports function-local function prototypes;
+- allows a K&R prototype for a function that specifies no return type,
+ but only at the top level;
+- adds new warning options;
+- adds small optimizations.
+HIRESTXT library version 0.4.1:
+  adds support for inverted colors and bold characters. This library
+  provides a software 51x24
+or 42x24 black-on-green PMODE 4 text screen.  It is available on the
+CMOC page.
+  CMOC page: http://sarrazip.com/dev/cmoc.html
+
+2) Our very own Bob has posted his first ever SepTandy video on his YouTube
+channel La Coco Strangiato. This one the first part of a multipart series
+- where he replaces the Coco 3 RF modulator with an HDMI socket. No case
+modifications are needed (just "lots of soldering" as Bob puts it):
+  https://youtu.be/Bny1oQ1gYoE?si=Q7K37TmPWeSJcpNE
+And part 2 - finalizing the assembly correcting some issues with the
+RGB->SCART cable, and the mode switch:
+  https://youtu.be/dLsf85RXy5U?si=ZwEGoEq92twaSfcc
+
+3) MrDave6309 put up a video for SepTandy as well, doing a software sprite
+demo that he wrote for he Coco 3, and shows the sourcecode with explanations
+of what it is doing:
+  https://youtu.be/lA2U8er_A6k?si=kTnxieja-sDQuyLW
+He did a second video showing editing sprite code with EDTASM+:
+  https://youtu.be/SRKGhadarb8?si=_AElLZWxeUETPBjj
+And a 3rd showing him calling the sprite routines from BASIC:
+  https://youtu.be/z9Zikcg4sUM
+
+4) Tin Lindner joins SepTandy with a video about X-Pad - the graphics
+tablet that came out for the Coco 1. He shows both hardware and software
+in action (the main program is completely in BASIC and from the manual
+that came with the XPad):
+  https://youtu.be/KQ-lHSE1AaU?si=O1g3a7jqS2oiCRZD
+
+5) 8BitBoyzRetro posted a YouTube short to give us a quick peek at his
+SepTandy 2023 project - restoring a Coco 2:
+  https://youtube.com/shorts/2AEsXi4sziA?si=VtlOL9y6is0Y9gxJ
+
+6) 8-Bit Retro Journal on YouTube also released a preview video for his Coco
+SepTandy project - although at almost 5 minutes it's not a short. He has also
+acquired a Coco 2 - that actually was originally owned by his wife's family:
+  https://youtu.be/R2SbQLfiwvk?si=OoJoN7yUZFLUjCa8
+
+7) CocoTown has started releasing videos that he is doing as part of
+SepTandy - "That old assembly language game I never finished" - which is
+a Moon Patrol game he was working on as a teenager, while he was starting
+to learn machine language. In the first part he recovers some old DSKS,
+notes and graphic diagrams for a Moon Patrol clone he was working on,
+while learning assembly language for the first time:
+  https://youtu.be/Xl4XKiKGDuo?si=rs7iLhtukLC2PrEQ
+Part 2 is "How a naive high schooler managed sprites":
+  https://youtu.be/WnHepYQR04g?si=7FI-h5k35J7q2T7U
+
+8) AC's 8-Bit Zone posted another SepTandy video this week - "The simplest
+no-wires composite video upgrade":
+  https://youtu.be/-297YiSl4lM?si=saXTBtv8mnYoVyUR
+He then did a follow up to see which of the two main original composite
+mods worked better: the Tandy one (usually only done for educational models)
+or the Mark Data one:
+  https://youtu.be/kIoLVpwQ-qQ?si=ye92Fd43w8cFW6gn
+
+9) Ron Klein has done multiple updates to the Coco Pi project the past
+month, and he made a blog post to cover them all. Quick summary: ugBASIC
+update Sep. 6, XRoar Snapshot 1.4.1527 update Aug. 8, CMOC 0.1.85 Sep. 6,
+QB64 update Aug. 30, FreeBASIC update Aug. 30, TRS80GP emulator 1.5.1
+update Sep. 5:
+  https://coco-pi.com/multiple-updates-to-coco-pi/
+
+10) Davy's Retro Corner did a few blog updates.
+The first was about getting SGEdit into React  - a work in progress:
+ 
+https://davysretrocorner.blogspot.com/2023/08/septandy-2023-sgedit-in-react.html
+The second was about the VDG characters and state in React, and links to
+his Github & Work in Progress output:
+  https://davysretrocorner.blogspot.com/2023/09/characters-and-state.html
+His third is called "Screen Time", and it talks about the changes like
+being able to draw on screen with both left and right mouse buttons:
+  https://davysretrocorner.blogspot.com/2023/09/screen-time.html
+
+11) YARC (Yet Another Retro Channel) (Todd Horch) on YouTube did his
+first ever SepTandy video - cleaning up and upgrading a 1st gen Coco 2
+(melty keyboard) with 16K of RAM is his goal for SepTandy. In this first
+episode it's all about the cleaning up:
+  https://youtu.be/T0FkmYyTOYA?si=vIillF43HbyBsyPy
+
+12) Ken Waters (Canadian Retro Things) is one of many Cocoists from the
+show and community who is attending VCF-MW in the Chicago area. For one
+of his SepTandy videos, he goes through a sneak peak of what he will be
+showing at the show:
+  https://youtu.be/YpGYygt0ooI?si=x9Jo075YhxwKf9TF
+
+13) TRS-80 Retro Programing put up a video showing to find the angles
+of an "irregular heptagon or any polygon", along with PMODE 4 graphics
+to demonstrate:
+  https://youtu.be/lCYTVr4VVPs
+
+14) While not strictly Coco related, TJBChris did a video using the Tandy
+Network 2 controller with some Model 3 & 4's. It is supposed to work on the
+Coco the same way (which he mentions during the video) but he couldn't get
+them to work. He is wondering if the newer Coco 2's and Coco 3's that he
+tried are the issue, and that maybe only Coco 1's would work... has anybody
+tried this (or remembers even using the Network 2 with Coco's at schools?
+  https://youtu.be/YMOMH-SXcVk?si=m9VYBUzbCP-0WYFx
+
+15) Peter Cetinski announced that the next TRS-80 Trash Talk live (#35)
+will on September 23 at 3 PM CST, live on YouTube on their channel. This
+episode will be a Tandy Assembly 2023 preview show, and they will be going
+through the tech track classes, speakers, exhibits and sponsors. The show
+covers all Tandy computers, from TRS-80 Models 1/2/3/4, etc., all the
+Coco's and MC-10, Pocket Computers and the Tandy 1000-5000 line:
+  https://www.facebook.com/groups/2359462640/posts/10160890723902641/
+
+16) Keith March posted in the Coco Facebook group that he is working on
+some updates for the MM/1, for those that still have one, and the he is
+posting all of this on his Github. He has done an update to the manual,
+and is currently working on upgrading the Minibus to run with newer ATX
+power supplies (with thanks to Pedro Pena (Rocky Hill)):
+  https://github.com/HomerKH19/MM1-Updates
+
+17) Craig Marshall has posted a photo of his Tandy display for the Adelaide
+Retro show in Adelaide, Australia:
+  https://www.facebook.com/groups/2359462640/posts/10160890644787641/
+
+
+
+MC-10
+-----
+1)
+
+
+
+Dragon 32/64
+------------
+1) Ciaran Anscomb released a video showing his reproduction Dragon 64
+motherboard build as part of SepTandy (kinda, as he puts it), in the form
+of a timelapse video:
+  https://youtu.be/sxpX5VQFwbQ?si=d90ja9mLDH_vjn18
+
+
+
+Game On news (all Coco related platforms):
+==========================================
+1) Jim Gerrie did some games this past week
+Tiddleywinks was originally done by Stephen G. Toop on January 3, 1979,
+and it was originally published in the September 1979 issue of Practical
+Computing (a UK computer magazine) for the TRS-80 (what became know as
+the Model 1). It's a simple game where a flat surface is drawn on the
+bottom of the screen with a small, randomly placed hole in it. Your goal
+in the game is figure out the length (0-99) of a parabolic arc to get the
+tiddleywink to fall into the hole:
+  https://youtu.be/xsToKJES5w4?si=81AH3pZLwPF36Dv9
+He also did a major update to his "Bomb Aimer" BASIC 10 line contest
+entry. Based on some testing of his previous version by his son Charlie,
+Jim did the revisions - although he doesn't mention in the comments what
+those changes were:
+  https://youtu.be/zdfv_tVcbxw?si=eDEtO7p84BN5yikl
+Another is Head-on Collision, originally from Practical Computing November
+1981 issue, for the Superboard/UK101 Computer by Wynford and Jane James. It
+is Joypad compatible as well, and is a Dodge 'Em style game:
+  https://youtu.be/ASRX5bbp-kM?si=jG5qb--Nj9mCXhCB
+
+2) Chronologically Gaming has been covering June of 1982 this week, and
+a few Coco games have been covered:
+Covering Killer Mansion for T&D, Maze Race by Tom Mix & Mercenary Force by
+GOSUB (not the same GOSUB that Jeremy Spiller released Zenix and Crystal
+City on a half decade later). All 3 in a row.
+  https://www.youtube.com/live/Ic8QwcRaWVM?si=8mDbu7Vfikeaa0s7&t=2179
+
+3) Tim and AJ's latest Sibling Rivalry episode cover's Paul Thayer's game
+Timber Man for the Coco 3 (and they have a fun intro where AJ reminds me
+of... me!):
+  https://youtu.be/ADegRAGJxak?si=icFj85671EZhkrYP
+
+4) Mark Overholser, as part of his SepTandy efforts, has been doing Discord
+live streams of testing the networking and multiplayer capabilities of
+the WIP game Legends of Alcarron (main coding by Brett Gordon (the Galaxy
+Server it uses) and Jay Searle, who is behind the game itself):
+
+
+Get connected with more of the CoCo, Dragon and MC-10 community here:
+=======================================
+https://thecoconation.com/community/
