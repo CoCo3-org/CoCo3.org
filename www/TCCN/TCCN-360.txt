@@ -1,0 +1,249 @@
+The Coco Nation News stories for Episode 360, April 20, 2024
+===================================================================
+Collected by L. Curtis Boyle
+
+Special Guests today:
+---------------------
+None.
+
+Interview schedule:
+--------------------
+Thomas Cherryhomes will be on to clear up some misconceptions about the
+Fujinet system that some of us were trying to discuss last week without
+proper knowledge
+
+Upcoming conventions/trade shows of interest to Coco people:
+------------------------------------------------------------
+CocoFest: May 4-5, 2024 in Carol Stream, Illinois (near Chicago)
+Holiday Inn & Suites
+  https://www.glensideccc.com/cocofest/
+Table bookings (the main hall is completely taken up now, and 5 of the
+extra overflow tables have now been sold):
+  https://www.tandylist.com/
+
+The Festival of Portable Computing: May 18-19, 2024
+Centre for Computing History, Cambridge, England
+This show is dedicated to portable computers. With Frank Swygert, Taylor
+& Amy, and now portacoco.com, we actually have portable Coco's and
+MC-10's... we should qualify for this show, right? :-)
+https://www.computinghistory.org.uk/det/72231/The-Festival-of-Portable-Computing-18th-19th-May-2024/
+
+BoatFest 3: June 14-16, 2024
+Social Event Space
+Hurricane, WV
+ 
+https://www.ticketsource.us/boatfest2024/boatfest-retro-computer-expo-2024/e-raedpb
+
+VCF SouthWest: June 14-16, 2024 (same weekend as BoatFest)
+Davidson-Gundy Alumni Center at University of Texas - Dallas
+Dallas, Texas
+  https://www.vcfsw.org/
+UPDATES:
+Also this year they are doing "Shows within the Show", and one of those
+is a Tandy Assembly meetup, which includes a separate hall for just Tandy
+machines. The main hall is already sold out for tables, and as of March 6,
+only 2 of 21 tables in the Tandy hall were still available:
+  (scroll down on the main page)
+Jeff Wires (the host of Chronologically Gaming) and Boisy Pitre are both
+speakers this year.
+Speakers list:
+  https://www.vcfsw.org/speakers
+
+Retro-Computing Expo '24 is from 11 am until 7 pm at Anvil Center in New
+Westminster, British Columbia, Canada. It is actually 2 shows in one:
+the Retro-Computing Expo and the Retro-Gaming Expo. They already several
+presenters lined up, including 4 people to talk about the NABU, including
+Leo Binkowski who was an engineer at NABU. George Philips, the author of
+the TRS-80GP emulator and a regular on the TRS-80 Trash Talk podcast is
+also presenting, amongst others. This is supported by the Chilliwack Retro
+Computing Club, which has it's own Facebook Group:
+  (show the copy of the "poster" that I was sent from my local desktop -
+  "Retro-Computing_Expo_24.jpg").
+Facebook group:
+  https://www.facebook.com/groups/ChilliwackRetro/
+
+VCF-West looks to be happening August 2-3 (Fri-Sat) at the Computer History
+Museum in Mountain View, California. This year they are a full partner with
+the museum, so that admission for both the museum and VCF can be done with
+one purchase, and the are taking people booking to be speakers/presenters
+now as well.
+CHM (Computer History Museum)
+1401 N. Shoreline Blvd.
+Mountain View, CA
+  https://vcfed.org/2024/03/14/vcf-west/
+
+VCF-Midwest has finally announced their new, larger venue for this year
+(#19) - the Renaissance Schaumburg Convention Center in Schaumburg,
+IL. Sept 7-8, 2024 (Sept 6 evening (Friday) is reserved for vendors, etc
+to set up). Unfortunately, their original block of rooms already sold out
+in 3 hours after they announced yesterday. VCF is working with the hotel
+to get more, but that won't happen until Monday)
+  https://vcfmw.org/
+
+Tandy Assembly for 2024 has been announced for Sep 27-29, 2024. UPDATE:
+THEY HAVE STARTED POSTING EXHIBITORS ON THEIR WEBSITE
+Courtyard by Marriott Springfield
+Springfield, Ohio
+  http://www.tandyassembly.com/
+
+Retro Computer Festival 2024: November 9-10, 2024
+Centre for Computing History, Cambridge, England
+In the early stages of planning for this year, this is (I believe) the
+largest general retro computing show in the UK (it's their VCF style show),
+covering all retro machines. I am not sure if it 1 or 2 days; the header &
+ordering part of the site says November 9th only, but just below that it
+says November 9-10.
+ 
+https://www.computinghistory.org.uk/det/72253/Retro-Computer-Festival-2024-Saturday-9th-November/
+
+
+Coco 1/2/3 (and multi-platform)
+-------------------------------
+1) Tim Lindner has posted some "lightly" commented 6809 assembly source
+code from the Diecom game Iron Forest, to show a routine that works with
+the Diecom designed Master system Phaser interface:
+  https://github.com/tlindner/DCLG-Kernel
+
+2) CocoTown has posted his next video about upgrading his Moon Patrol
+style game from when he was a teenager with Game revolutions cycle 7 -
+this time optimizing the players car not just for speed, but to enhance
+it's appearance:
+  https://youtu.be/JJT7NhNKq9Y?si=SputTnCj7n20lcvI
+
+3) Eddie Malphrus, in the "All Things Tandy/Radio Shack" group on Facebook,
+posted a brief history of Videotex from the original Project Green Thumb
+up to the Videotex cartridge on the Coco. It includes photos of the
+original TRS-80 Model 1 shell based version that we showed a few weeks
+ago, the Agvision version, and the Professional Farmers version as well
+(go through photos):
+  https://www.facebook.com/groups/260663051145211/posts/1545410492670454/
+
+4) Thomas Cherryhomes released another Coco Fujinet video, this time
+showing the News Reader:
+  https://www.youtube.com/watch?v=IYYOazjhfs4&ab_channel=tschak909
+He also did a quick video showing NDIR (Network Directory) as well:
+  https://youtu.be/J-85vtD5ihE?si=jDTsd5U9IvwkJmwp
+He also shared some pics from VCF-East, where he taught classes on Fujinet,
+and mentioned that there has been an attitude shift towards Fujinet and
+that people are starting to volunteer to help:
+  https://www.facebook.com/groups/2359462640/posts/10161258993682641/
+
+5) The Stray Pointers podcast interviewed our Glenside president Jim Brain
+in their Season 2, episode 10 show, covering his journey in electronics,
+Commodore computers, the Coco and his company Retro Innovations:
+  https://youtu.be/sBJ5DF7X3GA?si=LRtADLSYk1K2yHF_
+
+6) Congrats to David Kroeker who sold out all 4 Diecom adapters/phaser
+guns by the end of the weekend. He will be doing a second run later,
+and then possibly pass it off to someone else to continue manufacturing them.
+  https://www.facebook.com/groups/2359462640/posts/10161255403392641/
+
+7) Evie Solomon's presentation from VCF-Socal earlier this year is now
+up on YouTube, where she goes through the Backbit and what machines and
+features it supports. Including going through the Coco, 6809 and even
+mentioning the 6309:
+  https://youtu.be/b1Oong5vORk?si=If-eF7OvObo6CGWc
+
+8) TRS-80 Retro Programing did a video showing his fixing of bugs of his
+save game feature in his Tales of Suburbia game, which is nearing completion:
+  https://youtu.be/__TiYtPLDcc?si=pJzqGSmvcfpm8GCR
+
+
+MC-10
+-----
+1) Canadian Retro Things did a video of his upgrading his MC-10 (already
+modded with 8K RAM on the main board) to composite video output, using
+the upgrade from Ed Snider @ zippsterzone.com:
+  https://youtu.be/li6n4wqevmc?si=faY4urt_4LuyEPm6
+
+
+Dragon 32/64
+------------
+1) Bosco released (on the world of dragons forums) a set of (mostly)
+classic heavy metal style song clips based on the Dragon, it's hardware
+(6809) and software (Microdeal & their mascot, Cuthbert). Tomfoolery /
+work in Progress is what he calls them (I quite like them, being a bit of
+a classic metalhead myself):
+  https://archive.worldofdragon.org/phpBB3/viewtopic.php?f=5&t=11168
+(play a sample or two from folder on my desktop)
+
+2) RetroGingerPod on YouTube did a 3 part (so far) video series from a
+wrapped in black plastic mystery computer to exploring a quite yellowed
+(and water damaged) Dragon 32:
+Discovery (and shows how bad of a state the power supply board is in):
+  https://youtu.be/5t4jng868_Q?si=GHJnT9Fom7hEASaG
+First Power Up:
+  https://youtu.be/vnX2Y17HKiw?si=jZ5ZRNBAofCAw3Iy
+Second Power up:
+  https://youtu.be/zbZNEbMWISo?si=I1jR5wye4YQIEPt5
+
+3) Mostly Horses and Retro Computing on YouTube did a video of attempting
+to load tapes on a Dragon 32. I am not sure what his exact set up is,
+but the audio did sound like a proper Dragon (or Coco) tape, but it wasn't
+picking it up at all. Cable issue maybe?:
+  https://youtu.be/kftYokJutNk?si=kICtcVk-5Q6f7gq7
+
+4) Julian Brown found some more corrections to do with his PAL daughterboard
+(part of his Dragon replacement motherboard project), but he is not fully
+where he wants to be yet:
+  https://www.facebook.com/groups/dragon32/posts/3690291057897203/
+
+5) Richard Harding posted a link on the Dragon Facebook group to the
+text of an interview that Helen Osborne did with David Farrugia, who ran
+"Dragon Computers and Software" shop during the Dragons heyday, on the
+island of Malta in the Mediterranean Sea.
+Interview link:
+  http://www.dragondata.co.uk/history/Quotes/DAVID_FARRUGIA/DAVID_FARRUGIA.html
+
+
+Game On news (all Coco related platforms):
+==========================================
+1) Pere Serrat has now released AGD Games pack #12 for the SuperSprite FM+
+board (for both Coco and Dragon). This is the upgrade board with improved
+graphics, hardware sprites and a sound chip. This pack adds 4 more games
+that use the enhanced features:
+Castle of Sorrow
+Droid Buster
+Flype v2.0
+Space Escape
+  https://archive.worldofdragon.org/phpBB3/viewtopic.php?f=7&t=11169
+
+2) Erico Patricio Monteiro has a new animated gif showing his progress
+on the low res action game The Savage Sword of Cocon. The final game is
+written in ugBASIC, I believe:
+  https://www.facebook.com/groups/2359462640/posts/10161264342347641/
+He also shot (with a camera aimed at a TV) video of the game in action
+as well. While not as clean looking, it does show some of the animation
+effects better:
+  https://youtu.be/8Pl6S_sYqnI?si=AmBfZ3xHGvGe9ltq
+
+3) Retro Trailer-2 on YouTube put up a gameplay video of a recent Game On
+Challenge - Time Fighter by Mark Data Products, including getting to the
+second time period:
+  https://youtu.be/1NFoFhnyEhE?si=cK4uuSMwC5cs1aS7
+
+4) Jim Gerrie ported a text adventure game called Enchanted Island,
+originally written by 13 year old Greg Hassett on the TRS-80 Model 1/3 to
+the MC-10, adding an animated title screen:
+  https://youtu.be/LGjuP3FDEos?si=vF-wtG3A9gXhLoXF
+And another from the same author, Voyage to Atlantis was updated with some
+bug fixes:
+  https://youtu.be/hB85doY_B8M?si=kJMNj-EkWMjeGrxm
+
+5) This weeks Sibling Rivalry with Tim & AJ features the game Vultures
+on the Coco (originally from the Dragon). And Tim & AJ might have figured
+out why AJ's luck playing games has been poorer than it should be:
+  https://youtu.be/WbMIVgPOL1Y?si=Wl3pF3C0s_kpl8b1
+
+6) Retrobloke on YouTube did a YouTube short showing the original box &
+tape for MicroDeal's Space Fighter (a Star Trek clone):
+  https://www.youtube.com/shorts/iO0rBIxKd4w
+
+
+Speak your mind! Let us know what you think at:
+==============================================================================
+    feedback at TheCoCoNation.com
+
+Get connected with more of the CoCo, Dragon and MC-10 community here:
+==============================================================================
+    https://thecoconation.com/community/

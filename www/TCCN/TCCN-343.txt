@@ -1,0 +1,157 @@
+The Coco Nation News stories for Episode 343, December 16, 2023
+===================================================================
+Collected by L. Curtis Boyle
+
+Happy Holidays, Merry Christmas and Boxing Day from the CoCo Nation!
+
+Interviews schedule:
+--------------------
+- January 6 we have a double interview with Doug Masten
+& Glen Dahlgren, covering the Coco 3 game The Contras.
+http://www.lcurtisboyle.com/nitros9/contras.html
+
+- January 27 (NOTE DATE CHANGE) Glen Dahlgren comes back - he has the final
+book in his Chaos series coming out, and possibly some further Coco stuff
+as well.
+ 
+https://mysteriumstoryworks.substack.com/p/want-a-free-copy-of-the-realm-of?r=2hpgl3&utm_campaign=post&utm_medium=web
+
+
+Upcoming conventions/trade shows of interest to Coco people:
+------------------------------------------------------------
+VCF SoCal: Feb 17-18, 2024 in Orange, California
+Hotel Fera - Events Center
+100 The City Drive, Orange, CA 92868
+  https://vcfsocal.com/index.html
+
+Interim Computer Festival: March 23-24.
+This is a pre-announcement for a retro computer show in the Pacific
+Northwest Area. Details (specifically where, etc.) will be coming later,
+and registration will open in January.
+  https://sdf.org/icf/
+
+CocoFest: May 4-5, 2024 in Carol Stream, Illinois (near Chicago)
+Holiday Inn & Suites
+  https://www.glensideccc.com/cocofest/
+
+BoatFest 3: June 14-16, 2024
+Social Event Space
+Hurricane, WV
+ 
+https://www.ticketsource.us/boatfest2024/boatfest-retro-computer-expo-2024/e-raedpb
+
+VCF SouthWest: June 14-16, 2024 (same weekend as BoatFest, and usually
+has a lot of Tandy people hanging out since that is Tandy's hometown).
+Davidson-Gundy Alumni Center at University of Texas - Dallas
+Dallas, Texas
+  https://www.vcfsw.org/
+
+
+Coco 1/2/3 (and multi-platform)
+-------------------------------
+1) TRS-80 Retro Programing put up a video showing his Boot Tape for Tales
+of Suburbia, and ending with some questions he needs help on before he is
+able to complete it:
+  https://youtu.be/7tYKdkDWiIY?si=mnflMR88zWbJ80eJ
+He also put a video up about "weird Coco BASIC errors" (they are all
+related to reserved BASIC keywords):
+  https://youtu.be/YMTVdX-KZKc?si=sj9ODUTGIEzvoPhm
+
+2) Coco Town on YouTube made an intro guide video to his channel. His
+number of subscribers have taken off (1,84K at the time I checked just
+before the show), so this is to benefit new people to his channel:
+  https://youtu.be/NVqnFraNS5o?si=pecb5etzmzy4_ezd
+
+3) George Janssen has lesson 4 up on his YouTube (GBJanssen 6809), as well
+as the source listings for this episode on his channel on the Coco Discord:
+  https://youtu.be/mDyCRRNYUfI?si=FwcqyjbINhTFkI9G
+
+4) Henry of The Break Key fame on YouTube, has his next video out - Part
+1 of building a D-pad game controller for the Coco:
+  https://youtu.be/GvfNK-nwvgc?si=QHJuqzNvFqEtXIYg
+
+5) Simon Jonassen has another update to his online graphics editor - and
+it appears that he is adding graphics primitives as part of it's toolbox,
+rather than just drawing pixels. Here he shows a circle (not filled):
+  https://www.facebook.com/groups/2359462640/posts/10161073617212641/
+And the eyedropper tool:
+  https://www.facebook.com/groups/2359462640/posts/10161072398677641/
+
+6) Thomas Cherryhomes has another update on his Coco port of Fujinet,
+this time showing his WiFi Selection screens:
+  https://www.facebook.com/groups/2359462640/posts/10161073130582641/
+His slightly earlier video showing his user interface design:
+  https://www.facebook.com/groups/2359462640/posts/10161071443137641/
+And late last night, a Show Info screen (showing the current FujiNet
+adapter configuration:
+  https://www.facebook.com/groups/2359462640/posts/10161074469107641/
+
+
+MC-10
+-----
+1) Hmmm, what have the MC-10 folks been up to? 
+
+
+Dragon 32/64
+------------
+1) Julian Brown posted on the Dragon group on Facebook an update on his
+PAL daughterboard - still a few things to work out, but it is giving a
+great 2 color picture:
+  https://www.facebook.com/groups/dragon32/posts/3603860836540226/
+He also posted an updated revision 3 motherboard design - this includes
+spots for an option 6551 serial port, and 1 or 2 AY sound chips:
+  https://www.facebook.com/groups/dragon32/posts/3602771109982532/
+
+
+Game On news (all Coco related platforms):
+==========================================
+1) Jim Gerrie has ported "Magic Square" to the MC-10. Originally written by
+James Coan in 1977 from his book "Advanced BASIC Applications and Problems":
+  https://youtu.be/ydIgG28_t6I?si=gc35UOeDFvTfbgil
+He also has an entry for the 2024 BASIC 10-Liner game competition, Snakes
+and Ladders:
+  https://youtu.be/5RVW9bGZNC4?si=uvDtxS4T36sDStlw
+Competition website (Scroll down for the English rules):
+  https://gkanold.wixsite.com/homeputerium
+He also released his MC-10 conversion of the Nostromo game that Allen
+Murphy is working on (for the Coco), although Jim's is strictly low res and
+text. Both ports are based on the original NEC PC-6001 version from Japan:
+  https://youtu.be/APa1AZAPfvM?si=3ZmpQi0rq4YQeinw
+If one goes to the MC-10 group on Facebook, Jim has the WAV file for Nostromo
+available. He also has a rather extensive blog entry about this game:
+  https://jimgerrie.blogspot.com/2018/05/uchuu-yusousen-nostromo.html
+Jim also posted a port of "In the Woods" originally by Ken & ASCII Publishing
+(AX-2 compilation of BASIC games):
+  https://youtu.be/xpC8YPsGKGk?si=aoqyOQrzrBZW2jNj
+
+2) Canadian Retro Things (aka Ken) released a video covering some of the
+Dr. Who games for the Coco, since it's the 60th anniversary of the start
+of the show:
+  https://youtu.be/dWnTf9nknjI?si=D4IWNhl6b5bolYsA
+
+3) The Coco Show (Brent & Aaron) have released their Christmas The Coco
+Show episode: Ghost Rush - Winter Edition and Timber Man - Christmas
+Edition... along with some Coco generated Christmas music and the Radio
+Shack Coco 3 instore demo (sped up):
+  https://www.youtube.com/live/f4npBBl8REY?si=hnqkVvYQ1viZ1Qz7
+
+4) Chronologically Gaming has started into September of 1982, and the
+first Coco game to appear for this month is Bridge Tutor, put out by Tandy:
+  https://www.youtube.com/watch?v=YdUo9wNRLXM&t=483s
+
+5) agamingchannelbyLRU has added some more Coco (Cosmic Clones) and Dragon
+32/64 (Barmy Burgers, Cosmic Clones, Crazy Painter) games to his high
+score attempts:
+  https://www.youtube.com/@agamingchannelbyLRU/playlists
+
+6) Chris Presley has uploaded his 2nd Coco 1/2/3 Star Trek trivia game to
+the Color Computer Archive:
+  https://www.youtube.com/@agamingchannelbyLRU/playlists
+Direct link to DSK image:
+ 
+https://colorcomputerarchive.com/repo/Disks/Games/Star%20Trek%20Trivia%202.0%20(Chris%20Presley).zip
+
+
+Get connected with more of the CoCo, Dragon and MC-10 community here:
+=======================================
+https://thecoconation.com/community/

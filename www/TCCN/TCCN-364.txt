@@ -1,0 +1,236 @@
+The Coco Nation News stories for Episode 364, May 25, 2024
+===================================================================
+Collected by L. Curtis Boyle
+
+Special Guests today:
+---------------------
+
+
+Interview schedule:
+--------------------
+
+
+Upcoming conventions/trade shows of interest to Coco people:
+------------------------------------------------------------
+The next Bay Area (San Francisco) Tandy Assembly meetup is June 15 from
+1-5 pm at San Francisco State University. There is an online signup sheet
+to join the event, and they have announced that Bill Hogue of Big Five
+Software fame is the Special Guest speaker:
+ 
+https://docs.google.com/forms/d/e/1FAIpQLSc9ZDlEGBrd6okI9xIoKPjwLb4kHmdVFPvNog4lOUPEe5NaLQ/viewform
+
+BoatFest 3: June 14-16, 2024
+Social Event Space
+Hurricane, WV
+ 
+https://www.ticketsource.us/boatfest2024/boatfest-retro-computer-expo-2024/e-raedpb
+
+VCF SouthWest: June 14-16, 2024 (same weekend as BoatFest)
+Davidson-Gundy Alumni Center at University of Texas - Dallas
+Dallas, Texas
+  https://www.vcfsw.org/
+UPDATES:
+Also this year they are doing "Shows within the Show", and one of those
+is a Tandy Assembly meetup, which includes a separate hall for just Tandy
+machines. The main hall is already sold out for tables, and as of March 6,
+only 2 of 21 tables in the Tandy hall were still available:
+  (scroll down on the main page)
+Jeff Wires (the host of Chronologically Gaming) and Boisy Pitre are both
+speakers this year.
+Speakers list:
+  https://www.vcfsw.org/speakers
+
+Retro-Computing Expo '24 is on June 22 from 11 am until 7 pm at Anvil Center
+in New Westminster, British Columbia, Canada. It is actually 2 shows in one:
+the Retro-Computing Expo and the Retro-Gaming Expo. They already several
+presenters lined up, including 4 people to talk about the NABU, including
+Leo Binkowski who was an engineer at NABU. George Philips, the author of
+the TRS-80GP emulator and a regular on the TRS-80 Trash Talk podcast is
+also presenting, amongst others. This is supported by the Chilliwack Retro
+Computing Club, which has it's own Facebook Group:
+  (show the copy of the "poster" that I was sent from my local desktop -
+  "Retro-Computing_Expo_24.jpg").
+Facebook group:
+  https://www.facebook.com/groups/ChilliwackRetro/
+
+The Canberra Vintage Computer Exhibition 2024 (supported by VCF) takes
+place in Canberra, Australian Capital Territory, Australia is a 1 day event
+from 10 am to 3 pm on June 29 at Radford College. They are going to have a
+wide variety of machines on display, and Ian Maveric (of the Trash Talkers
+podcast, Coco RS-232 pak clones,etc.) is one of the people helping from
+the TRS-80 & clone side:
+ 
+https://www.facebook.com/events/s/canberra-vintage-computer-exhi/693500242752070/
+They did a live stream with several of the people in charge, for those
+who want to find out more about the show:
+  https://www.youtube.com/live/vSnWzH-k8h8?si=eXotYeTxuNr4Qtvo
+
+VCF-West looks to be happening August 2-3 (Fri-Sat) at the Computer History
+Museum in Mountain View, California. This year they are a full partner with
+the museum, so that admission for both the museum and VCF can be done with
+one purchase, and the are taking people booking to be speakers/presenters
+now as well.
+CHM (Computer History Museum)
+1401 N. Shoreline Blvd.
+Mountain View, CA
+  https://vcfed.org/2024/03/14/vcf-west/
+
+VCF-Midwest has announced their new, larger venue for this year (#19)
+- the Renaissance Schaumburg Convention Center in Schaumburg, IL. Sept
+7-8, 2024 (Sept 6 evening (Friday) is reserved for vendors, etc to set
+up). Unfortunately, their original block of rooms already sold out in 3
+hours after they announced yesterday. VCF is working with the hotel to
+get more, but that won't happen until Monday)
+  https://vcfmw.org/
+
+Tandy Assembly for 2024 has been announced for Sep 27-29, 2024. UPDATE:
+THEY HAVE STARTED POSTING EXHIBITORS ON THEIR WEBSITE
+Courtyard by Marriott Springfield
+Springfield, Ohio
+  http://www.tandyassembly.com/
+
+Retro Computer Festival 2024: November 9-10, 2024
+Centre for Computing History, Cambridge, England
+In the early stages of planning for this year, this is (I believe) the
+largest general retro computing show in the UK (it's their VCF style show),
+covering all retro machines. NOTE: thanks to Randy Kindig, it is confirmed
+that it is a 2 day show.
+ 
+https://www.computinghistory.org.uk/det/72253/Retro-Computer-Festival-2024-Saturday-9th-November/
+
+
+Coco 1/2/3 (and multi-platform)
+-------------------------------
+1) The Vintage Geek put up a video showing a bit of the history of X10
+controllers, and then demos the Radio Shack Plug 'n Power running from a Coco
+2, including showing the built in software and controlling multiple devices:
+  https://youtu.be/nkcERvE8bsI?si=gD1tXwFSwaH2oijM
+
+2) Ken has posted parts 3 & 4 of our lengthy interview with Robert
+Kilgus. Part 3 covers the main part of his career with the Coco from
+1979-1984, including selected as one of the few to get the earliest
+prototypes of the TRS-80 Color Computer, the cross development system
+he used for the earliest Coco programs, and developing his Coco specific
+programs and games:
+  https://youtu.be/kJT9T2apvvs?si=6kYwYM_p10q57jtR
+Part 4 (the final part) finishes covering the Coco (including the unreleased
+OS-9 Scripsit from 1984) and his final home computer (multi-platform) project
+- and what went wrong there. And a bit of what he is following these days:
+  https://youtu.be/uwuS4dFg93o?si=T3RAXmxPugyQuTsb
+
+3) Aaron Newcomb on his Retro Hack Shack After Hours channel posted a
+video of a "mystery mod" that he found on a Coco 1 he purchased from ebay,
+which he delves into figuring out what it does (hint: it's video related):
+  https://youtu.be/5m_5qh7uI9w?si=mktLb3VxUKxcercq
+
+4) Bob Emery (La Coco Strangiato) posted a video showing some music he
+did using the PLAY command several decades ago featuring the music of RUSH
+(Good choice!), and explains some of the PLAY commands he used:
+  https://youtu.be/zkClAtFq4GM?si=tZKVxYjDOO_fxfRo
+He also posted a video about his breaking of his Mini-MPI (2 slot MPI from
+Ed Snider/Zippsterzone), and seeing if he can fix it:
+  https://youtu.be/xcoV2Kthi6w
+
+5) Jason (cocoman.biz) has put his video about CocoFest 2024 on his Fairly
+Amused YouTube page:
+  https://youtu.be/bSTmng8zpkU?si=59RH0m7vl5eEk6GF
+He also has the jam session for those who want to assault their ears. It
+includes our parody of the Tommy Tutone song "867 5309 (Jenny), called
+"Upgrading to a 6309" near the beginning. I posted the lyrics (pretty
+close to the version used; we were changing it just a few hours before)
+in the comments:
+  https://youtu.be/eNgbZy6G8O0?si=nu50-AQV9XyUQvUU
+
+6) TRS-80 Retro Programing released a video of his testing his Tales of
+Suburbia stage 3 save game feature:
+  https://youtu.be/G3OFcmwshCI?si=NitkMV37XzETHdK7
+
+7) Thomas Cherryhomes posted that a new version of TNFSD (24.0522.1) has
+been released, which fixed crucial bugs found when they deployed the new TCP
+transport, and it is recommended that everyone using Fujinet switch to it
+(who is running tnfs servers). Firmware updates for users of Fujinet are
+also coming shortly:
+  https://www.facebook.com/groups/2359462640/posts/10161322549042641/
+He also put out a request for people to help port 5 Card Stud to the Coco
+for Fujinet (it looks like Brendan Donahe may have volunteered to help):
+  https://www.facebook.com/groups/2359462640/posts/10161315838507641/
+
+8) Mike Rayburn posted a correction (brought to his attention by a user)
+to his Coco PS/2 kit, so he has updated his assembly instructions adding
+a missing critical step:
+  https://www.facebook.com/groups/2359462640/posts/10161314104987641/
+
+9) "They Create Worlds Podcast" on their 173rd episode is doing part 2
+of their "The Computer Price Wars". Just over half an hour in they get
+to the TRS-80 Color Computer, although they poo-poo it as not being that
+relevant (once again, I wish we could get firm numbers on Coco's sold,
+although at least for the Coco 1 I know it was over 500,000). Instead they
+place a lot of emphasis on the TI-99/4A - which was blown out at bargain
+prices and gone from the market by March of 1984. The Coco, as we know,
+lasted from 1980 all the way to 1991; one of the last 8 bits standing:
+  https://youtu.be/Ae1NJl8kFhM?si=dTrsg-M7WVeCHflJ
+
+MC-10
+-----
+1)
+
+
+Dragon 32/64
+------------
+1) Julian Brown posted another update to his expanded Dragon 32 motherboard
+design for an ATX case. It has enough room for 3 slots for it's built in
+MPI, 256K RAM support (he may expand it to 1 or even 4 MB). And Julian -
+with NitrOS9 and/or Fuzix there is plenty use for 1 MB of RAM or higher -
+like the MOOH board does:
+  https://www.facebook.com/groups/dragon32/posts/3715303238729318/
+
+
+Game On news (all Coco related platforms):
+==========================================
+1) CocoTown did a rather different video - using the cheat code that Chris
+Latham gave during out interview with him some years ago to his game Sailor
+Man, which prevents any collision detection from killing the player. However,
+as he soon discovered... it doesn't disable the timer of taking too long
+after a heart, note, or letters hits the bottom before the players life ends:
+  https://youtu.be/BQxRWrDiDUY?si=bXB1fFEaMDIc58oK
+
+2) Richard Atkinson posted some photos of the manual and disk set for an
+adventure game for the Dragon 64 called "The Stone of Magician", although
+the main instructions and the game itself is in German. From the responses,
+this is a game that has not been seen before, and came out from Dragon
+Power Software in 1990/1991:
+  https://www.facebook.com/groups/dragon32/posts/3712800785646230/
+
+3) Rick Adams, with help from multiple people, has been working on getting
+his newly found original Omnistar (not the Coco 3 one released a few
+years ago, but a Coco 1/2 not completed version from the 1980's) running
+as far as he had gotten back in the day, and has been posting updates and
+screenshots of his progress. I don't believe that he has plans to finish
+the game at this point:
+  https://www.facebook.com/groups/colorcomputer/posts/971047051177694/
+
+4) XperTek did another Coco 2/amber monitor game play video, this time
+covering Tandy's Tennis, programmed by the Image Producers:
+  https://youtu.be/WDuyrJUOC8A?si=82CyPG7iTD7i6ARB
+
+5) Nostalgia Vault (which does gameplay videos for a wide variety of
+systems), covered both the Coco 1/2 and Coco 3 versions of Ruptus from
+Inufuto with short video clips, which is a Bosconian style game we played
+not too long ago on the Game On Challenge (scroll to find the Coco entries):
+  https://www.youtube.com/@nostalgivault3439/videos
+
+6) Attempts: A gaming channel (by LRU) put up a quick 2 minute video
+showing gameplay and a high score attempt playing S.A.S (Special Air
+Service) on the Dragon 32/64. This is not one that I have seen before,
+but looks to be a war strategy game. Has anybody in the Dragon community
+played this one before (it seems to be a BASIC/ML (sound) hybrid):
+  https://youtu.be/QyffpOR46qA?si=kCdtfRUn99h_fu70
+
+
+Speak your mind! Let us know what you think at:
+==============================================================================
+    feedback at TheCoCoNation.com
+
+Get connected with more of the CoCo, Dragon and MC-10 community here:
+==============================================================================
+    https://thecoconation.com/community/

@@ -1,0 +1,266 @@
+The Coco Nation News stories for Episode 357, March 30, 2024
+===================================================================
+Collected by L. Curtis Boyle
+
+Special Guests today:
+---------------------
+>From the Pixels Addict magazine, we have 3 guests today:
+  Paul Monaghan (editor)
+  Ian Griffiths (writer)
+  Tom Williamson (writer)
+
+Interview schedule:
+--------------------
+
+
+Upcoming conventions/trade shows of interest to Coco people:
+------------------------------------------------------------
+The Southeast Michigan Vintage Computer Club is having a meeting/swap meet
+at their April 6 meeting (12 pm - 4 pm). No admission fee. Ran by Adam
+(Commodore Chronicles) and sponsored by Retro Rewind.
+Grace Chapel's Gymnasium
+2515 N. Williams Lake Rd.
+Waterford Twp, MI
+ 
+https://semichiganvcc.blogspot.com/2024/01/semvcc-ver-311-updated-swap-meet-april.html
+
+The Indy Classic Computer & Gaming Expo is April 13-14 in Indianapolis.
+Crowne Plaza
+Randy Kindig of the Floppy Days podcast helps with this one - and he was
+our guest not too far back.
+  https://indyclassic.org/
+
+VCF-East: InfoAge Science and History Museums in Wall, New Jersey
+April 12-14
+  https://vcfed.org/events/vintage-computer-festival-east/
+
+CocoFest: May 4-5, 2024 in Carol Stream, Illinois (near Chicago)
+Holiday Inn & Suites
+  https://www.glensideccc.com/cocofest/
+Table bookings (the main hall is completely taken up now, and 5 of the
+extra overflow tables have now been sold):
+  https://www.tandylist.com/
+
+BoatFest 3: June 14-16, 2024
+Social Event Space
+Hurricane, WV
+ 
+https://www.ticketsource.us/boatfest2024/boatfest-retro-computer-expo-2024/e-raedpb
+
+VCF SouthWest: June 14-16, 2024 (same weekend as BoatFest)
+Davidson-Gundy Alumni Center at University of Texas - Dallas
+Dallas, Texas
+  https://www.vcfsw.org/
+UPDATES:
+Also this year they are doing "Shows within the Show", and one of those
+is a Tandy Assembly meetup, which includes a separate hall for just Tandy
+machines. The main hall is already sold out for tables, and as of March 6,
+only 2 of 21 tables in the Tandy hall were still available:
+  (scroll down on the main page)
+Jeff Wires (the host of Chronologically Gaming) and Boisy Pitre are both
+speakers this year.
+Speakers list:
+  https://www.vcfsw.org/speakers
+
+VCF-West looks to be happening August 2-3 (Fri-Sat) at the Computer History
+Museum in Mountain View, California. This year they are a full partner with
+the museum, so that admission for both the museum and VCF can be done with
+one purchase, and the are taking people booking to be speakers/presenters
+now as well.
+CHM (Computer History Museum)
+1401 N. Shoreline Blvd.
+Mountain View, CA
+  https://vcfed.org/2024/03/14/vcf-west/
+
+VCF-Midwest has finally announced their new, larger venue for this year
+(#19) - the Renaissance Schaumburg Convention Center in Schaumburg,
+IL. Sept 7-8, 2024 (Sept 6 evening (Friday) is reserved for vendors, et.c
+to set up). Unfortunately, their original block of rooms already sold out
+in 3 hours after they announced yesterday. VCF is working with the hotel
+to get more, but that won't happen until Monday)
+  https://vcfmw.org/
+
+
+Tandy Assembly for 2024 has been announced for Sep 27-29, 2024. UPDATE:
+THEY HAVE STARTED POSTING EXHIBITORS ON THEIR WEBSITE
+Courtyard by Marriott Springfield
+Springfield, Ohio
+  http://www.tandyassembly.com/
+
+
+Coco 1/2/3 (and multi-platform)
+-------------------------------
+A) (If David Ladd is on, have him give an update on getting the BlueSCSI
+and hard drive images working, and some of the quirks found). It looks
+like David Graham also uploaded the March 1992 MM/1 ROM images.
+
+
+1) Ron Klein posted an updated for the Coco-Pi project, including an
+installer version that is available for the first time to the public:
+  https://coco-pi.com/coco-pi-project-update-2024-03-27/
+
+2) Ciaran Anscomb posted a short but deep dive into how the NTSC Coco 3's
+composite signal works (note - this is from the 1987 edition of the GIME;
+there may be small differences compared to the 1986 GIME, but hasn't got
+one of those to test):
+  https://www.6809.org.uk/dragon/coco3-cmp.shtml
+
+3) TRS-80 Retro Programing on YouTube put up a video going back to his
+Tales of Suburbia game, showing him debugging the Hobby shop scene:
+  https://youtu.be/rW_21pBT6bo?si=HttKQKj6bsw5zPjA
+He also put up a little "side project" program for rotating globes in
+BASIC. Warning - he has neighbor rant early in the video, and the project
+isn't completed yet:
+  https://youtu.be/jaLX0kaZ_w0?si=Ow2e7KsVaXD2aQjv
+
+4) Todd Wallace posted some screenshots in the Coco group on Facebook
+showing further progress on his Apple II emulator for the 6309 Coco 3 -
+this time he has high res graphics (with artifacting) and floppy drive
+emulation (currently read only). It is quite slow, but it works to the
+point that it can boot DOS 3.3. No new release yet - but he is hoping by
+sometime in April (so before the Fest!):
+  https://www.facebook.com/groups/2359462640/posts/10161228127392641/
+
+5) Carlos Camacho put a post up asking (in a hypothetical world) what
+some of other color sets would have been best for making games on the VDG,
+given the restriction of 4 colors on the screen at once. In the comments,
+Paul Shoemaker put up the raw RGB values (8 bits per), and shows that
+orange was an odd one, and suggests that black would have been better (and
+I mentioned that would basically match one the IBM PC CGA color sets). But
+Paul mentioned something I didn't know - the "pastel" color set actually
+looks quite good on a monochrome monitor:
+  https://www.facebook.com/groups/2359462640/posts/10161226144482641/
+
+6) For those on Facebook, Jack Chadwick started a new public group devoted
+to Tom Mix Software - both on the Coco and the Dragon:
+  https://www.facebook.com/groups/773263327604888/
+
+7) Thomas Cherryhomes put up a video showing him using an 8 bit Atari
+terminal program that emulates Videotex / VidTex, based on a demo server
+for Videotex written by Tim Lindner (based on the Coco terminal program
+and actual console):
+  https://youtu.be/HpeaYuWS94o?si=CwkBhavu9Uw8Iy-D
+
+8) Neil Cherry is working on porting Peter Stark's HUMBUG debugging tool
+for the 6800 (he later ported it to the Coco and 6809, I believe). On the
+same Github that he has for HUMBUG is a copy of other utilities, and also
+Microware's very first OS - RT/68MX - a real time OS for the 6800 that came
+out in 1977 while Ken Kaplan was still in University (and it was because
+of this OS that Motorola worked directly with Microware on making the 6809
+and the BASIC09 programming language for it):
+Post about HUMBUG:
+  https://www.facebook.com/groups/6809assembly/posts/3337406853219340/
+Github readme:
+  https://github.com/linuxha/RT68mx/blob/main/README.md
+
+9) Ciaran Anscomb released version 1.5.5 of XRoar, which when tied with
+a bugfix to SDL 2.29.3 for Windows, should hopefully smooth out some of
+the audio glitches that Windows (and Mac) users have reported:
+Announcement on worldofdragon forums:
+  https://archive.worldofdragon.org/phpBB3/viewtopic.php?f=5&t=11152
+Ciaran's site with download link:
+  https://www.6809.org.uk/xroar/
+
+10) Allen Huffman delved into Steve Bjork's TRS-80 Model 1 software in
+his blog, including 2 videos we showed last week (Space Ball and Soft
+Music Editor), both from 1980. He mentions in the blog that there is a
+Space Ball 2, which was basically the same Circus type game, but with an
+added countdown timer before the next ball drops. He also found a screen
+shot of Galactic Fighter. Allen notes that in an interview that Steve
+game in 1997, Steve said that his game came out about 3 months before
+the arcade smash Galaxian (which played similarly and came out in the
+U.S. in November of 1979), but Roger hasn't transferred that one over yet
+(and it sounds like he has to be extra careful with that one). Also found
+were 2 Model 1 BASIC programs (one of which we will talk about shortly,
+as Jim Gerrie ported it to the MC-10): Perpetual Calendar and Bio-Rhythm,
+as well as his light pen software extensions for BASIC:
+  https://subethasoftware.com/2024/03/26/steve-bjorks-trs-80-model-1-days/
+
+11) Marco Spedaletti has released a new version of ugBASIC (microBASIC)
+- version 1.16. This update affects all the computers it runs on, but
+particular attention was made to the Ccoo 1/2 and Coco 3:
+  https://www.facebook.com/groups/2359462640/posts/10161232434407641/
+
+
+MC-10
+-----
+1) Jim Gerrie ported "Planets" originally by Gordon Speer for Computronics
+magzine issue #28 (1980) to the MC-10, adding some color to the original
+TRS-80 Model 1/3 program. This shows the relative locations of the Earth,
+Mars, Jupiter and Saturn around the sun, showing their different speeds
+in orbit:
+  https://youtu.be/g3nLz-M2dDE?si=Rc10IMaC9K5QA_ct
+
+2) Jim also ported an early Calendar program originally written by Steve
+Bjork to the MC-10:
+  https://youtu.be/Fo_O0Jb0Yyo?si=I39z2-UJpZAmRVvG
+
+3) He also pored "Testamour" which is a program to test the users knowledge
+of BASIC, originally published by the editorial team in the April 1985
+issue of the french Micro 7 Magazine. Looks a bit buggy at the moment:
+  https://youtu.be/LSDfcshWD1k?si=1s-00NQkOwTU7391
+
+
+Dragon 32/64
+------------
+1) Phil Harvey-Smith in the Dragon Facebook group, has also been playing
+with his 3D printer - And posted some photos:
+  https://www.facebook.com/groups/dragon32/posts/3674562179470091/
+
+2) Julian Brown has started working on little sound chip daughterboards
+for his Dragon 32 repro project, and posted a photo of one he started 2
+years ago, and a very recent one:
+  https://www.facebook.com/groups/dragon32/posts/3674434182816224/
+
+3) John Whitworth of DragonPlus Electronics has posted a PDF document that
+compares his replacement power supply board for the Dragon, with a Spanish
+made one based on an MP1584 made by Ant Goffart. There is also comments
+between Ant and John on the original Facebook post:
+Facebook post:
+  https://www.facebook.com/groups/dragon32/posts/3673993559526953/
+PDF direct download:
+  https://drive.google.com/file/d/1iOR5R4TVqRTpUlpOZOgE_RQ0JS-tueJo/view
+
+
+Game On news (all Coco related platforms):
+==========================================
+1) Jim Gerrie converted Nanochess's 10 liner BASIC program Tentris to the
+MC-10 (it was originally for GW BASIC on an IBM PC). Jim did have to expand
+it to 20 lines to work on the MC-10. Jim's version, because of the way it
+uses SET/RESET to draw, has an interesting effect as each piece moves down:
+  https://youtu.be/u03S6GKk_9Q?si=K3DXud1KLWbTLh9L
+
+2) Renga in Blue (the Interactive Fiction All the Adventures text adventure
+game site) did a review of the text adventure ENO from PAL Creations from
+1982 (using the Dragon version):
+  https://bluerenga.blog/2024/03/22/eno-1982/
+
+3) The Russian game playing YouTuber we showed a few weeks ago has added
+some more Dragon and Coco gameplay content this past week:
+Laser Run for the Dragon by Blaby Computer Games:
+  https://youtu.be/NJAWYo8jX5s?si=jSHmFkolPqU6VCN3
+Return of the Jet-I from Thundervision on the Coco":
+  https://youtu.be/iyWi9s_sSpw?si=zUQvd4ZXiHkxCVyD
+
+4) Tim & AJ on episode 128 of Sibling Rivalry take on one of Dave Die's
+earliest games - Fight Pilot - on the Coco:
+  https://youtu.be/ia9QJE8aXJE?si=97AcMEaEhdWI-9Up
+
+5) Pere Serrat has released the Supersprite FM+ required AGD games pack #10,
+featuring 4 new games:
+Astronaut Labyrinth
+Doom Pit Part I
+Doom Pit Part II
+Doom Pit Part III
+  http://www.retrowiki.es/viewtopic.php?f=62&t=200040290
+(not on worldofdragon.org yet; Pere couldn't upload)
+
+
+
+Speak your mind! Let us know what you think at:
+==============================================================================
+    feedback at TheCoCoNation.com
+
+Get connected with more of the CoCo, Dragon and MC-10 community here:
+==============================================================================
+    https://thecoconation.com/community/

@@ -1,0 +1,260 @@
+The Coco Nation News stories for Episode 349, February 3, 2024
+===================================================================
+Collected by L. Curtis Boyle
+
+Special Guests today:
+---------------------
+Glen Dahlgren
+
+Interviews schedule:
+--------------------
+None upcoming... yet.
+
+Upcoming conventions/trade shows of interest to Coco people:
+------------------------------------------------------------
+VCF SoCal: Feb 17-18, 2024 in Orange, California
+Hotel Fera - Events Center
+100 The City Drive, Orange, CA 92868
+  https://vcfsocal.com/index.html
+It should be mentioned that Thomas Cherryhomes will be a speaker at the
+show, going over Fujinet - including the Coco version that is currently
+a work in progress. Randy Kindig is also confirmed as a speaker now as well.
+Also, a couple of color computer exhibitors are now listed as well:
+  https://www.vcfsocal.com/exhibitors
+
+Interim Computer Festival: March 23-24.
+This is a pre-announcement for a retro computer show in the Pacific
+Northwest Area. Details (specifically where, etc.) will be coming later,
+and registration will open in January.
+  https://sdf.org/icf/
+
+The Indy Classic Computer & Gaming Expo is April 13-14 in Indianapolis.
+Crowne Plaza
+Randy Kindig of the Floppy Days podcast helps with this one - and he was
+our guest not too far back.
+  https://indyclassic.org/
+
+CocoFest: May 4-5, 2024 in Carol Stream, Illinois (near Chicago)
+Holiday Inn & Suites
+  https://www.glensideccc.com/cocofest/
+Table bookings (the main hall is completely taken up now, and 14 in the
+hall are available):
+  https://www.tandylist.com/
+
+BoatFest 3: June 14-16, 2024
+Social Event Space
+Hurricane, WV
+ 
+https://www.ticketsource.us/boatfest2024/boatfest-retro-computer-expo-2024/e-raedpb
+
+VCF SouthWest: June 14-16, 2024 (same weekend as BoatFest)
+Davidson-Gundy Alumni Center at University of Texas - Dallas
+Dallas, Texas
+  https://www.vcfsw.org/
+UPDATES:
+Also this year they are doing "Shows within the Show", and one of those
+is a Tandy Assembly meetup:
+  (scroll down on the main page)
+Jeff Wires (the host of Chronologically Gaming) is also one of the speakers
+at VCF-SW this year!
+Speakers list:
+  https://www.vcfsw.org/speakers
+
+Tandy Assembly for 2024 has been announced for Sep 27-29, 2024.
+Courtyard by Marriott Springfield
+Springfield, Ohio
+  http://www.tandyassembly.com/
+
+
+Coco 1/2/3 (and multi-platform)
+-------------------------------
+1) Retro Computing Roundtable, a fairly Apple centric podcast / live
+stream show (but they cover everything from mainframes to microcontrollers)
+discussed a 6502 homebrew computer project. The person doing it wanted to
+eventually come up with a machine capable of running a version of Lode
+Runner. Surprisingly, their method wound up using the Coco 3 transcode
+to 6809 (since it had source available) to backport it back to the 6502,
+but using Coco 3 style graphics. The person making it is Eric Badger
+(his channel on YouTube):
+  https://www.youtube.com/live/uHJfaoaXLrA?si=bxljXNTq1gwDgYrN&t=3605
+
+2) Glen Hewlett did a blog entry on doing game sprite collision detection
+in assembly, based on a the routines he found in Robotron when he was
+transcoding it:
+ 
+https://nowhereman999.wordpress.com/2024/01/29/coco-3-game-collision-detection-routine-6809-assembly/
+
+3) Our very own Ken of Canadian Retro Things on YouTube put up a 1/2 hour
+video - doing some Digital Archeology on some Coco disks:
+  https://youtu.be/hlMz_UvSEoI?si=qGbU3h4yXZL1mzqz
+
+4) This years 10 line BASIC programming contest has been announced (scroll
+down for english):
+  https://gkanold.wixsite.com/homeputerium/copy-of-rules
+
+5) EJ Jaquay announced that VCC 2.1.8.3 has now been released, which adds
+a host of new features:
+- Web link in help menu to the newly updated User Guide
+- fixed the HDBLBA rom image so it properly will emulate an IDE controller
+for SuperIDE
+- Hard disk config can now enable/disable RTC
+- Debugger adds instruction decode, disassembler window
+- Command line auto past option
+- blinking text fixed on 40 and 80 column screens
+  https://github.com/VCCE/VCC/releases/tag/vcc2.1.8.3
+
+6) David Collins has another update on his 6309 based homebrew computer
+project on the 6x09 Facebook group - he now has it loading floppy disk
+images from it's SD card):
+  https://www.facebook.com/groups/6809assembly/posts/3303373426622683/
+
+7) David Graham uploaded a new readme for the MM/1 schematics to the MM/1
+Facebook group, which includes some things about them that people should
+be aware of (including errors, usage of parts that were for testing only
+and changed by the final release, etc.)
+  https://www.facebook.com/groups/3194643584094250/posts/4382739608617969/
+(I have a local copy on my desktop to share)
+  MM1_schematics_readme_first.pdf
+
+8) Jim Mullis posted another update video of his Super Powers game written
+in BASIC with the Sundog Systems GrafExpress system, which includes new
+characters, much wider world for horizontal scrolling (9 screens worth),
+and lot more (see video description for full details). NOTE: Sound for
+some reason did not come through on the video, and it's more jittery than
+it was on real hardware:
+  https://youtu.be/HEm-_OHgL9g?si=C2wvA12dPTxs6iID
+
+9) Henry of The Break Key channel on YouTube continues on making a new
+ROM for the Coco 1/2 to boot into Forth. This episode he gets the keyboard
+working and typing to the screen, with editing:
+  https://youtu.be/5EjV6Muslag?si=pRXi8T7aTJ_ZdvAx
+
+10) Bolling Holt on YouTube released a video "Reliving my 1991 10th
+Birthday with the Tandy DMP-133", which got at the age of 10 to use with
+his Coco 2. Unfortunately he didn't have a Coco compatible serial cable,
+so he tested it with his Tandy 1000 TL/2 instead on parallel (with Deskmate):
+  https://youtu.be/JigW46CAgjA?si=Y-Zl59lCAhEcFBvg
+
+11) The 6502 Show did an episode on making and programming a Compact Flash
+card drive/file system for the GM-68 computer - but it will work with any
+6502, 680x (including 6809) based system, if you want to experiment. He
+also had early plans to try and port FLEX as a base OS, but abandoned it
+for a much simpler system:
+  https://youtu.be/ti7coZ-yzTI?si=eEcktyN0_xQ4kJc9
+
+12) TRS-80 Retro Programing on YouTube did an update to his Coco Ultimate
+RPG game that he is working on for the Coco 1/2. Here he shows using a
+visual grid layout help fine tune character mapping. This can be helpful
+for figuring out byte aligned GET/PUT's for different modes, as well as
+for the DRAW he statements that he is using in this game:
+  https://youtu.be/PEq4jEBxGMg?si=zk7LwEdLD9c2qMEY
+He then did a quick update video yesterday, speeding up and optimizing
+the BASIC code a bit, and employing the grid he worked on:
+  https://youtu.be/3tC5BLk3Lgs?si=cOdqGJZQEL5VdOh7
+
+13) Allen Huffman posted his first blog entry on porting Rick Adam's
+"Lights Out Puzzle" (that Rick is working on for the Coco 3) to the Coco
+1/2. This blog entry contains a complete history of the game as a good
+background for the blog series:
+  https://subethasoftware.com/2024/01/30/lets-write-lights-out-in-basic-part-1/
+
+14)
+
+
+
+MC-10
+-----
+1)
+
+
+Dragon 32/64
+------------
+1) Following up on the challenge of making a ray trace program from the
+BBC Micro run on a Coco or Dragon, Steven Goodwin took up the challenge
+in the Dragon Facebook group. (He had a bug in the initial photos that
+was fixed later in the comments). This is the same challenge Allen Huffman
+had worked on but didn't get as far. The Dragon CAS file is on the Dragon
+Facebook group.:
+  https://www.facebook.com/groups/dragon32/posts/3635799016679741/
+
+2) Julian Brown posted an update about his FPGA prototype to replace the
+6847 (VDG) chip - and with enhancements in the Dragon Facebook group:
+  https://www.facebook.com/groups/dragon32/posts/3636673456592297/
+
+3) XRoar got two quick bug fix releases (1.5.1 & 1.5.2) from the 1.5 major
+release last week.
+1.5.1 fixes:
+ - Include cartridge database (mostly Coco 3 32K) for convenience
+ - Fix potential crash when cartridge loading fails
+ - Recognize Windows Drive letters properly (ex. C:)
+1.5.2 fixes:
+ - Timer interrupt fixes for the GIME
+You can download it from:
+  https://www.6809.org.uk/xroar/
+
+4) The "Home for Obsolete Technology" channel on YouTube (he is Germany)
+posted part 2 of a huge retro haul he got - this part includes 4 Dragon
+32's (he mentions that the Dragon is very rare in Germany)-one is heavily
+modified:
+  https://www.youtube.com/watch?v=DGC3paSpnpc&t=429s
+
+
+Game On news (all Coco related platforms):
+==========================================
+1) Darren Ottery posted an interesting question on the Coco Facebook group -
+what would the ONE game be that you would like to see ported t the Coco 3
+(that could run within the Coco 3's hardware limits):
+  https://www.facebook.com/groups/2359462640/posts/10161140909912641/
+
+2) Rick Adams is working on writing a wrong with the Shanghai cartridge -
+when one wins the game, the original plan was to have a full screen fire
+breathing dragon presented to the player. Because Tandy limited how big
+the ROM could be, he was only able to put the head in. Using extra space
+that would have been possible if he had been allowed to use a 32K ROM,
+he has most of it in now (I noticed this morning on the Coco Discord that
+the whole dragon is now there, and Paul Fiscarelli is helping getting the
+original title screen as well):
+  https://www.facebook.com/groups/colorcomputer/posts/907350990880634/
+
+3) Chronologically gaming continued through September 1982 releases this
+week, including multiple Coco and Dragon games:
+
+Dragon: Devils Triangle (1:09). Coco: Frog Trek (26:27), Galactic Attack
+(49:16)
+  https://www.youtube.com/live/E9t9VgMHpug?si=KdzwqK97Pf6CUw2N
+
+Coco: Madam Rosa's Massage Parlor (just mentioned) (25:47), Mega-Bug
+(39:39) - Apple II version right before (Dung Beetles)
+  https://www.youtube.com/live/4aonXvaIAzk?si=yvrxxhqil1f-GPg4
+
+Coco: Microbes (0:13), Mission:Empire! (14:42), Offender
+(39:35). Dragon/Coco: Race Ball (57:25)
+  https://www.youtube.com/live/P54ACzfUn88?si=MIJUGcAkQXaOE_ky
+
+Coco: Roman Checkers (24:00)
+  https://www.youtube.com/live/mMz_lPPfu7A?si=-gRUCrAakQV4TKgB
+
+Coco: Shooting Gallery (10:47) (Atari 8 bit version shown just before),
+Snak Pak (38:47)
+  https://www.youtube.com/live/WYuBKocHO1I?si=P-2ujtN-iJywjtsu
+
+4) Jim Gerrie ported a couple more games to the MC-10. I know, I am just
+as surprised as all of you. ;-)
+  "Casse-tête dans le métro/Puzzle in the Metro" is a graphical adventure
+  game originally by Eric Ascheberg in 1985 for the Alice 32/90. Low rest
+  graphics by Jim replace the original ones:
+  https://youtu.be/pKzXl8kdbWo?si=m0EQsLEPrIRv2xVc
+"Hey Man Don't Get Angry", also known as "Ludo", was a port (and translation
+to English) from the original German classic board game Ludo, originally
+for the Laser / Dick Smith VZ-200 computer, in 1988:
+  https://youtu.be/l32IlnV_id8?si=xrRv_RN374sajxn2
+
+
+
+Speak your mind! Let us know what you think at:
+==============================================================================
+    feedback at TheCoCoNation.com
+
+Get connected with more of the CoCo, Dragon and MC-10 community here:
+==============================================================================
+    https://thecoconation.com/community/

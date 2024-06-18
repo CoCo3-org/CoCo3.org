@@ -1,0 +1,245 @@
+The Coco Nation News stories for Episode 350, February 10, 2024
+===================================================================
+Collected by L. Curtis Boyle
+
+Special Guests today:
+---------------------
+None, but a special note: The Amigos are running their 12 hour Amigathon
+fundraising charity show today (it started at 8 AM EST). Catch the live
+stream on Twitch or YouTube, and you can contribute at:
+  Amigathon.com
+Proceeds go to the Children's Miracle Network Hospitals. They had raised
+$880 as of last night, even before the show started. They have been doing
+this for 7 years now, and have raised almost $30,000 so far.
+
+Interviews schedule:
+--------------------
+None upcoming... yet.
+
+Upcoming conventions/trade shows of interest to Coco people:
+------------------------------------------------------------
+VCF SoCal: Feb 17-18, 2024 in Orange, California
+Hotel Fera - Events Center
+100 The City Drive, Orange, CA 92868
+  https://vcfsocal.com/index.html
+It should be mentioned that Thomas Cherryhomes will be a speaker at the
+show, going over Fujinet - including the Coco version that is currently
+a work in progress. Randy Kindig is also confirmed as a speaker now as well.
+Also, a couple of color computer exhibitors are now listed as well:
+  https://www.vcfsocal.com/exhibitors
+
+Virtual CoCoFEST! Feb 24-25, worldwide!
+The Early 2024 Virtual Fest, Sponsored by The Glenside Color Computer Club
+and The CoCo Nation.
+A Virtual Event to Showcase the Tandy Color Computer, the Dragon Data
+Dragon and the Brazilian Clones.
+Feb 24th and 25th featuring 1 Hour Presentations, starting at 14:00 (
+UTC ), and running for 8-10 Hours.
+If you have something to Present to the Community, but won't be able to
+attend CoCoFEST! or a VCF Event or the Dragon MeetUp this year, this is
+Your Chance to Present your Project to the Community, from the Comfort of
+your Own Home, Business or Lair.
+Once those who Don't Expect to make it to a Real Life Event, this year
+have First Chance to sign up for a presentation slot, the registration
+for everyone else will open.
+
+E-mail cocotech at thecoconation.com or contact MarkO(verholser) to register.
+
+Interim Computer Festival: March 23-24.
+This is a pre-announcement for a retro computer show in the Pacific
+Northwest Area. Details (specifically where, etc.) will be coming later,
+and registration will open in January.
+  https://sdf.org/icf/
+
+The Indy Classic Computer & Gaming Expo is April 13-14 in Indianapolis.
+Crowne Plaza
+Randy Kindig of the Floppy Days podcast helps with this one - and he was
+our guest not too far back.
+  https://indyclassic.org/
+
+CocoFest: May 4-5, 2024 in Carol Stream, Illinois (near Chicago)
+Holiday Inn & Suites
+  https://www.glensideccc.com/cocofest/
+Table bookings (the main hall is completely taken up now, and 1 of 14 has
+been sold for the hall tables already):
+  https://www.tandylist.com/
+
+BoatFest 3: June 14-16, 2024
+Social Event Space
+Hurricane, WV
+ 
+https://www.ticketsource.us/boatfest2024/boatfest-retro-computer-expo-2024/e-raedpb
+
+VCF SouthWest: June 14-16, 2024 (same weekend as BoatFest)
+Davidson-Gundy Alumni Center at University of Texas - Dallas
+Dallas, Texas
+  https://www.vcfsw.org/
+UPDATES:
+Also this year they are doing "Shows within the Show", and one of those
+is a Tandy Assembly meetup:
+  (scroll down on the main page)
+Jeff Wires (the host of Chronologically Gaming) is also one of the speakers
+at VCF-SW this year!
+Speakers list:
+  https://www.vcfsw.org/speakers
+
+Tandy Assembly for 2024 has been announced for Sep 27-29, 2024.
+Courtyard by Marriott Springfield
+Springfield, Ohio
+  http://www.tandyassembly.com/
+
+
+Coco 1/2/3 (and multi-platform)
+-------------------------------
+1) CocoTown has released his first two chapter on doing assembly language
+sound on the Coco:
+Part 1:
+  https://youtu.be/ZT6G4wM3ZIo?si=-diAuyIgQvK0i3qh
+Part 2:
+  https://youtu.be/CfWlkjrkqP0?si=shn8HbqclqDuAcZ2
+
+2) George Janssen released parts 1&2 of his 3 part Coco 3 assembly language
+sprites on a background series, showing background building and sprite
+movement, with a couple of different techniques, varying wildly in speed. As
+usual, his source code for the lesson is on his channel in the Coco Discord.
+Part 1:
+  https://youtu.be/r6HIRNByNTE?si=kbG-P7uUpUtSCfn4
+Part 2 (this one is a full hour):
+  https://youtu.be/av4vO9JPWLw?si=0vkQSsr2F4QzW51v
+Part 3:
+  https://youtu.be/hg_b-N-A0Fg?si=Qf5Vk3i8BgqNnE_l
+
+3) La Coco Strangiato (Bob) posted a video on YouTube showing him building &
+installing his Turbo-X LED Driver board:
+  https://youtu.be/iC_9lxrjj7w?si=HCdyIJTXlUBJoKR0
+
+4) TRS-80 Retro Programing did another Coco Ultimate video, this time
+covering using the sword and changing direction:
+  https://youtu.be/QFu4Ux3Xvn0?si=9vyKAgMGY_vJYgL4
+And a second update with all directions for walking working:
+  https://youtu.be/08XwpSgu7Wo?si=JJzyxSoqMfI0Xnm-
+
+5) Michael Pittsley posted two videos to show a comparison between the two
+most advanced ANSI terminal programs on the Coco - Twilight Terminal (by
+John Kowalski) and Netmate (by Roger Taylor) using modern Telnet BBS's. His
+Facebook post describes the pros/cons of each, and the videos are on YouTube:
+Facebook post:
+  https://www.facebook.com/groups/2359462640/posts/10161150361197641/
+Twilight Terminal:
+  https://youtu.be/XCG-VXPhajs?si=M1g2SDRsOED1j1Je
+Netmate:
+  https://youtu.be/1HOMpBkp0Xk?si=3mYBHfq6X1EW8fHY
+
+6) Allen Huffman did part 2 of his blog of writing a port of Rick Adam's
+"Lights Out" to plain old Color BASIC:
+  https://subethasoftware.com/2024/02/06/lets-write-lights-out-in-basic-part-2/
+In addition, he also did a blog post on how the color scheme for Coco 1/2
+graphics modes work, how the correlate to the text mode (SG-4) colors,
+and how it makes sense as far as the color #'s go in BASIC:
+ 
+https://subethasoftware.com/2024/02/08/the-9-colors-of-the-cocos-high-resolution-screens/
+And finally, a request from Allen (based on CocoTown's recent video going
+through the pixel aspect ratios between real Coco 1/2 hardware and MAME)
+- pictures from Cocos' on real CRT's and a CM-8:
+ 
+https://subethasoftware.com/2024/02/09/request-pictures-of-coco-1-2-on-a-tv-and-coco-3-on-tv-cm-8/
+
+7) Tim Lindner put up both a blog post and a video to demonstrate that the
+PIA2 address mirrors (memory addresses that duplicate the functions of the
+primary ones, due to not being fully address decoded) is smaller on a Coco
+3 than a Coco 1/2 ($FF20-$FF2F on a Coco 3; $FF20-$FF3F on a Coco 1/2):
+Blog:
+  https://tlindner.macmess.org/?p=1005
+Video:
+  https://youtu.be/lvSHaDOJJPA?si=8uWqhbpDDhHxSwv4
+
+8) TJBChris (Christopher Hyzer), who did a demo some months ago using
+the Network II controller with the Coco, had noticed back then that the
+the Network 3 controller's (quite different hardware - it used the serial
+port, not the cassette port), and came out in 1982) ads mentioned that it
+would work with the Coco as clients in the future... but that was never
+done. Going through the protocols where it does run (in Chris's case, his
+Model 12)... he got it working with the Coco (albeit at 300 baud through
+the bitbanger). And will be making a YouTube video to show this soon:
+  https://www.facebook.com/groups/2359462640/posts/10161153177947641/
+
+
+MC-10
+-----
+1)
+
+
+Dragon 32/64
+------------
+1) Julian Brown posted some updates to his updated Dragon motherboard
+replacement, where he is working on an issue with line pulses:
+  https://www.facebook.com/groups/dragon32/posts/3643691482557161/
+
+2) Mike Miller has posted scans of the DREAM Dragon assembler (tape version)
+to the Dragon Facebook group:
+  https://www.facebook.com/groups/dragon32/posts/3641557872770522/
+(I have local copy to show as well)
+
+
+Game On news (all Coco related platforms):
+==========================================
+1) Jim Gerrie ported another Laser 200/Disk Smith VZ-200 game to the MC-10
+- this time "Boulder Pit" AP-Soft in 1985. This one uses Greg Dionne's
+MC-10 BASIC compiler for some extra speed, and is a puzzle game mixed
+with Boulder Dash. Jim went through at least 3 iterations of this game
+this week, and believes that this is the final one, although he hasn't
+tested the final level (12):
+  https://youtu.be/Yj2aPa2x6UU?si=PCzpjJILJ4up3OPe
+He also did a port of Matilda's Monopoly for 2 game (originally written
+by David Barker in 1975), but added his own low res graphical board display:
+  https://youtu.be/i6camGjJraY?si=R9EriW7xnadLIGPF
+
+2) RetroMels on YouTube did an episode of his "80s Program of the Week" -
+featuring Planet Invasion for Colour Computer. He also goes into loading
+files from cassette and even on radio programs back in the audio - and
+along that line, he includes the audio for the game as part of his YouTube
+video so you can load it right from the video (we tried that on our show
+some years back too). This is the same channel that we covered recently
+on how to archive / digitize tapes:
+  https://youtu.be/YJjldG3eIEI?si=QS3BJct3In_NV5y2
+
+3) Rick Adams has released an updated version of Shanghai to run from
+disk on his github - which now has the full "win screen". He also found
+the original title screen (based on the Amiga version, I believe). And it
+makes the "hidden" color set much easier to select (the OS9 version has
+had the latter for awhile):
+Facebook post (with photos):
+  https://www.facebook.com/groups/2359462640/posts/10161143872672641/
+github disk image download:
+  https://github.com/yggdrasilradio/shanghai/tree/development/redistribute
+
+4) RichN on Discord, who is working on a Coco 1/2 Spy Hunter, put up
+an updated video, showing a couple of the weapons in action, the truck
+dropping off the players car, and some more terrain to scroll by (including
+water). It looks really good!
+  (use local copy of spyhunter_update_02-04-2024.mov)
+
+5) Tricob1974 on YouTube put up a longplay (over 45 minutes!) of Ladderman 2
+aka Super Ladderman. Unfortunately the aspect ratio of his emulator screen
+capture is way out to lunch (twice as wide as it should be)... I suspect
+an older version of MAME was used.
+  https://youtu.be/srdEx50oDu8?si=z-BnSi7VTGf-xGZI
+
+6) Chronlogically Gaming is taking a little break, but still streamed some
+more of September 1982 releases at the beginning of the week... including
+Space War on the Dragon 32:
+  https://www.youtube.com/live/3get3kDl3Bk?si=uUaNv-YoXM18GdSV&t=1690
+
+7) agamingchannelbyLRU on YouTube has done some more Dragon gameplay videos
+in order to submit scores:
+  https://www.youtube.com/@agamingchannelbyLRU/videos
+
+
+
+Speak your mind! Let us know what you think at:
+==============================================================================
+    feedback at TheCoCoNation.com
+
+Get connected with more of the CoCo, Dragon and MC-10 community here:
+==============================================================================
+    https://thecoconation.com/community/

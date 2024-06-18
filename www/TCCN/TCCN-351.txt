@@ -1,0 +1,228 @@
+The Coco Nation News stories for Episode 351, February 17, 2024
+===================================================================
+Collected by L. Curtis Boyle
+
+Special Guests today:
+---------------------
+Tim Lindner, Mark Siegel
+David Kroeker, possibly D. Bruce Moore (but not until 2 hours in for Bruce)
+
+Interviews schedule:
+--------------------
+None upcoming... yet.
+
+Upcoming conventions/trade shows of interest to Coco people:
+------------------------------------------------------------
+VCF SoCal: Feb 17-18, 2024 in Orange, California ON RIGHT NOW! Hopefully
+somebody was able to attend and take some pictures - Wayne Campbell was
+unable to make it.
+Hotel Fera - Events Center
+100 The City Drive, Orange, CA 92868
+  https://vcfsocal.com/index.html
+It should be mentioned that Thomas Cherryhomes will be a speaker at the
+show, going over Fujinet - including the Coco version that is currently
+a work in progress. Randy Kindig is also confirmed as a speaker now as well.
+Also, a couple of color computer exhibitors are now listed as well:
+  https://www.vcfsocal.com/exhibitors
+
+Interim Computer Festival: March 23-24.
+Intraspace
+3100 Airport Way South, Seattle, Washington
+This is a pre-announcement for a retro computer show in the Pacific
+Northwest Area.
+  https://sdf.org/icf/
+
+The Indy Classic Computer & Gaming Expo is April 13-14 in Indianapolis.
+Crowne Plaza
+Randy Kindig of the Floppy Days podcast helps with this one - and he was
+our guest not too far back.
+  https://indyclassic.org/
+
+CocoFest: May 4-5, 2024 in Carol Stream, Illinois (near Chicago)
+Holiday Inn & Suites
+  https://www.glensideccc.com/cocofest/
+Table bookings (the main hall is completely taken up now, and 1 of 14 has
+been sold for the hall tables already):
+  https://www.tandylist.com/
+
+BoatFest 3: June 14-16, 2024
+Social Event Space
+Hurricane, WV
+ 
+https://www.ticketsource.us/boatfest2024/boatfest-retro-computer-expo-2024/e-raedpb
+
+VCF SouthWest: June 14-16, 2024 (same weekend as BoatFest)
+Davidson-Gundy Alumni Center at University of Texas - Dallas
+Dallas, Texas
+  https://www.vcfsw.org/
+UPDATES:
+Also this year they are doing "Shows within the Show", and one of those
+is a Tandy Assembly meetup:
+  (scroll down on the main page)
+Jeff Wires (the host of Chronologically Gaming) is also one of the speakers
+at VCF-SW this year!
+Speakers list:
+  https://www.vcfsw.org/speakers
+
+Tandy Assembly for 2024 has been announced for Sep 27-29, 2024.
+Courtyard by Marriott Springfield
+Springfield, Ohio
+  http://www.tandyassembly.com/
+
+
+Coco 1/2/3 (and multi-platform)
+-------------------------------
+1) TRS-80 Retro Programing put up a video that shows a bit of how parenthesis
+works with math operations:
+  https://youtu.be/eoY4_0rarYg
+He is also did a short video showing some sounds he is adding to Coco
+Ultimate (like a high pitched one for a sword swing):
+  https://youtu.be/KpO63HAsOaM
+
+2) George Janssen released his final lesson for the 128 moving stars
+assembly language tutorial (And the source is available on his channel in
+the Coco Discord):
+  https://youtu.be/rPxnRBIHww4
+
+3) Frank of retrowind.ca has put up an ANSI BBS (one can log in with both
+web and with an ANSI compatible terminal program - like Twilight Terminal
+or Netmate on a Coco 3) that is running on an Amiga 4000. If you would
+like to try it out:
+  bbs.retrorewind.ca (on port 23)
+or using an HTML5 client:
+  https://bbs.retrorewind.ca/
+
+4) A plug for those of you with MM/1's and need a replacement for your SCSI
+drive - BlueSCSI's can be ordered from jcm-1.com (these are commonly used
+on Mac's and other computers as well, but Joel Ewy is pretty pleased his
+on his MM/1, and even has a file for 3d printing an SD card cover plate
+to make it look clean). I would be interested to know if anyone has tried
+this on a Coco yet, since we did have multiple SCSI drive systems (Kenton,
+Diskmaster, etc.) on the Coco back in the 1980's.
+
+5) As promised from his post last week, TJBChris has released an over half
+hour video "Exploring the TRS-80 Network 3 controller, including getting it
+working with a Coco (promised by Tandy when it was originally advertised,
+but never implemented... until now):
+  https://youtu.be/8r2dwGSPvjM?si=Waz-sl33k3zsO9ut
+
+6) Coco Town has released part 3 of his assembly language sound on the
+Coco 1/2 tutorial - this one covers using HSYNC for timing:
+  https://youtu.be/GqQ6MzE35sc?si=PvUFOuD02AyrEboG
+
+7) Michael Pittsley has posted a series of 16 videos of the Dorsett
+Courseware Fractions for ages 4-8 on his YouTube channel, joining a lot of
+other rare educational and multimedia software for the Coco that he has
+on his channel. The best thing is that his include the audio portions of
+the original tapes as well as the programs themselves:
+  https://www.youtube.com/@michaelpittsley8323/videos
+
+8) Guillaume Major has patched the Orchestra 90 software to use the DSKCON
+routines - so you can now access the Orch-90 library with Drivewire, the
+CocoSDC and DrivePak's (rather than hardcoded to the floppy controller). This
+is available on the Color Computer Archive (It also uses Michael Pittsley's
+recently released index for the Orch 90 files - 78 disks in all):
+  https://www.facebook.com/groups/2359462640/posts/10161159423317641/
+
+9) Carlos Camacho posted an interesting project link (on the Internet
+archive) that the Air Force used - that included a Coco as a display
+terminal:
+  https://www.facebook.com/groups/2359462640/posts/10161156374547641/
+
+10) For those of you who have wanted a PDF version of the full version of
+the original Coco Color BASIC manual - it's finally available on the the
+archive. Much thanks to Tim Lindner for scanning and making the PDF:
+ 
+https://colorcomputerarchive.com/repo/Documents/Manuals/Hardware/Getting%20Started%20With%20Color%20Basic%20-%20TRS-80%20Color%20Computer%202%20(Tandy).pdf
+
+11) 8bitsinthebsement on YouTube has released a video showing his work in
+learning Coco assembly language, and converting Bob and the alien fireflies
+to the Coco, and explains the journey he took over the past few months in
+doing so:
+  https://youtu.be/ymiLb73U6uM?si=IajhXwLdW-Ip3UfV
+
+12) Uno Caraway put up a video on working with BASIC for several computers
+(different projects - a little beginners BASIC Coco, starting around
+33:32). He has a real one, but does the demo using XRoar:
+  https://youtu.be/75K_CeROXH8?si=yi12eg082aqneSIG
+
+13) Primal-bits4777 did a youtube short about a Coco 2 that he has gotten
+that has a keyboard problem - and he is going to do a full video including
+try to fix it with a conductive pen and/or a replacement keyboard mylar:
+  https://www.youtube.com/shorts/hIl_ryv7HbY
+
+14) Bolling Holt (whom we covered recently when he got a Tandy DMP-133
+printer) put up a video showing his logging into a BBS on a Color Computer 3
+using another bit of hardware he had as a kid - the Direct Connect Modem Pak:
+  https://youtu.be/YR7sXCdnlbM?si=vAeOvPOiMO1jRglL
+
+
+MC-10
+-----
+1)
+
+
+Dragon 32/64
+------------
+1) Julian Brown posted an update to his upgraded Dragon project - he is
+working on a redesign of the PAL board:
+  https://www.facebook.com/groups/dragon32/posts/3645092879083688/
+
+2) TôBach on YouTube has a little graphics demo clip called Munch my
+Bricks that is an ML program that is only 64 bytes long, that he did for
+the lovebyte 2024 Demo competition, for his Dragon 32:
+  https://youtu.be/g3udVipItwg?si=H4UaSlkkHfebkGFw
+
+Game On news (all Coco related platforms):
+==========================================
+1) CRPG Addict has released his lengthy review of the 1982 Coco game
+Sceptre of Kzirgla. He was not too impressed:
+ 
+https://crpgaddict.blogspot.com/2024/02/game-502-scepter-of-kzirgla-1982-and.html
+
+2) Jim Gerrie released an MC-10 port of "Swordsman" originally by H. Walwyn
+in 1983 for the Coco and Dragon 32. Jim did some modifications from the
+original as well:
+  https://youtu.be/46n8jTyl3CY?si=Q6VTZ6iqMtaqzbuw
+He also ported "The Wizard's Tower" CPRG from the Coco, originally by
+Steven C. Mitchell in 1992:
+  https://youtu.be/SioIs0KkBFM?si=_8Lydg-W3k6q7ajb
+
+3) Chronologically Gaming covered the 2nd last September 1982 Coco entry
+- and a game that I did not realize was the *1st* version of the game
+released on a home computer (although multiple game consoles already had
+versions)... Tennis from Tandy. I should also mention that he is now doing
+1/2 hour episodes each weeknight (vs. full hour shows):
+  https://www.youtube.com/watch?v=hKHl0Pefmik&t=561s
+
+4) Tricob1974 (Richard Kelly) put up some long play videos of both
+his Ladderman 2 game, and one of this week's challenge games, King
+Tut. Unfortunately his version of MAME used to record them is quite old
+and stretches the screen to twice it's normal width:
+  https://www.youtube.com/@Tricob1974/videos
+
+5) www.ElkSoft.com has released an updated Demon Attack X, which is a port
+of the Coco version of Imagic's Demon Attack to modern machines. It now
+includes a top 100 score table, 2 player simultaneous mode, new EGA color
+mode and more. He released a video on YouTube showing it in action with
+the new menu options (unfortunately it doesn't show an example of the 2
+player simultaneous mode):
+  https://youtu.be/xXKe7GyitNI?si=IHdP1VYnl2BtVj-O
+
+6) Marco Spedaletti has released (on his itch.io page) the free download
+for his entry for this years BASIC 10 liner contest, with a game called
+"Falling Balls". He wrote it under the cross platform ugBASIC compiler,
+so it is also available for other machines like the Atari 8 bit, and it
+shows what he ugBASIC compiler is capable of:
+  https://www.facebook.com/groups/2359462640/posts/10161167116507641/
+Download page:
+  https://spotlessmind1975.itch.io/falling-balls-10liner
+
+
+Speak your mind! Let us know what you think at:
+==============================================================================
+    feedback at TheCoCoNation.com
+
+Get connected with more of the CoCo, Dragon and MC-10 community here:
+==============================================================================
+    https://thecoconation.com/community/

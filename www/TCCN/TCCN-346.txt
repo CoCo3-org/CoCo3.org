@@ -1,0 +1,166 @@
+The Coco Nation News stories for Episode 346, January 13, 2024
+===================================================================
+
+Special Guests today:
+---------------------
+Another Deluxe Color Computer has been found!
+
+Interviews schedule:
+--------------------
+- January 20 Henry Gernhardt of "The Break Key" YouTube channel.
+  https://www.youtube.com/@thebreakkey
+
+- February 3 (NOTE DATE CHANGE) Glen Dahlgren comes back - he has the final
+book in his Chaos series coming out, and possibly some further Coco stuff
+as well.
+  https://mysteriumstoryworks.substack.com/p/want-a-free-copy-of-the-realm-of
+
+
+Upcoming conventions/trade shows of interest to Coco people:
+------------------------------------------------------------
+VCF SoCal: Feb 17-18, 2024 in Orange, California
+Hotel Fera - Events Center
+100 The City Drive, Orange, CA 92868
+  https://vcfsocal.com/index.html
+
+Interim Computer Festival: March 23-24.
+This is a pre-announcement for a retro computer show in the Pacific
+Northwest Area. Details (specifically where, etc.) will be coming later,
+and registration will open in January.
+  https://sdf.org/icf/
+
+CocoFest: May 4-5, 2024 in Carol Stream, Illinois (near Chicago)
+Holiday Inn & Suites
+  https://www.glensideccc.com/cocofest/
+Table bookings:
+  https://www.tandylist.com/
+
+BoatFest 3: June 14-16, 2024
+Social Event Space
+Hurricane, WV
+ 
+https://www.ticketsource.us/boatfest2024/boatfest-retro-computer-expo-2024/e-raedpb
+
+VCF SouthWest: June 14-16, 2024 (same weekend as BoatFest, and usually
+has a lot of Tandy people hanging out since that is Tandy's hometown).
+Davidson-Gundy Alumni Center at University of Texas - Dallas
+Dallas, Texas
+  https://www.vcfsw.org/
+
+
+Coco 1/2/3 (and multi-platform)
+-------------------------------
+1) Ron Klein posted a Coco-Pi project update literally while last weeks
+show was on:
+  https://coco-pi.com/coco-pi-project-update-2024-01-06/
+
+2) TRS-80 Retro Programing posted a short update to his Coco Ultimate
+project, using the DRAW technique he did in his previous video:
+  https://youtu.be/7-c7v3CJoe0?si=4ZbRNNXoIV5jmm0N
+He released a short, no-commentary update video as well:
+  https://youtu.be/T3ytD2QwziU?si=YflvTrPdnn5FYr2C
+
+3) Coco Town released another assembly language video - his "favorite bug
+so far" - The Recalcitrant VDG:
+  https://youtu.be/BBoNNIKQo0o?si=gt3VucHGgSTqaJ12
+
+4) Michael Pittsley posted a list (and then an update) of what all of the
+Orchestra-90 songs on the archive are (matching to their short 8 character
+filenames). The PDF is available on the Coco Facebook group:
+  https://www.facebook.com/groups/2359462640/posts/10161109243992641/
+
+5) Carlos Camacho posted a photo of the cover of the Australian magazine
+Electronics Australia from February 1982 - whose cover feature is the
+"new" Tandy Color Computer (or TRS-80 Color Computer as we knew it in
+North America at the time):
+  https://www.facebook.com/groups/2359462640/posts/10161106557757641/
+
+6) David Collins posted an update to his REV3 6309 based board project:
+  https://www.facebook.com/groups/6809assembly/posts/3289126611380698/
+
+7) For those of you lucky enough to own MM/1's.. head over to the MM/1
+Facebook group and participate in the poll that David Graham has put up:
+  https://www.facebook.com/groups/3194643584094250/posts/4369183233306940/
+
+8) David K on YouTube posted a video for his "So Check This Out" series,
+where he goes around buying stuff from old businesses, etc.. He picked up
+a steal including an old DMP-100 printer, Coco 1, games and more... for
+a total of $100.00:
+  https://youtu.be/qwq9btWDdzU?si=_xGCtdRVXua128ax
+
+9) Henry (our special guest next week) released his next episode of The
+Break Key on YouTube, which is part 2 of building his own ROM. This round
+he starts working on polling the computer directly through the PIA's. (I
+liked his visual representation of the keyboard matrix in his program,
+showing the PIA):
+  https://youtu.be/tQV5xztJ-7k?si=xD23LuXoawg2vyV9
+
+10) Sad news from the Coco group on Facebook - we just found out that Kevin
+Leany, one of the authors of the Novasoft / Tom Mix Software "Vegas Game
+Pack" as well as the Coco 3 "Slots and Cards", passed away. We interviewed
+him and his brother Doug in our "A pair of Coco Brother game developers"
+episode on the old show, where Paul and Tim Thayer appeared with Doug and
+Kevin Leany, helping interview each other about Coco game development:
+  https://www.facebook.com/groups/2359462640/posts/10161112313852641/
+The interview:
+  https://www.youtube.com/live/tU0aXr5gmio?si=coAynSCqueZuFAI2
+
+
+MC-10
+-----
+1)
+
+
+Dragon 32/64
+------------
+1)
+
+
+Game On news (all Coco related platforms):
+==========================================
+1) Jim Jewett posted on the Coco Facebook group videos of a variety of
+BASIC games he did back in the day.
+A Star Wars style Death star game that he did in BASIC:
+  https://www.facebook.com/groups/2359462640/posts/10161104515877641/
+He also did a Battlezone style game as well:
+  https://www.facebook.com/groups/2359462640/posts/10161104490742641/
+A downhill skiing game called "Slopes" in low res:
+  https://www.facebook.com/groups/2359462640/posts/10161104462492641/
+Spacewar:
+  https://www.facebook.com/groups/2359462640/posts/10161104376422641/
+
+2) Terry Steege on his Retro Tech Time channel on YouTube put up a quick
+video (no commentary) to show how to get Shock Trooper running in the VCC
+emulator (As per a question he received):
+  https://youtu.be/eGjGm3OIscI?si=5hMMTYkweJhGSn_n
+
+3) Jim Gerrie put up his conversion of Crazy 8's, originally by D. Kurland
+in 1975. Jim warns that the AI in this one is missing a lot of the "I":
+  https://youtu.be/TVB1CIZ1uR0?si=6-VygoQg-Ue_jMWH
+
+4) Rutherford Le Blang posted a picture of him playing the Coco version of
+Canyon Climber - on an RG353V running ArkOS (I think this is beta hardware?):
+  https://www.facebook.com/groups/2359462640/posts/10161108199157641/
+
+5) Matt Darr posted a video of the very first BASIC game he wrote while
+learning the language on his Coco; a card game called High Card:
+  https://www.facebook.com/groups/2359462640/posts/10161106271047641/
+
+6) Rick Adams is working on a new Lights Out Puzzle game for the Coco 3:
+  https://www.facebook.com/groups/colorcomputer/posts/895199885429078/
+
+7) Chronologically Gaming covered a cross platform Adventure game that
+had a contest - Pimania - on the Dragon 32:
+  https://www.youtube.com/watch?v=JElBJ6QwUoE&t=353s
+In the same episode he covered a text adventure game by Rob Shaw (of Tut's
+Tomb & Shock Trooper fame) called Raiders for the Dragon. As far as I know,
+this one never made it to the Coco.
+  https://www.youtube.com/watch?v=JElBJ6QwUoE&t=2586s
+
+Speak your mind! Let us know what you think at:
+==============================================================================
+    feedback at TheCoCoNation.com
+
+Get connected with more of the CoCo, Dragon and MC-10 community here:
+==============================================================================
+    https://thecoconation.com/community/

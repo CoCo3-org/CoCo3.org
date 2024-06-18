@@ -1,0 +1,239 @@
+The Coco Nation News stories for Episode 347, January 20, 2024
+===================================================================
+Collected by L. Curtis Boyle
+
+Special Guests today:
+---------------------
+Henry Gernhardt
+  https://www.youtube.com/@thebreakkey
+
+Interviews schedule:
+--------------------
+- February 3 (NOTE DATE CHANGE) Glen Dahlgren comes back - he has the final
+book in his Chaos series coming out, and possibly some further Coco stuff
+as well.
+  https://mysteriumstoryworks.substack.com/p/want-a-free-copy-of-the-realm-of
+
+
+Upcoming conventions/trade shows of interest to Coco people:
+------------------------------------------------------------
+VCF SoCal: Feb 17-18, 2024 in Orange, California
+Hotel Fera - Events Center
+100 The City Drive, Orange, CA 92868
+  https://vcfsocal.com/index.html
+It should be mentioned that Thomas Cherryhomes will be a speaker at the
+show, going over Fujinet - including the Coco version that is currently
+a work in progress
+
+Interim Computer Festival: March 23-24.
+This is a pre-announcement for a retro computer show in the Pacific
+Northwest Area. Details (specifically where, etc.) will be coming later,
+and registration will open in January.
+  https://sdf.org/icf/
+
+CocoFest: May 4-5, 2024 in Carol Stream, Illinois (near Chicago)
+Holiday Inn & Suites
+  https://www.glensideccc.com/cocofest/
+Table bookings:
+  https://www.tandylist.com/
+
+BoatFest 3: June 14-16, 2024
+Social Event Space
+Hurricane, WV
+ 
+https://www.ticketsource.us/boatfest2024/boatfest-retro-computer-expo-2024/e-raedpb
+
+VCF SouthWest: June 14-16, 2024 (same weekend as BoatFest)
+Davidson-Gundy Alumni Center at University of Texas - Dallas
+Dallas, Texas
+  https://www.vcfsw.org/
+UPDATES:
+Also this year they are doing "Shows within the Show", and one of those
+is a Tandy Assembly meetup:
+  (scroll down on the main page)
+Jeff Wires (the host of Chronologically Gaming) is also one of the speakers
+at VCF-SW this year!
+Speakers list:
+  https://www.vcfsw.org/speakers
+
+Tandy Assembly for 2024 has been announced for Sep 27-29, 2024.
+Courtyard by Marriott Springfield
+Springfield, Ohio
+  http://www.tandyassembly.com/
+
+
+Coco 1/2/3 (and multi-platform)
+-------------------------------
+1) Bob Emery (La Coco Strangiato on YouTube) is doing a live stream while
+we record today - building a custom Coco keyboard:
+  https://www.youtube.com/live/HQS54b91V7Y?si=qiGCQLeGts8f1rDc
+
+2) Frederic (MicroHobbyist on YouTube) has uploaded the part 3 video of
+his building 6309 based computer:
+  https://youtu.be/ofQKpRu238Q?si=DxCxCUsxhdv34vov
+
+3) Coco Town put up a video where he shows how he sped up MAME build times:
+  https://youtu.be/j8xBZYpxRu4?si=xZUtxqNdrBP22nWp
+
+4) For those of you who may have missed my showing of Steve Bjork's OS9
+bouncing ball demo during our memorial episode, Allen Huffman posted a
+video of it on the Coco Facebook group, which started a healthy discussion
+on how to do directly mapped graphics under OS9, and the differences in
+doing so between level 1 and level 2:
+  https://www.facebook.com/watch/?v=1041976246891587
+
+5) Bill Pierce released both a document on how to use the SuperIDE compatible
+driver in VCC, and the dll for itself, in the NitrOS9 page on Facebook:
+HDB DOS ROM upgrade image:
+  https://www.facebook.com/groups/1929079184021683/posts/3556314621298123/
+Instructions:
+  https://www.facebook.com/groups/1929079184021683/posts/3556288964634022/
+
+6) Brenda Make has some photos of a 3D case she is working on that she
+calls a "Coco 5" case, which is kind of a modernized version of the Coco
+3 case, although it won't work with either a Coco 3 motherboard, or the
+Athena board by Pedro Pena. She has more details in the text accompanying
+her post in the NitrOS9 group on Facebook, as well as photos for proposed
+extended keyboards, etc.:
+  https://www.facebook.com/groups/1929079184021683/posts/3554693781460207/
+
+7) Allen Huffman has been busy with posts this week:
+He has put up a bunch of his source code (mostly for the Vic20, but also
+some of his Coco stuff including his all RAM BBS & game project called
+Lights Out for the Coco:
+ 
+https://subethasoftware.com/2024/01/18/my-old-and-new-vic-20-stuff-is-now-on-github/
+He also did 8x8 and 16x16 tank graphics (tile style) demo on Extended BASIC:
+ 
+https://subethasoftware.com/2024/01/16/simple-8x8-tank-on-256x192-screen-in-color-basic/
+He also posted a video of the 8x8 running in the Coco group on Facebook:
+  https://www.facebook.com/groups/2359462640/posts/10161120068647641/
+And just last night an updated based on suggestions from multiple people
+to eliminate the flicker, add tire tracks, add some sound, and so on:
+  https://www.facebook.com/watch?v=1574313010038470
+
+8) Thomas Cherryhomes has made more progress on his Coco part of Fujinet,
+and has released a YouTube Short video update showing that the network
+sub-device is fully implemented and is currently debugging that:
+   https://www.youtube.com/shorts/ayTA0GtqmyY
+
+9) The TRS-80 Trashtalk live podcast is on this evening (earlier than last
+time) at 5:00 pm Eastern:
+  https://www.youtube.com/watch?v=qdYw6schmIo&ab_channel=TRS-80TrashTalk
+
+10) TRS-80 Retro Programing put up two videos this week - one on Coco
+Ultimate (The Essence of Turn-taking), and some questions that he has on
+Coco 3 and emulation:
+  https://youtu.be/fXH--TINEHY?si=FwcfDTelXIT9Ii9C
+The 2nd is a Coco Ultimate walkthrough and Ghost Saga retrospective:
+  https://youtu.be/x6gnSrzFdxo?si=tBXD5UB37yTNJHul
+
+11) RetroMels on YouTube (a Dutch channel) put up a video about digitizing
+Coco tapes... which he is calling "Adventures in Archiving Episode 1". While
+learning how to work with the cassette tapes, he also learned how to use
+his CGP-115 printer:
+  https://youtu.be/B1h3tiWqq6E?si=fMX7_YmzLmh5bDdA
+He also has a website set up that has the archive images he made, including
+the ones that at least partly in Dutch:
+  https://www.retromelsarchive.com/coco.html
+
+12) George Janssen put up lesson 6 of his Coco 3 assembly language
+tutorial, covering simple graphics (a multi-plane scrolling starfield). The
+sourcecode as usual is available in his channel (#assembly-with-georgej
+under PROGRAMMING AND DEVELOPMENT) on the Coco Discord as well, to save
+you typing if you wish:
+  https://youtu.be/nX938ql2y5I?si=7VNutGAeO9SQPJLx
+
+
+MC-10
+-----
+1) John Linville has been blogging about some Unix style assembler binutils
+he is writing to make a new toolchain for developing for the 6801/6803 chips
+(including the MC-10 and Alice):
+ 
+https://mc6801-tools.blogspot.com/2024/01/unix-style-binutils-for-motorola-mc6801.html
+And an expanded tool demo, where he gets more into the linking (those of
+you familiar with RMA in OS-9 level 2 already have experience with tools
+like this):
+  https://mc6801-tools.blogspot.com/2024/01/expanded-tool-demo.html
+
+2) James Host posted a PDF to the MC-10 group on Facebook that has an
+annotated disassembly of the Microcolor BASIC ROM:
+  https://www.facebook.com/groups/731424100317748/posts/6943369675789795/
+
+3) Retro Krazy on YouTube put up a video of his repair/restoration of a
+Dragon 32 - one that he has had around but never touched for 5 years:
+  https://youtu.be/nIG4paT9alc?si=V0F-NOvz4xe3XSYT
+
+
+Dragon 32/64
+------------
+1) Julian Brown is working on an FPGA replacement for the VDG, that sounds
+like he is shooting for similar enhancements as the CocoVGA. He has done
+some progress reports on the Dragon group on Facebook:
+  https://www.facebook.com/groups/dragon32/posts/3628326937426949/
+  https://www.facebook.com/groups/dragon32/posts/3629016237358019/
+
+2) Ismo Utrianen on YouTube shows a weird problem that he has with an Altai
+joystick on his Dragon 32. If any of our viewers/listeners have any ideas,
+please leave him some comments:
+  https://youtu.be/o16gJGRw5tM?si=WpxTmS5542d_F6kl
+
+3) Lovebyte Demoparty on YouTube put up a quick little video demo by ToBach,
+as a teaser of how long until the upcoming Lovebyte 2024 demo show, on a
+Dragon 32:
+  https://youtu.be/rbzvxphFxMs?si=79A-MUDc6PEwFWMg
+
+
+Game On news (all Coco related platforms):
+==========================================
+1) The Wargaming Scribe released a two parter covering Ark Royal games
+Guadal Canal, written by Phil Keller:
+Part 1:
+  https://zeitgame.net/archives/12313
+Part 2:
+  https://zeitgame.net/archives/12462
+The author of this blog reached out to me, and has asked me to ask the
+Coco community if they can help him find some other Coco wargames and
+documentation. The two that he is currently look for are:
+  The Battle of Tunis (needs the manual)
+  Legatus - needs both the game and manual)
+
+2) Allen Huffman put up a video comparing an old game on the Vic-20 he did,
+that he is duplicating on the Coco 1/2 using GET/PUT graphics instead of
+the Vic-20's reprogrammable text character set (Note, Allen shows a low
+res text version video clip on the Coco in the comments):
+  https://www.facebook.com/groups/2359462640/posts/10161114625182641/
+
+3) Jim Gerrie has converted a few more MC-10 games this past week:
+Eights originally by Mike Costello in the August 1982 issue of Practical
+Computing magazine. The original article was more on the AI routines
+themselves, so Jim added to the code to make a functional Crazy Eights game:
+  https://youtu.be/zRjV5vq5mZM?si=GFTgLcoWZ2glcwr0
+He also ported Snertle (and educational game) from the May 1984 issue of
+Compute! magazine... and education game for both the Coco and the MC-10:
+  https://youtu.be/J8FHjXbldj8?si=EgP1BCOdR0dM2tun
+
+4) XperTek does another of his Coco 1/2 games played on real hardware
+on his amber monitor. This time around he covers one of the Coco's TRON
+clones, Kron:
+  https://youtu.be/kcZjmuIAaDw?si=jVJXZ6ewswT9nswv
+
+5) Chronologically Gaming covered another Coco game game - VC by Britt
+Monk and Avalon Hill (along with several other versions of VC):
+  https://www.youtube.com/watch?v=GSXoRIWRYQI&t=2919s
+And Robot Bomber:
+  https://www.youtube.com/watch?v=K_j-rDls_p0&t=3037s
+
+6) PatmanQC on YouTube put out their History of Rampage video - which
+covers the history of the famous game, it's sequels, and it's ports to
+various home consoles and home computers... including the Coco 3 (@31:38):
+  https://youtu.be/MRelJj-1MWc?si=iUPLX2mb3SOoGfq8
+
+Speak your mind! Let us know what you think at:
+==============================================================================
+    feedback at TheCoCoNation.com
+
+Get connected with more of the CoCo, Dragon and MC-10 community here:
+==============================================================================
+    https://thecoconation.com/community/

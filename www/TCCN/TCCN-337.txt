@@ -1,0 +1,166 @@
+The Coco Nation News stories for Episode 337, November 4, 2023
+===================================================================
+Collected by L. Curtis Boyle
+
+- The interview with Doug Masten (author of The Contras) with co-interviewee
+Glen Dahlgren of Sundogs Systems that was originally going to happen
+on August 19 is being postponed, due to a fairly major surgery. We are
+shooting for around October/November depending on doctor's orders.
+
+Upcoming conventions/trade shows of interest to Coco people:
+------------------------------------------------------------
+VCF SoCal: Feb 17-18, 2024 in Orange, California
+Hotel Fera - Events Center
+100 The City Drive, Orange, CA 92868
+  https://vcfsocal.com/index.html
+
+CocoFest: May 4-5, 2024 in Carol Stream, Illinois (near Chicago)
+Holiday Inn & Suites
+  https://www.glensideccc.com/cocofest/
+
+BoatFest 3: June 14-16, 2024
+Social Event Space
+Hurricane, WV
+ 
+https://www.ticketsource.us/boatfest2024/boatfest-retro-computer-expo-2024/e-raedpb
+
+
+Coco 1/2/3 (and multi-platform)
+-------------------------------
+1) I missed this last week (I had it mentioned in my notes but since there
+is not website I accidentally skipped over it: The original authors of
+the newsletter "TRS-80 Computing" (renamed Color Computing for the last 2
+official issues) and published from June 1987 until October of 1991), Joe
+Ahern and David McNally have showed up recently in the Coco community again,
+and have uploaded all issues of their magazine - including a previously
+unreleased, unfinished version of what was to be the final issue in February
+of 1992. They started this newsletter when they were only in grade 8 (!),
+and it was originally only sold to friends and relatives and a few teachers
+at their middle school. It ended as they were getting close to finishing
+high school. Some issues are on the Color Computer Archive already, and
+now the remainder will be uploaded:
+  (I have all of them downloaded to take a look at it in the Coco Nation
+  11-04 folder).
+
+2) Iain Lee published a column in the UK based Retro Gamer magazine about
+the Coco and The Coco Show specifically in their retrorader column:
+  (Downloaded to take a look at it in the Coco Nation 11-04 folder).
+
+3) Bob Emery (La Coco Strangiato on YouTube) put up a video about modern
+cassette alternatives and how well they work with the Coco:
+  https://youtu.be/rLCOD-pIoJE?si=_LEq2ebwZm90ZgLd
+
+4) TRS-80 Retro Programming put up a video showing a Geometric graphing
+tool in BASIC that he is working on:
+  https://youtu.be/T5JatIYrsVc?si=Ok1bq0uvgfbqTp8f
+
+5) Coco Town has Game Revolutions Part 5: Self Modifying Code on YouTube
+now. This to push the speed up of his Moon Patrol clone even faster than
+his earlier straight stack blasting. And then he lets us know that his
+next few videos will be about MAME - since he found a bug in it:
+  https://youtu.be/APpR1Ls7e0M?si=P823b-ChJYYkcKq0
+
+6) DragonPyEmulator 0.9.1 was released yesterday. This is a Dragon 32/64 and
+Coco 1/2/2b emulator written entirely in Python (3.x or PyPy). The author
+mentions that it is not meant to be a 2nd XRoar, but more for learning. The
+current version runs the Dragons/Coco's in text mode, as well as "single
+board computer" ROM's sbc09, Simple6809 and Multicomp6809. It also includes
+a "rudimentary" BASIC editor:
+  https://pypi.org/project/DragonPyEmulator/0.9.1/
+
+7) The Digicool Things webpage has an update to a "minimalist Europe
+Card Bus (MECB)" computer. The author had asked for a recommnedation
+for a BASIC to port to it, and after finding an article by Grant Searle,
+he chose Extended BASIC from the Coco as a base:
+ 
+https://digicoolthings.com/minimalist-europe-card-bus-mecb-some-6809-basic-fun/
+
+8) Mr. Dave6309 put up a video on his YouTube channel showing his further
+progress in making some optimized graphics routines for Coco 3 BASIC:
+  https://youtu.be/0lrX1NylZjE
+
+MC-10
+-----
+1)
+
+
+Dragon 32/64
+------------
+1) Richard Harding posted his interview with Brian Moore - the 2nd Managing
+Director for Dragon Data:
+  http://dragondata.co.uk/history/Gallery/brian_moore/brian_moore.html
+
+2) Julian Brown has an update on his reproduction / enhanced motherboard
+for the Dragon 32, as he fills his latest enhanced version with parts as
+they arrive (currently revision 3 with no RAM or ROM but powers up):
+  https://www.facebook.com/groups/dragon32/posts/3581223812137262/
+
+
+
+Game On news (all Coco related platforms):
+==========================================
+1) Jim Gerrie ported "Electron" by Frank O'Connor, a type-in game for the
+TI-99/4A from Home Computing Weekly Sept 13, 1983, to the MC-10:
+  https://youtu.be/uF0X1uHfMCw?si=aAJcDqhTpHYUazri
+He also ported "Watchman" originally by Scott Davidson (based on the
+original version by Mac Oglesby from way back in February of 1975) from
+Creative Computing May/June 1978:
+  https://youtu.be/ecbt_Pcb8CI?si=_kjAAOTxcLMvd-r8
+He also did Penguino - a clone of Pango from the IBM PC with CGA - itself
+a clone of the arcade Pengo. Jim did this one for the Retrospectiva BASIC
+game contest back in 2012:
+  https://youtu.be/7vdgmHB3BMk?si=vtjSFI36J6o-GUG4
+He also did a long play-through of his port to the MC-10 of Lance Micklus'
+original Star Trek III from 1978 (in 3 parts - totaling almost an hour!). And
+he blogged about the port:
+Blog post:
+ 
+https://jimgerrie.blogspot.com/2023/11/star-trek-iii-by-lance-micklus-1978.html
+Playthrough in 3 parts
+  https://youtu.be/gPRsE94syDY?si=MQQTc-AZiyehFUWg
+  https://youtu.be/0D7Wvy0PCKU?si=vZiqoioTWPVYL2Cl
+  https://youtu.be/H10M0vFhSrg?si=yL8bWldQFCJlGs8p
+
+2) Retro Magazine World published an article on The Water of Life - A
+BASIC Dragon 32/64 graphics game originally published Abacus in November
+of 1982. Since it is in Extended BASIC, the ASCII source code should work
+on a 32K Extended BASIC Coco 1/2 as well.
+Original article in Italian with listing:
+  https://www.retromagazine.net/the-water-of-life-dragon-32-64-basic/
+Google translate of article to English (note: the listing gets corrupted
+here, at least in my browser):
+ 
+https://www-retromagazine-net.translate.goog/the-water-of-life-dragon-32-64-basic/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
+
+3) Ken of Canadian Retro Things (gee... who's he?) did a comparison of Moon
+Patrol ports on 3... errr, 4 platforms - 2 official licensed versions and
+2 clones. Which one wins, and why?
+  https://youtu.be/94IKEf1Y8S4?si=gJfrU0Zx28O5IQrb
+
+4) Richard Kelly has released (we are a little late, sorry) a DSK image
+in the Coco group on Facebook with Halloween themed games - both his own
+and some others from T&D:
+  https://www.facebook.com/groups/2359462640/posts/10161003234917641/
+
+5) Games that Weren't got more information from Simon Hardy for 3 more
+games that didn't get to a release on the Dragon:
+AcePak Software - Drawcaster Australian Pools & Drawcaster British Pools:
+  https://www.gamesthatwerent.com/2023/11/acepak-software-titles/
+Cable Software - "Eager Edna" - multi-screen game for Dragon 32 written in
+ML in late 1984 - had a news snippet in Dragon User December 1984, and was
+shown off at the 6809 Show... but then cancelled due to "technical issues".
+  https://www.gamesthatwerent.com/2023/11/eager-edna/
+Quickbeam Software - a clone of Uridium (itself a C64 game) that was
+announced in their catalog in March 1987, and may have been shown at a
+6809 event in 1988. Reportedly cancelled due to the shrinking market for
+the Dragon, and developer Dave Gibbons decide to work on 16 bit platforms
+instead.
+  https://www.gamesthatwerent.com/2023/11/metal-on-metal/
+
+6) Chronologically Gaming covered "Across the Rubicon" from Ark Royal
+Games for the Coco:
+  https://www.youtube.com/watch?v=CgNIOkkGTQc&t=1443s
+
+Get connected with more of the CoCo, Dragon and MC-10 community here:
+=======================================
+https://thecoconation.com/community/

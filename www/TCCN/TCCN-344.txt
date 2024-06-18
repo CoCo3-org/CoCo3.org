@@ -1,0 +1,349 @@
+The Coco Nation News stories for Episode 344, December 30, 2023
+===================================================================
+Collected by L. Curtis Boyle
+
+Special Guests today:
+---------------------
+Steve Bjork tribute/memorial - many guests.
+
+Interviews schedule:
+--------------------
+- January 6 we have a double interview with Doug Masten
+& Glen Dahlgren, covering the Coco 3 game The Contras.
+http://www.lcurtisboyle.com/nitros9/contras.html
+
+- January 20 Henry Gernhardt of "The Break Key" YouTube channel.
+
+- January 27 (NOTE DATE CHANGE) Glen Dahlgren comes back - he has the final
+book in his Chaos series coming out, and possibly some further Coco stuff
+as well.
+ 
+https://mysteriumstoryworks.substack.com/p/want-a-free-copy-of-the-realm-of?r=2hpgl3&utm_campaign=post&utm_medium=web
+
+
+Upcoming conventions/trade shows of interest to Coco people:
+------------------------------------------------------------
+VCF SoCal: Feb 17-18, 2024 in Orange, California
+Hotel Fera - Events Center
+100 The City Drive, Orange, CA 92868
+  https://vcfsocal.com/index.html
+
+Interim Computer Festival: March 23-24.
+This is a pre-announcement for a retro computer show in the Pacific
+Northwest Area. Details (specifically where, etc.) will be coming later,
+and registration will open in January.
+  https://sdf.org/icf/
+
+CocoFest: May 4-5, 2024 in Carol Stream, Illinois (near Chicago)
+Holiday Inn & Suites
+  https://www.glensideccc.com/cocofest/
+
+BoatFest 3: June 14-16, 2024
+Social Event Space
+Hurricane, WV
+ 
+https://www.ticketsource.us/boatfest2024/boatfest-retro-computer-expo-2024/e-raedpb
+
+VCF SouthWest: June 14-16, 2024 (same weekend as BoatFest, and usually
+has a lot of Tandy people hanging out since that is Tandy's hometown).
+Davidson-Gundy Alumni Center at University of Texas - Dallas
+Dallas, Texas
+  https://www.vcfsw.org/
+
+
+Coco 1/2/3 (and multi-platform)
+-------------------------------
+1) Frederic (MicroHobbyist on YouTube0 has produced his intro video to
+his building a 6309 based homebrew computer:
+  https://youtu.be/3rKa7duKRMw?si=dNnFM_H95u3oDRSA
+
+2) The Color Computer Archive has updated it's Coco SDC image (update #7)
+that should have all of the disk images up to 12-17-2023, including new
+releases, bug fixed and/or enhanced releases, and older missing images. To
+see what has been added since update #6 came out on March 20, 2022, you
+can read the 'changes.txt' file:
+  https://colorcomputerarchive.com/repo/Disks/Coco%20SDC/Image/changes.txt
+
+3) Thomas Cherryhomes has a new, longer video (7.5 minutes) to show his
+updates to his Fujinet port to the Coco:
+  https://youtu.be/3k3tOeHnAzs?si=IOvzP10xd3fjVrYk
+
+4) Rocky Hill on YouTube (aka Pedro) put up a video showing his testing
+of the SAM (6883) replacement daughterboard that Ciaran Anscomb designed
+(the SAMx4) (with some mods to make it smaller), trying it in Coco's with
+both the regular VDG and the T1 VDG, and low RAM Coco 1's (where there is
+initially some problems that Ciaran had to adjust his programming):
+  https://youtu.be/B1HclYtiCfirefox1M?si=aR-3hys2x09mQW6h
+And Ciaran followed up with said changes, which he posted about in the
+Dragon Facebook group (for his own design) and Pedro has those now as well:
+  https://www.facebook.com/groups/dragon32/posts/3610169745909335/
+(And he squeezed a bit more onto the CPLD, as evidence by the 2nd little
+demo he put in the comments)
+
+5) The Coco Crew dropped another intermittent episode - #98 - into your
+podcast feeds and their YouTube channel. They had 3 main discussions -
+one was wondering about Steve Bjork, one on whether anyone was waiting
+for the GIME-X, and what has been filling their Coco time since they last
+published an episode:
+  http://cococrew.org/
+
+6) TRS-80 Retro Programing on YouTube goes further into his saving a game
+in progress on cassette - and then goes through an adventure of changing
+variable names beyond 2 characters to make them more descriptive - but
+hits the issue of picking ones that are (or are part of) reserved keywords:
+  https://youtu.be/fR1ZGI3FK7k?si=43Eq1EwxPes7qtBX
+
+7) Allen Huffman has a blog post comparing Carl England's CRUNCH vs. Alex
+Evan's PACK utilities for crunching BASIC programs:
+ 
+https://subethasoftware.com/2023/04/11/carl-englands-crunch-versus-alex-evans-pack/
+He also did part 2 of his working on an entry for the Logiker 2023 Vintage
+Computing Christmas Challenge:
+ 
+https://subethasoftware.com/2023/12/22/tackling-the-logiker-2023-vintage-computing-christmas-challenge-part-2/
+And part 3:
+ 
+https://subethasoftware.com/2023/12/28/tackling-the-logiker-2023-vintage-computing-christmas-challenge-part-3/
+Allen also released multiple videos of some music done with Musica 2, running
+from the program itself, as well as a 1986 Doctor Who Logo/theme demo):
+  https://www.youtube.com/@subethasoftware/videos
+On the Coco Facebook group, he also found and ran H. Allen Curtis' Coco
+Cat Dancing (from May 1987 Rainbow) coco 3 demo:
+  https://www.facebook.com/groups/2359462640/posts/10161093339992641/
+And a 5 line BASIC bouncing ball demo that I remember seeing back in the day:
+  https://www.facebook.com/groups/2359462640/posts/10161093462197641/
+And a palette animated spinning pinwheel:
+  https://www.facebook.com/groups/2359462640/posts/10161093343847641/
+
+8) Henry over at "The Break Key" on YouTube released part 2 of 2 for
+building a D-Pad for the Coco from scratch:
+  https://youtu.be/sj8NzOh-D2k?si=22xKB_mFwkqTJj1A
+He also started a new series - making his own custom ROM:
+  https://youtu.be/CfuquLinn8Y
+
+9) Primal-Bits on YouTube finally acquired a Coco 1 - and made a video
+about it:
+  https://youtu.be/S-CNovrhljs?si=EwxcJVIE8GdgFi89
+
+10) Simon Jonassen put up a new video update of his online PMEdit -
+showing stroked circle updates with selectable colors:
+  https://www.facebook.com/groups/2359462640/posts/10161084453592641/
+And another update showing the the Floodfill function is now also working:
+  https://www.facebook.com/groups/2359462640/posts/10161087409157641/
+
+11) Joel Ewy posted an update about his adventures with his MM/1 (which
+he recently got working with the Blue SCSI SD card adaptor), including
+the results of recompiling C with new C compilers than the Microware one
+shipped with it, which increases the speed of the programs:
+  https://www.facebook.com/groups/3194643584094250/posts/4352864304938833/
+This was a followup to his experimenting with wait state settings - which
+had far less effect on speed:
+  https://www.facebook.com/groups/3194643584094250/posts/4350070285218235/
+
+12) Coco Town on YouTube released the sourcecode (and explains it) showing
+how to get multiple color sets on the screen at once, including the precise
+timing in the DragonFire cartridge by Imagic:
+  https://youtu.be/ANJiLoU0zxQ?si=fLJ5hZ04q_PjMaHo
+
+13) George Janssen (GBJannsen 6809 on YouTube) has released his next
+assembly language tutorial for the Coco 3 (and sourcecode in his channel
+on the Coco Discord), this time dealing with display graphic images,
+including using Paul Fiscarelli's CocoSC Sprite Compiler - but using it
+for images rather than it's sprite capability:
+  https://youtu.be/oTUG96iPEdc?si=knX5DwkVI2XYIGes
+
+14) Bob Emery (La Coco Strangiato on YouTube) did a live stream this past
+week doing: Deluxe Joystick rejuvenation, a Coco 2 Composite video upgrade,
+and his first mailbag in an episode!
+  https://www.youtube.com/live/B7nGUc_4fPs?si=jkRf3_wWP1I1bt0A
+
+15) Of course, some Christmas content is going to be late (since we took
+Christmas off for the show), but Verne's Misadventure's on YouTube posted
+"The Story of the First Christmas" originally by Dennis L. Wood (CocoMax
+graphics) and Tom Bedwell (music):
+  https://youtu.be/fCHnQGze53c?si=OW3pK5rAV24hUlvi
+
+16) Another Christmas themed one was some screenshots from Christmas themed
+Coco 3 pictures:
+  https://www.facebook.com/groups/2359462640/posts/10161085838042641/
+
+17) And another - Simon reposted his Rotozoom Santa Coco 3 demo - with 4
+Christmas tunes:
+  https://www.facebook.com/groups/2359462640/posts/10161085830267641/
+(The DSK image is uploaded to the Files section of the Coco Facebook group)
+
+18) Retro Tech Repair on YouTube put up a video about fixing the yellow
+bar video problem on a Coco 2:
+  https://youtu.be/D5zfXdDU0-8?si=iDMIWgwnJrY9_p1c
+
+19) Joel Ewy put up an OpenSCAD source file to make a removable front
+panel bezel to access the SD card in a BlueSCSI (that we showed recently
+mounted in his MM/1):
+  https://www.facebook.com/groups/3194643584094250/posts/4357430744482189/
+
+
+MC-10
+-----
+1) Jim Gerrie did a quick video exploring where the MC-10 stands regarding
+a Microsoft BASIC bug (see his youtube video description), inspired by
+Robin of 8-Bit Show and Tell channel exploring it on other platforms:
+  https://youtu.be/u3J4oFUHgqk?si=A6RlJ2DRP3icPnGu
+While we are getting to it late, Jim also released a snowfall Christmas
+program for the MC-10 as an entry for an BASIC coding contest on Facebook:
+  https://youtu.be/9LBoOn7rMyY?si=7-eWxoERi-_3tnuj
+He also ported a simple random melody composer program, originally written
+in BASIC way back in 1972 from Dymax. Jim added the ability to actually
+play the composition as well:
+  https://youtu.be/lVGv_PF-2Hw?si=oxax3T10qscoVzJV
+
+2) Greg Hamilton started working on some animations for an MC-10 game that
+he is working on, and put up screenshots and a video to show his progress
+so far:
+  https://www.facebook.com/groups/731424100317748/posts/6872107659582664/
+
+
+Dragon 32/64
+------------
+1) Phil Harvey-Smith posted some photos of his Dragon with the dragonpicoVGA
+installed in the Dragon Facebook group:
+  https://www.facebook.com/groups/dragon32/posts/3610507372542239/
+
+2) Richard Harding (Dragon historian) posted in the Dragon facebook group
+some photos and drawings about the Dragon Professional:
+  https://www.facebook.com/groups/dragon32/posts/3610375779222065/
+
+3) Tom Erik Gundnersen posted a small photo of something I don't recall
+seeing before: a Dragon sold in Finland but rebranded as the "Finlux Dragon":
+ 
+https://www.facebook.com/photo.php?fbid=10161463235257146&set=p.10161463235257146&type=3
+
+4) Spanish YouTube channel Manuel Cuenca (MMChip) did a 12 minute Dragon
+32 repair video:
+  https://youtu.be/f6Lmylsc6gQ?si=793QduvyIyGrWizG
+
+5) John Whitworth of DragonPlus Electronics has added an iBOM for the Dragon
+PSU (Power Supply Unit). If I understand this, iBOM is an "interactive
+Bill of Materials" that helps people constructing these boards keep track
+of what parts they need and which they have installed? At any rate, John
+is planning to expand iBOM's to some of his other products as well:
+  https://www.facebook.com/groups/dragon32/posts/3615028068756836/
+
+6) Speaking of the Dragon PSU... Phil Harvey Smith on the Dragon Facebook
+groups has posted FreeCAD source files to 3D print the bracket and box
+for the modern PSU:
+  https://www.facebook.com/groups/dragon32/posts/3615027692090207/
+
+7) Tony Jewell posted a link to an old RetroWiki thread (from 2011) that
+goes into some history of Eurohard (who took over the Dragon after Dragon
+Data went into receivership). The thread even contains some photos of the
+Dragon Alpha - including the insides (the link does a Google Translate
+from Spanish to England):
+ 
+https://retrowiki-es.translate.goog/viewtopic.php?f=10&t=100041508&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
+
+
+Game On news (all Coco related platforms):
+==========================================
+1) Tim & AJ over at the "My Drunk Sibling" Youtube channel posted episode
+114 of Sibling Rivalry, this time playing Panzer on the Coco - A cool T&D
+2 player game:
+  https://youtu.be/XYPZ6QOppQU?si=KzTciKl1RHv4v6Kc
+
+2) Jim Gerrie has been VERY busy these last two weeks. He released "The
+Night of the Vampire Bunnies" text adventure game, originally written by
+Jason Dyer in the 1980's for PC BASIC (for the All Text Adventures Blog
+project), to the MC-10:
+  https://youtu.be/VjGFEY5fwPA?si=8QOvZ5aWmorC7_Zz
+He also released "Journey to the Center of the Earth", originally by Greg
+Hassett in 1978. Jim added his own graphic title screen:
+  https://youtu.be/0HsNIbu08ns?si=tDWo9mhJ3jR47F1x
+Also The Treasure of Elgon Adventure, originally by Keith Hawthorn in the
+1980's (also on the VZ200/300, ZX Spectrum and the Microbee):
+  https://youtu.be/k5kOdco4nuM?si=5DQb6KqhMH_pRz9n
+Interactive Fiction Database entry. It says that it is one of the saner
+text adventures of this era:
+  https://ifdb.org/viewgame?id=l1ysxrwi3tfe3kla
+And he release "The High Mountains" originally by Paul Braithwaite in
+1984 on the ZX Spectrum Personal Computer News magazine #79. This is a
+multi-player text adventure loosely based on John Christopher's Tripods
+trilogy. Jim added a graphics intro screen, and it should be noted that
+the almost 15 minute video is a _complete_ walkthrough:
+  https://youtu.be/-INmGI-3J-c?si=WIS8FvdPQHf-FLeH
+Also, along with help from his son Charlie, Jim has improved the algorithm
+for his port of "O-jello" (an othello clone) to play much more intelligently
+and is more challenging for the human player. Still fits in 4K!
+  https://youtu.be/3vrAX8olYl8?si=oO_TNVjYU6YYNl1N
+His blogpost (see the Addendum part way down for the updates):
+  https://jimgerrie.blogspot.com/2023/11/o-jello-by-clyde-perkins-1980.html
+He also ported New York New York from the Coco/Dragon (originally by Hal
+Renko & Sam Edwards in their book "Terrific Games for Your Tandy Color"
+to the MC-10:
+  https://youtu.be/PaBdP4F9FZc?si=SWn7YnZiSsAB-o43
+David Mitchell's video showing the original Coco version with his added
+title screen:
+  https://youtu.be/RvkwuCje3NM?si=YCN-iw2NWTs_hRPq
+(Original Coco/Dragon code can be found here:)
+ 
+https://github.com/daftspaniel/RetroCornerRedux/tree/main/Tandy/CoCo/Type-In/NewYorkNewYork
+He also updated his Chess C4 program, modifying the SG-4 graphics to make
+the pieces more distinguishable:
+  https://youtu.be/FYWbvwRHXNw?si=ZrsNFG13RHY4YJc8
+
+3) ARCADE GAMES on YouTube put up a video of 50 "Super" games on the TRS-80
+Color Computer. Unfortunately they just show them, and don't even provide
+the titles. And it's obvious that they don't know how to play some of them,
+or which artifact color set to use. It does include a few recent releases
+(like Camel by Paul Shoemaker):
+  https://youtu.be/8Ew0dfsvQPk?si=gTXbGQQW3VURyTIW
+The also did a 25 Super Games for the Dragon 32 (unfortunately no titles,
+just like their earlier Coco video):
+  https://youtu.be/A66JjcEogRA?si=BRc57C1FC6qQ2ie3
+
+4) Nostalgiavault on YouTube posted a video showing Glen Hewlett's PacMan
+transcode on the Coco 3:
+  https://youtu.be/cyfTc2dJ0vM?si=Xupo9FacH8UtewhV
+He also did a quick video of Cookie Monster Letter Crunch:
+  https://youtu.be/EFQC5y3uqFE?si=hLhJq_8xMzYyLoPK
+
+5) James Diffendaffer has an update to the graphical Chess game that is
+doing for the MC-10:
+  https://youtu.be/EOigSvKbRXM?si=kcs_HyS6QXTLU2c7
+
+6) BeSWITCHed on YouTube did a quick game ranking of the 7 Computer Shack
+(later Michtron) games for the Dragon 32:
+NOTE: THIS VIDEO WAS REMOVED BY SHOWTIME!
+-----------------------------------------
+  https://youtu.be/ec8XPKdL4Xo?si=YalOQO32BX4Ycg0-
+
+7) A couple of YouTubers are attempting high score runs for the Dragon 32
+Grid Runner port:
+ZXFrankie:
+  https://youtu.be/vGwDYtW6R9A?si=UKeZGm7_ofwUOdxG
+TGP Highscore Runs:
+  https://youtu.be/I9Z6TluAevE?si=8d5zFmmYJ_Hl0A4m
+
+8) Matt Darr on the Coco Facebook group posted a small game he wrote using
+low res graphics (he is currently going through the BASIC manuals), and
+then updated it to version 2 with more color, which is what I will show here:
+  https://www.facebook.com/groups/2359462640/posts/10161094017132641/
+He also did a very simple Minefield game:
+  https://www.facebook.com/groups/2359462640/posts/10161087097592641/
+
+9) Richard Kelly posted a new 4K puzzle game he calls "Fussy Switches" to
+the Coco Facebook group. He explains the rules in the post, and mentions
+that it is a redo of the game "Grumps" that originally appeared in T&D
+Software #81 (screenshots in the comments):
+  https://www.facebook.com/groups/2359462640/posts/10161091179182641/
+
+10) Michael Kline posted a short video showing the win screen for Shanghai
+by Rick Adams (the official Tandy version), for those who have not seen it:
+  https://www.facebook.com/groups/2359462640/posts/10161085285712641/
+
+11) John Whitworth posted a Dragon VDK image that contains Fox & Hound
+from the August 1983 issue of C&VG magazine. I think this is a game?
+  https://www.facebook.com/groups/dragon32/posts/3613882905538019/
+
+
+Get connected with more of the CoCo, Dragon and MC-10 community here:
+=======================================
+https://thecoconation.com/community/

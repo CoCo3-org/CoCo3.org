@@ -1,0 +1,206 @@
+The Coco Nation News stories for Episode 345, January 6, 2024
+===================================================================
+Collected by L. Curtis Boyle
+
+Special Guests today:
+---------------------
+Doug Masten, original author of The Contras
+Glen Dahlgren, owner of Sundog Systems, is our guest co-interviewer
+
+Interviews schedule:
+--------------------
+- January 20 Henry Gernhardt of "The Break Key" YouTube channel.
+
+- February 3rd (NOTE DATE CHANGE) Glen Dahlgren comes back - he has the final
+book in his Chaos series coming out, and possibly some further Coco stuff
+as well.
+ 
+https://mysteriumstoryworks.substack.com/p/want-a-free-copy-of-the-realm-of?r=2hpgl3&utm_campaign=post&utm_medium=web
+
+
+Upcoming conventions/trade shows of interest to Coco people:
+------------------------------------------------------------
+Virtual CoCoFEST!: Jan 27
+Contact Mark Overholser / CoCoTECH on Facebook, the CoCo Discord, or
+via e-mail to cocotech at thecoconation.com for information or to present!
+
+VCF SoCal: Feb 17-18, 2024 in Orange, California
+Hotel Fera - Events Center
+100 The City Drive, Orange, CA 92868
+  https://vcfsocal.com/index.html
+
+Interim Computer Festival: March 23-24.
+This is a pre-announcement for a retro computer show in the Pacific
+Northwest Area. Details (specifically where, etc.) will be coming later,
+and registration will open in January.
+  https://sdf.org/icf/
+
+CocoFest: May 4-5, 2024 in Carol Stream, Illinois (near Chicago)
+Holiday Inn & Suites
+  https://www.glensideccc.com/cocofest/
+Table bookings:
+  https://www.tandylist.com/
+
+BoatFest 3: June 14-16, 2024
+Social Event Space
+Hurricane, WV
+ 
+https://www.ticketsource.us/boatfest2024/boatfest-retro-computer-expo-2024/e-raedpb
+
+VCF SouthWest: June 14-16, 2024 (same weekend as BoatFest, and usually
+has a lot of Tandy people hanging out since that is Tandy's hometown).
+Davidson-Gundy Alumni Center at University of Texas - Dallas
+Dallas, Texas
+  https://www.vcfsw.org/
+
+
+Coco 1/2/3 (and multi-platform)
+-------------------------------
+1) RichN in the Coco Discord channel general-game-posts posted a couple
+of videos showing a Spy Hunter clone for the Coco 1/2 that he is working on.
+He also now has a site set up for his Spy Hunter Coco project, including
+sections on coding, references, MAME, etc.:
+  https://sites.google.com/view/spyhuntercoco/home
+
+2) TRS-80 Retro Programing released a video of Coco 1 graphics screen
+animation that does not use PCLS/GET/PUT/PCOPY/PSET or PRESET commands,
+but DRAW statements:
+  https://youtu.be/NpoUYutJZIU?si=NunA14NfpHdTTMLX
+
+3) George Janssen has posted the next episode of his Coco 3 Assembly
+language series - this time covering more about the MMU including moving
+code itself to other blocks. As usual, he has his sample sourcecode also
+uploaded to his channel on the Coco Discord:
+  https://youtu.be/3Q1dT7tVNyg?si=fdbr1Tj_aqJ3T2QW
+
+4) Frederic (MicroHobbyist on YouTube) has uploaded his 2nd video for his
+6309 project:
+  https://youtu.be/0A40UXcJqhk?si=x6x7tDieegmZd0MJ
+
+5) Retro Tech Repair has a follow up video to last weeks "yellow bar fix"
+video - did an aging resistor make his Coco 2 fail?
+  https://youtu.be/zAJh4tDcrCw?si=fGp91dH3vlnAN2xR
+
+6) YouTube channel "I Didn't Buy These" put up a video about the 128K Coco
+3 he got in mint condition - unused and never plugged in as far as he can
+tell. He has already sold it somebody who had a Coco when they were younger
+(the YouTuber himself was not that familiar with the Coco):
+  https://youtu.be/GsqjL3LD5y8?si=My8qc6KvgCb8Jp12
+
+7) Primal-Bits on YouTube did a follow up to his previous video where got
+a Coco 1 - now he adds data storage via a cassette recorder:
+  https://youtu.be/ABv2ry5RWU8?si=ke5CfEUKO4dKfMke
+
+8) Tony Licari posted photos of a hardware package that was made and sold
+in Australia, called Coco Connection:
+  https://www.facebook.com/groups/2359462640/posts/10161099372477641/
+
+9) Keith Christensen posted a video to his YouTube channel showing some
+video/industrial graphics and animations he did back in 1987 (for a Coco
+1/2). It lasts over 5 minutes... and would make a cool screensaver:
+  https://youtu.be/paPwCq7E4og?si=jS-oNkSAmpUeeG2m
+
+10) Thomas Cherryhomes has another update to his Fujinet port to the Coco -
+in particular how the weather app is going to display:
+  https://www.facebook.com/groups/2359462640/posts/10161096823467641/
+
+11) Allen Huffman has posted part 4 of his entry for the Logiker 2023
+Vintage Computing Christmas challenge:
+ 
+https://subethasoftware.com/2024/01/02/tackling-the-logiker-2023-vintage-computing-christmas-challenge-part-4/
+  He also did a quick blog pos on loading get/put buffers from data
+  statements... by POKEing values into the array using VARPTR instead of
+  GETting it from something drawn on the screen:
+  https://subethasoftware.com/2024/01/03/extended-color-basic-put-from-data/
+
+12) Another homebrew 6309 computer project has an update this week: Dave
+Collins posted an update on hackaday.io for his HB63C09M - Mini ITX 63C09
+form factor computer: He has ordered a new set of boards from PCB Way for
+testing, and goes into some details:
+ 
+https://hackaday.io/project/193108-hb63c09m-mini-itx-63c09-form-factor-computer/log/226454-rev3-prototype-chipset-overview
+
+
+MC-10
+-----
+1) Ruben Aparicio posted in the MC-10 group on Facebook that he has done
+a ROM swap for an Alice 32 (that duplicates what he did with an Alice 4K)
+to internationalize the keyboard:
+  https://www.facebook.com/groups/731424100317748/posts/6885973278196102/
+
+
+Dragon 32/64
+------------
+1) John Whitworth has put up a 3.5 minute video update for the SuperBoB
+board that he posted in the Dragon group on Facebook:
+  https://www.facebook.com/groups/dragon32/posts/3617197405206569/
+
+2) Ciaran has some updates to his SAMx4 project (version 1.21 now), including
+the build system being updated to handle multiple variants, including
+Pedro's PCB shrink, and "includes extra variants you can build "for fun"
+that sacrifice some ram size functions for extra video offset registers":
+  https://www.6809.org.uk/dragon/samx4/
+Ciaran has mentioned that the additions are more experimental and may not
+stay in, but for those curious, these are the current additions:
+CPLD: add optional variants with scrolling registers
+    $FF3A - clear X offset register (Xoff, 5-bit)
+    $FF3B - clear video base (F register, now 11-bit)
+    $FF3C - left shift 0 into Xoff
+    $FF3D - left shift 1 into Xoff
+    $FF3E - left shift 0 into F
+    $FF3F - left shift 1 into F
+    Xoff added to lower VRAM address bits.
+Basically you can configure video base address to any multiple of 32, then
+an x offset is added to the lowest 5 bits of the video address whatever
+it’s calculated to be.
+
+
+Game On news (all Coco related platforms):
+==========================================
+1) Jim Gerrie ported "Dungeon" by Brian Sawyer, originally done in 1979 on
+the Commodore PET as a "Rogue-like". He even fixed a feature of the original
+that wasn't fully implemented (details in YouTube video description):
+  https://youtu.be/XV0xS03RGRg?si=of8NaEipecBDY5fk
+And his blogpost about his Dungeon port (and the bugfix):
+  https://jimgerrie.blogspot.com/2024/01/dungeon-by-brian-sawyer-1979.html
+He also ported "Othello" originally by Richard O. Duda in the October 1977
+issue of BYTE magazine:
+  https://youtu.be/_QAiqI_xkjA?si=dcLCuSqKFyE5KWTc
+
+2) The Amigos have put up a video explaining their new reorganization of
+their Patreon system for a variety of their shows (Atari St, Spectrum and
+ARG Presents as well as The Coco Show):
+  https://youtu.be/L4F5fzPtfQY?si=xTGbIhdp0U9dBhMI
+
+3) Although he hit it a little early from my research (lumping it into
+September 1982 while it's first ad was December 1992 - although I don't know
+how much lead time Rainbow had back then between cover date and available
+on shelves), Chronologically Gaming covering Donkey King this past week:
+  https://www.youtube.com/watch?v=yHbrJavMrwg&t=2911s
+He also covered a Chromasette (tape magnazine) ML game called Germ Warfare:
+  https://www.youtube.com/watch?v=4VW0kmgJ0OA&t=2327s
+
+4) Brian Palmer has typed in another Australian Coco magazine game -
+Terminator 2 text adventure by Dennis Mellican - and uploaded it to Facebook
+(and should be on the archive). The game is big enough that you have to do
+a couple of POKE's before loading/running (to do the equivalent of PCLEAR 0):
+  https://www.facebook.com/groups/2359462640/posts/10161102378487641/
+
+5) Matt Darr has done a 2nd update to his catching game- adding levels of
+play (after adding color and new animations previously):
+  https://www.facebook.com/groups/2359462640/posts/10161099656167641/
+He also started making a Lunar Rescue game as well:
+  https://www.facebook.com/groups/2359462640/posts/10161103656852641/
+
+6) XperTek - the spanish YouTube channel that plays games on a real Coco
+2 with an amber monitor, played Fly By this week, a game originally from
+the Chromasette tape magnazine in Feb/Mar of 1983:
+  https://youtu.be/hHzncF5iKEY?si=yrJaAAs5rU49hvwR&t=42
+
+Speak your mind! Let us know what you think at:
+==============================================================================
+    feedback at TheCoCoNation.com
+
+Get connected with more of the CoCo, Dragon and MC-10 community here:
+==============================================================================
+    https://thecoconation.com/community/

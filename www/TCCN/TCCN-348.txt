@@ -1,0 +1,261 @@
+The Coco Nation News stories for Episode 348, January 27, 2024
+===================================================================
+Collected by L. Curtis Boyle
+
+Special Guests today:
+---------------------
+NONE
+
+Interviews schedule:
+--------------------
+- February 3 (NOTE DATE CHANGE) Glen Dahlgren comes back - he has the final
+book in his Chaos series coming out, and possibly some further Coco stuff
+as well.
+  https://mysteriumstoryworks.substack.com/p/ready-to-enter-the-realm-of-gods
+
+
+Upcoming conventions/trade shows of interest to Coco people:
+------------------------------------------------------------
+VCF SoCal: Feb 17-18, 2024 in Orange, California
+Hotel Fera - Events Center
+100 The City Drive, Orange, CA 92868
+  https://vcfsocal.com/index.html
+It should be mentioned that Thomas Cherryhomes will be a speaker at the
+show, going over Fujinet - including the Coco version that is currently
+a work in progress. Randy Kindig is also confirmed as a speaker now as well.
+
+Interim Computer Festival: March 23-24.
+This is a pre-announcement for a retro computer show in the Pacific
+Northwest Area. Details (specifically where, etc.) will be coming later,
+and registration will open in January.
+  https://sdf.org/icf/
+
+The Indy Classic Computer & Gaming Expo is April 13-14 in Indianapolis.
+Crowne Plaza
+Randy Kindig of the Floppy Days podcast helps with this one - and he was
+our guest not too far back.
+  https://indyclassic.org/
+
+CocoFest: May 4-5, 2024 in Carol Stream, Illinois (near Chicago)
+Holiday Inn & Suites
+  https://www.glensideccc.com/cocofest/
+Table bookings (3 left in the main hall):
+  https://www.tandylist.com/
+
+BoatFest 3: June 14-16, 2024
+Social Event Space
+Hurricane, WV
+ 
+https://www.ticketsource.us/boatfest2024/boatfest-retro-computer-expo-2024/e-raedpb
+
+VCF SouthWest: June 14-16, 2024 (same weekend as BoatFest)
+Davidson-Gundy Alumni Center at University of Texas - Dallas
+Dallas, Texas
+  https://www.vcfsw.org/
+UPDATES:
+Also this year they are doing "Shows within the Show", and one of those
+is a Tandy Assembly meetup:
+  (scroll down on the main page)
+Jeff Wires (the host of Chronologically Gaming) is also one of the speakers
+at VCF-SW this year!
+Speakers list:
+  https://www.vcfsw.org/speakers
+
+Tandy Assembly for 2024 has been announced for Sep 27-29, 2024.
+Courtyard by Marriott Springfield
+Springfield, Ohio
+  http://www.tandyassembly.com/
+
+
+Coco 1/2/3 (and multi-platform)
+-------------------------------
+1) CocoTown released a video showing how access the full 64K of RAM in a Coco
+1/2/3 - and how to be able to access it for extra screen images from BASIC:
+  https://youtu.be/PQSmJVuza4U?si=bGRx8aZuxnBSaqgG
+He also released a video about MAME and screen aspect ratios, particularly
+with his patch to MAME, and compares them with real hardware:
+  https://youtu.be/gSKKVe1lnPI?si=LwAm3PzN1uKFV8Ue
+
+2) George Janssen posted lesson 7 of his assembly language tutorial for the
+6809 and the Coco 3, following up on last weeks graphics starfield demo with
+the full version doing up to 128 stars, with speed and direction controls
+(my mistake last week - I thought he had put the code up for the 128 star
+version in the lesson, but it was just the single star routine). As usual,
+you can download the source from his channel on the Coco Discord, but
+if you did type in last weeks lesson, this one uses that code as a base,
+so you don't have to type in the whole thing from scratch:
+  https://youtu.be/VqKkHi2Cbxc?si=3NWUHz58sBPPBNCf
+
+3) TRS-80 Retro Programing on YouTube did another update about Coco Ultimate
+- "updates and nuances":
+  https://youtu.be/hHf-EKIDqFI?si=FivQBOl2i7dcIWDf
+And a quick no commentary video showing the fighter and wizard walking in
+a train:
+  https://youtu.be/CuGwCmFu5d4?si=R-owK23YYFV86T4-
+
+4) Keith March let me know that he has a github set up with hardware files
+for the IMS MM/1 computer, as well as links to hardware that will work
+with it (including the Blue SCSI from Joe's Computer Museum, originally
+designed for the older Mac's):
+  https://github.com/HomerKH19/MM1-Updates
+
+5) Allen Huffman did multiple posts this week on his subethasoftware website:
+Tank 8x8 graphics demo - using Get/Put buffers with "erase the back end
+of a move" built into the buffer to make it both slightly faster overall
+and to remove flicker. He also added tire tracks and some sound. These
+were all based on viewer suggestions:
+ 
+https://subethasoftware.com/2024/01/20/tank-8x8-with-no-flicker-tracks-and-sound/
+  https://youtu.be/pV6_faXChGo?si=x6RANP540POCbzO_
+Carlos Comacho posted a cool little program for the BBC Micro that builds a
+graphic screen of galaxies, and put out a challenge to Coco people to make
+a Coco version of it. Allen did a blog post of his attempt (including some
+things that are different between BBC BASIC and Microsoft Extended BASIC),
+but it didn't quite work, so he asked for help. He had 44 comments as of
+this morning.
+ 
+https://subethasoftware.com/2024/01/19/porting-a-bbc-micro-galaxy-program-to-the-coco/
+Original Facebook post - note that a conversion that works (but the result
+is different due to the different ways RND works) by Paul Shoemaker does
+appear in the comments - both a picture & the sourcecode.
+  https://www.facebook.com/groups/2359462640/permalink/10161121702617641/
+As kind of a follow up to the Galaxy porting, he showed how to duplicate
+the function of the BBC BASIC's LN using LOG (the BBC & BASIC09 support
+both commands):
+ 
+https://subethasoftware.com/2024/01/22/getting-ln-in-basic-on-a-machine-that-only-has-log/
+Allen also found the source for his Dr. Who Demo program who wrote back
+in 1986 - which includes multi-voice music he made in Musica himself
+by ear. He used aliases in the credits, being worried about copyright
+infringement for either/both the logo and the music:
+  https://subethasoftware.com/2024/01/23/1986-doctor-who-demo-source-found/
+He also did a followup on an older article on using Hex values instead of
+decimal within Extended BASIC. Hex values are quicker to convert to the
+internal floating point format than decimal, so he wrote a test program
+to quantify the speed difference. Quite noticeable is the jump in speed
+once decimal numbers hit 2 digits (and that just a "." for zero is still
+faster than hex):
+ 
+https://subethasoftware.com/2024/01/25/how-much-faster-is-hex-versus-decimal-on-the-coco/
+Allen also did some posts to Facebook only - one was to compare the
+composite and RGB colors for the basic 8 colors in XRoar (Coco 3) and
+XRoar's composite Coco 1/2:
+  https://www.facebook.com/groups/2359462640/posts/10161130966272641/
+Another was going through the way BASIC handles colors in the various
+PMODE resolutions and SCREEN color sets - and how they were made to match
+low res color #'s so it would be easier to remember which color was what:
+  https://www.facebook.com/groups/2359462640/posts/10161126803027641/
+
+6) Carlos Camacho came across an interesting French article about using
+the GCC C (version 2.95.3) compiler on the Thomson MO7/MO8 computers
+(which also used 6809's) from France. He includes the original French
+article and an english translation in a ZIP file that he uploaded to the
+Coco Facebook group:
+  https://www.facebook.com/groups/2359462640/posts/10161130841737641/
+
+7) Erico Monteiro did a blog post (including animated GIF's) showing his
+scene generator for Allen Huffman's 8x8 tank program we mentioned earlier
+(he even did a live stream on Discord this past week showing him developing
+some alias color 8x8 sprites):
+  https://fuedhq.blogspot.com/2024/01/pmode-4-artifact-colored-8x8-tileset.html
+
+8) Thomas Cherryhomes (who is porting Fujinet to the Coco) wants to get
+some people trying the Fujinet hardware for early testing, and published
+a link to a github showing how to make one:
+  https://github.com/djtersteegc/Coco-FujiNet
+
+9) Eddie Malphrus found an old Coco cassette from PDPWARE in 1983 called
+"58 COCO PROGRAMS". It seems to be some PD, some magazine type-ins from the
+few he has tested. Does anyone here know anything about this compilation,
+or the company? (some more details and/or screenshots from programs on
+the tape in the comments):
+  https://www.facebook.com/groups/colorcomputer/posts/902782594670807/
+
+10) David Collins posted some updates about his homebrew 6309 based computer
+on hackster.io.
+  Starting the bus with an Arduino without a latch (covers bus arbitration):
+ 
+https://hackaday.io/project/193108-hb63c09m-mini-itx-63c09-form-factor-computer/log/227038-sharing-the-bus-with-an-arduino-without-a-latch
+Starting to work on the firmware (on his github):
+  https://github.com/lindoran/HB63C09
+
+11) Ciaran Anscomb has announced the release of XRoar 1.5, and posted
+about it in the World of Dragon forums:
+  https://archive.worldofdragon.org/phpBB3/viewtopic.php?f=5&t=11152
+Download at:
+  https://www.6809.org.uk/xroar/
+
+12) 8bitsinthebasement on YouTube released a new video (for the first time
+in awhile), where he goes over using the CocoSDC without SDC Explorer:
+  https://youtu.be/6WWOEo3nMn0?si=98unMSs17c9JWHKi
+
+
+
+MC-10
+-----
+1)
+
+
+Dragon 32/64
+------------
+1) John Whitworth (user "dublevay" on the World of Dragon forums) posted
+that he has started a github repository for the Dragon Beta:
+  https://archive.worldofdragon.org/phpBB3/viewtopic.php?f=9&t=11044
+github itself:
+  https://github.com/dragonplus-electronics/Dragon-Beta
+
+
+Game On news (all Coco related platforms):
+==========================================
+1) James Gerrie did multiple game conversions for the MC-10 this week:
+Jumbled Letters, originally by Vivian & Claude Barber for the Alice in 1984
+(translate from French to English):
+  https://youtu.be/r2K0DlmgKi4?si=ibJTt6uGtmSS4OEp
+Slither, a snake game originally for the Coco from Color Computer News
+November 1982 (and allows diagonal movement):
+  https://youtu.be/ji_Nb-WGdWQ?si=cUSqttzhu6Mvkw3G
+Killerbot, a real time version of Chase! originally by David Ahl (of
+Creative Computing fame) with 2 skill levels, ported from the early
+Aardvark-80 Coco 4K commercial game written by Rodger Olsen in 1981:
+  https://youtu.be/p5Wa2XNXFJk?si=KTt9IArOd98yROWi
+
+2) Howard Billson posted a video to the Coco Facebook group showing a
+real time experience of loading the official Frogger on a real Coco,
+as we would have done back in the day:
+  https://www.facebook.com/groups/2359462640/posts/10161130654487641/
+
+3) While not "news" per se, Carlos Camcho found a copy of an interesting
+article/interview from ANTIC magazine's November 1985 issue, talking with
+Robert Lech and Troy Dahlman on both their C.O.L.R graphics editor and
+their official Joust port for the Atari ST. But it also goes through their
+earlier history with their company, The Rugby Circle, and some of their
+Coco development from that time - including Buzzard Bait (sold through
+Tom Mix Software):
+  https://www.atarimagazines.com/v4n7/colrobjecteditor.html
+
+4) Chronologically Gaming covered some more Coco and Dragon software this
+week, dating from September of 1982:
+Circus Adventure (Dragon 32)
+  https://www.youtube.com/live/V7vHV7-rsO0?si=7M8aROqurvmUIdAh&t=1356
+Clowns & Balloons (Coco)
+  https://www.youtube.com/live/V7vHV7-rsO0?si=FK7BfedvwNv5MtC9&t=1541
+Color Golf (Tom Mix) (Coco) - this shows a revised version with PMODE 4
+lowercase instructions, but is essentially the same as the 1982 original
+for gameplay
+  https://www.youtube.com/live/V7vHV7-rsO0?si=iowQtlQ6JH5eJEvs&t=2045
+Danger Island (Dragon 32)
+  https://www.youtube.com/live/V7vHV7-rsO0?si=Rzbn7ybM4sgpBioO&t=2677
+
+5) YouTube spanish channel "El Blog de The Punisher" (The Punisher Live Blod)
+episode 78 features the Dragon 32/64 for a 3 hour stream, playing a variety
+of games (I did notice that his emulator does artifact colors - but only the
+TANO Dragon's in North America did that. It also seems to be running slow):
+  https://youtu.be/a0M_6hd57zc?si=_vb9ejJq8IWHEFGy
+
+Speak your mind! Let us know what you think at:
+==============================================================================
+    feedback at TheCoCoNation.com
+
+Get connected with more of the CoCo, Dragon and MC-10 community here:
+==============================================================================
+    https://thecoconation.com/community/

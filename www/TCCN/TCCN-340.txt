@@ -1,0 +1,175 @@
+The Coco Nation News stories for Episode 340, November 25, 2023
+===================================================================
+Collected by L. Curtis Boyle
+
+Interviews schedule:
+--------------------
+- Double interview with Joe Ahern & David McNally, creators of the
+newsletter/magazine "TRS-80 Computing (renamed "Color Computing" late in
+it's life) back in June 1987 as pair of 13 year olds.
+Complete run of their magazine:
+  https://colorcomputerarchive.com/repo/Documents/Magazines/TRS-80%20Computing/
+
+- December 9 we have an interview with Mike Snyder, who authored tons of
+games for T&D magnazine for both the Ccoo 1/2 and the Coco 3 (some are on my
+site already) between 1987 and 1991. He still has his own website if you want
+to get familiar with the games he wrote and think of questions to ask him.
+  https://www.cocoquest.com/
+
+- January 6 we have a double interview with Doug Masten & Glen Dahlgren,
+covering the Coco 3 game The Contras. We are also planning on Glen coming
+on later in January to talk about his latest fantasy novel and catch up
+on how his series is going.
+
+
+Upcoming conventions/trade shows of interest to Coco people:
+------------------------------------------------------------
+SC in Brazil is going on today, and Erico Monteiro posted a couple of
+photos. We are hoping to have him on live later, time permitting.
+
+While not a Coco show as you can tell by the title, "World of Commodore
+2023", Frank of RetroRewind (who is the sponsor) wanted to mention that
+they will be selling Coco items at the show including CocoSDC's at the show
+December 2-3 in Mississauga, Ontario, Canada.. and with show special prices:
+  https://www.tpug.ca/world-of-commodore/world-of-commodore-2023/
+
+VCF SoCal: Feb 17-18, 2024 in Orange, California
+Hotel Fera - Events Center
+100 The City Drive, Orange, CA 92868
+  https://vcfsocal.com/index.html
+
+CocoFest: May 4-5, 2024 in Carol Stream, Illinois (near Chicago)
+Holiday Inn & Suites
+  https://www.glensideccc.com/cocofest/
+
+BoatFest 3: June 14-16, 2024
+Social Event Space
+Hurricane, WV
+ 
+https://www.ticketsource.us/boatfest2024/boatfest-retro-computer-expo-2024/e-raedpb
+
+
+Coco 1/2/3 (and multi-platform)
+-------------------------------
+1) CocoTown returns with the start of his trip the sourcecode for the Coco
+portions of MAME:
+  https://youtu.be/VPFF8jn866A?si=9Vv1ejFk47iNqKpw
+
+2) George Janssen put out a 2 parter for his 6809 assembly language series:
+Part 1: Coco 3 Hi Res text screen palettes and attributes:
+  https://youtu.be/C4t4jgE_gsA?si=uTrhrWMHbAxDv-sM
+Part 2:
+  https://youtu.be/yeNVnUM_mhk?si=ziA1vXfw-LkoL_-x
+
+3) Michael Furman posted a video of using Rick Ulland's CocoIO Ethernet
+card on a Coco 3 (it wasn't working reliably on all Coco 3's until recently)
+after installing the updated GAL chip:
+  https://youtu.be/Fm6HlZKdDII?si=FqExzmlj3uNjXYYg
+
+4) TRS-80 Retro Programing posted another update video for Tales of Suburbia,
+as well as a brief update on his plans for Coco Ultimate. He also mentions
+that he caught the end of our GShell CocoTech episode this past week:
+  https://youtu.be/XJTuEqhngVM?si=Eo0LwKesS4_or-Qf
+
+5) RetroTech Dan put up a video showing how he 3D printed a piece to help
+fix the mount for the spacebar's stabilizer bar on his Coco keyboard to
+repair it:
+  https://youtu.be/slJgrT81QW0?si=Xr6i3qQxXcC8W_Mr
+
+6) Simon Jonassen posted a screenshot update of his PMODE graphics online
+editor, showing some added icons in the drop down menu:
+  https://www.facebook.com/groups/2359462640/posts/10161039567082641/
+He also added support for varying screen resolutions (both 2 and 4 color
+modes):
+  https://www.facebook.com/groups/2359462640/posts/10161047409782641/
+
+7) Neil Blanchard on Facebook says that he has finally finished fulfilling
+all pre-orders for his Gamester professional joystick product, and as
+of earlier this week had 3 left in stock and is now taking new orders
+as well. This uses arcade professional joysticks and buttons, solid wood
+construction (with a variety of woods and finishes). These work on both
+the Coco and Tandy 1000's, so if you have both machines, you can move the
+joystick between them:
+  https://www.facebook.com/groups/2359462640/posts/10161039963762641/
+
+
+MC-10
+-----
+1)
+
+
+Dragon 32/64
+------------
+1) Italian YouTube channel "65C02 movies" did a 15 minute video about the
+Dragon 32/64 - the title translates roughly to "The fleeting appearance
+of the unknown British home computer Dragon 32/64". You will have to turn
+Close Caption on, and then click the settings wheel to translate Italian
+to your native language. It basically does a quick rundown going through
+the BASIC manual and the Programming Your Dragon book, and then a quick
+lookthru of 2 issues of Dragon User magazine, including the first issue
+(if the translation is correct, he has some of his facts wrong, though):
+  https://youtu.be/ptU4f5vd2eA?si=Hlx_pgOCGK3KoHlO
+
+2) David Gisbert on the Dragon Facebook group posted some photos of both
+his cute dog and a Spanish Dragon disk drive brochure:
+  https://www.facebook.com/groups/dragon32/posts/3592189067707403/
+
+3) Julian Brown has a few more (as of a few days ago) Dragon 32 Revision 2.1
+motherboards available that he is selling. He sells the board by itself,
+and offers a package with all components (if they are available at the
+time - some sockets have been out of stock, I understand). This version
+of the board allows upgrading to full 64K of RAM:
+  https://www.facebook.com/groups/dragon32/posts/3591199687806341/
+He also has been fixing up quality and color issues with his video
+output from his NTSC daughterboard with a few tweaks, with much improved
+results (color screenshot in the comments). He has technical notes in the
+Hardware->Dragon channel on the Coco Discord as well:
+  https://www.facebook.com/groups/dragon32/posts/3593470124245964/
+
+4) This addresses the Coco as well, but as we mentioned last week, Ciaran
+(Sixxie) is working on a replacement for the SAM chip (for Coco 1's, 2's
+as well as Dragon 32's and 64's). He has posted more detail on the World
+of Dragon forums, including photos:
+  https://archive.worldofdragon.org/phpBB3/viewtopic.php?f=9&t=11144
+His latest screenshot of running a Diagnostic cart on a machine so equipped:
+  https://archive.worldofdragon.org/phpBB3/viewtopic.php?f=9&t=11144&start=10
+He also put up a video showing the vertical hardware scrolling trick that
+he has written some demo's for on a real SAM. As he says, it's still a
+little jittery, but getting close:
+  http://www.6809.org.uk/tmp/samx4-wip/glitchy-less.mp4
+
+5) Richard Harding in the Dragon Facebook group posted a link to a video
+of a news segment from Wales at the time that Dragon Data was starting to
+have problems. He hints that more are coming as well:
+  https://www.facebook.com/groups/dragon32/posts/3593367984256178/
+
+
+Game On news (all Coco related platforms):
+==========================================
+1) The optimized versions of Paper Route are now on the Color Computer
+Archive. The 6309 version in particular speeds it up about 15-20%.
+  https://colorcomputerarchive.com/search?q=paper+route
+
+2) Inufuto has released their next game on the Coco's called "Yewdow",
+and the MC-10, Coco 1/2 and Coco 3 versions are all available as of
+November 21-23. IJKM or arrow keys to move, Space or Shift to leave a
+directional arrow.:
+Video & download links (WAV files for cassette):
+Download (includes video demo links):
+  http://inufuto.web.fc2.com/8bit/yewdow/#coco
+
+3) John Hancock on YouTube put up a video called "Oddball Robocop Games
+You Might of Missed", and the last one he talks about is the Coco 3 release:
+  https://youtu.be/Ck6_r1X_TDA?si=zzsovIalxDXKdCw8&t=538
+
+4) Aaron of the Amigos has announced that the final Coco Show will be
+recording on Sunday, December 10th. They are now simulcasting on YouTube
+and Twitch as well.
+They also did their annual Thanks for Giving marathon stream (8 hours this
+year) covering various game consoles and home computers - including one
+Coco game. When they got to dinosaur games, they had to give Dino Wars a try:
+  https://www.youtube.com/live/igWkxfN-S_0?si=2WEwYnPMdrF0FF8A&t=14619
+
+Get connected with more of the CoCo, Dragon and MC-10 community here:
+=======================================
+https://thecoconation.com/community/
